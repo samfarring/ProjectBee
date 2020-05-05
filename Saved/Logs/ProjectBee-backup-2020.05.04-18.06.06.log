@@ -1,0 +1,1173 @@
+﻿Log file open, 05/02/20 19:07:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectBee
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.621278
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.02-18.07.18:269][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.02-18.07.18:269][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.02-18.07.18:269][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.02-18.07.18:269][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.02-18.07.18:269][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.05.02-18.07.18:269][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.02-18.07.18:269][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.02-18.07.18:269][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.02-18.07.18:269][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.02-18.07.18:269][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.02-18.07.18:269][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.02-18.07.18:270][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.02-18.07.18:270][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.02-18.07.18:279][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.02-18.07.18:279][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.02-18.07.18:280][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.02-18.07.18:281][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.02-18.07.18:281][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.02-18.07.18:296][  0]LogHAL: Display: Platform has ~ 16 GB [17053364224 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.02-18.07.18:296][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.05.02-18.07.18:296][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.02-18.07.18:297][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.02-18.07.18:297][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.02-18.07.18:298][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.02-18.07.18:299][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.02-18.07.18:299][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.02-18.07.18:299][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.02-18.07.18:299][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.02-18.07.18:299][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.02-18.07.18:299][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.02-18.07.18:299][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.02-18.07.18:299][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.02-18.07.18:299][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.02-18.07.18:299][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-18.07.18:299][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.02-18.07.18:299][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.02-18.07.18:299][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.02-18.07.18:300][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.02-18.07.18:300][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.02-18.07.18:300][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.02-18.07.18:301][  0]LogInit: Computer: DESKTOP-L8CEVL5
+[2020.05.02-18.07.18:301][  0]LogInit: User: but14
+[2020.05.02-18.07.18:301][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.02-18.07.18:301][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.02-18.07.18:302][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.02-18.07.18:302][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.02-18.07.18:302][  0]LogMemory: Process Physical Memory: 97.23 MB used, 97.24 MB peak
+[2020.05.02-18.07.18:302][  0]LogMemory: Process Virtual Memory: 88.95 MB used, 88.95 MB peak
+[2020.05.02-18.07.18:302][  0]LogMemory: Physical Memory: 4691.80 MB used,  11571.55 MB free, 16263.36 MB total
+[2020.05.02-18.07.18:302][  0]LogMemory: Virtual Memory: 4642.23 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.05.02-18.07.18:464][  0]LogInit: Using OS detected language (en-GB).
+[2020.05.02-18.07.18:464][  0]LogInit: Using OS detected locale (en-GB).
+[2020.05.02-18.07.18:468][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.05.02-18.07.18:798][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.02-18.07.18:885][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.02-18.07.18:885][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.02-18.07.19:650][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.02-18.07.19:650][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.02-18.07.19:766][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.05.02-18.07.19:766][  0]LogD3D11RHI:       6052/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.02-18.07.19:807][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.05.02-18.07.19:807][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.02-18.07.19:811][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.02-18.07.19:811][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.02-18.07.19:811][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.02-18.07.19:848][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.02-18.07.19:848][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.02-18.07.19:849][  0]LogWindows: EnumDisplayDevices:
+[2020.05.02-18.07.19:849][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.05.02-18.07.19:849][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.05.02-18.07.19:850][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.05.02-18.07.19:850][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.05.02-18.07.19:851][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.05.02-18.07.19:851][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.05.02-18.07.19:851][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.05.02-18.07.19:851][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.05.02-18.07.19:851][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.05.02-18.07.19:851][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.05.02-18.07.19:851][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.05.02-18.07.19:851][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.05.02-18.07.19:913][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.02-18.07.19:949][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.02-18.07.19:952][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.02-18.07.19:952][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.02-18.07.19:964][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.02-18.07.21:406][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.02-18.07.21:429][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.02-18.07.21:448][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.02-18.07.21:468][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.02-18.07.21:501][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.02-18.07.21:716][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.02-18.07.21:767][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.02-18.07.21:795][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.02-18.07.21:809][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.02-18.07.21:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.02-18.07.21:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.02-18.07.21:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.02-18.07.21:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.02-18.07.21:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.02-18.07.21:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.02-18.07.21:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.02-18.07.21:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.02-18.07.21:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.02-18.07.21:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.02-18.07.21:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.02-18.07.21:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.02-18.07.21:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.02-18.07.21:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.02-18.07.21:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.02-18.07.21:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.02-18.07.21:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.02-18.07.21:929][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.02-18.07.21:934][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.02-18.07.22:090][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.02-18.07.22:090][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.02-18.07.22:121][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.02-18.07.22:121][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.02-18.07.22:137][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.02-18.07.22:156][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.02-18.07.22:176][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.02-18.07.22:197][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.02-18.07.22:253][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.02-18.07.22:253][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.02-18.07.22:253][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.02-18.07.22:278][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.02-18.07.22:440][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../../Users/but14/Documents/GitHub/ProjectBee/Intermediate/Shaders/WorkingDirectory/11268/).
+[2020.05.02-18.07.22:440][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/but14/AppData/Local/Temp/UnrealShaderWorkingDir/1DE4810A430AB5099C41C99EC48C76CB/'.
+[2020.05.02-18.07.22:447][  0]LogXGEController: Cleaning working directory: C:/Users/but14/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.02-18.07.22:447][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.02-18.07.22:447][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.02-18.07.22:447][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.02-18.07.23:561][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.02-18.07.23:784][  0]LogDerivedDataCache: Loaded boot cache 0.22s 71MB C:/Users/but14/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.02-18.07.23:784][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/but14/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.05.02-18.07.23:784][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/but14/Documents/GitHub/ProjectBee/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.02-18.07.23:784][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.02-18.07.23:784][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/but14/Documents/GitHub/ProjectBee/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.02-18.07.23:784][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.02-18.07.23:803][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.02-18.07.23:803][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.02-18.07.23:803][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.02-18.07.23:816][  0]LogDerivedDataCache: Using Local data cache path C:/Users/but14/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.02-18.07.23:816][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.02-18.07.23:816][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.02-18.07.23:845][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.02-18.07.23:855][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.02-18.07.23:861][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.02-18.07.24:106][  0]LogAssetRegistry: FAssetRegistry took 0.0527 seconds to start up
+[2020.05.02-18.07.24:797][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.02-18.07.25:012][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.02-18.07.25:012][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.02-18.07.25:013][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.02-18.07.25:013][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.02-18.07.25:013][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.02-18.07.25:173][  0]LogNetVersion: ProjectBee 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2863724400)
+[2020.05.02-18.07.26:297][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.054971 seconds
+[2020.05.02-18.07.26:306][  0]LogUObjectArray: 42206 objects as part of root set at end of initial load.
+[2020.05.02-18.07.26:306][  0]LogUObjectAllocator: 7325256 out of 0 bytes used by permanent object pool.
+[2020.05.02-18.07.26:306][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.02-18.07.29:292][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.02-18.07.29:315][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.02-18.07.29:558][  0]SourceControl: Source control is disabled
+[2020.05.02-18.07.29:559][  0]SourceControl: Source control is disabled
+[2020.05.02-18.07.29:577][  0]SourceControl: Source control is disabled
+[2020.05.02-18.07.29:591][  0]SourceControl: Source control is disabled
+[2020.05.02-18.07.30:012][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.02-18.07.30:242][  0]LogOcInput: OculusInput pre-init called
+[2020.05.02-18.07.31:427][  0]LogEngine: Initializing Engine...
+[2020.05.02-18.07.31:429][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.02-18.07.31:433][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2020.05.02-18.07.31:731][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.02-18.07.31:797][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.02-18.07.31:833][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.02-18.07.31:881][  0]LogInit: FAudioDevice initialized.
+[2020.05.02-18.07.31:881][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.02-18.07.32:158][  0]LogDerivedDataCache: Saved boot cache 0.28s 71MB C:/Users/but14/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.02-18.07.32:164][  0]LogInit: Texture streaming: Enabled
+[2020.05.02-18.07.32:220][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.02-18.07.32:282][  0]LogInit: Transaction tracking system initialized
+[2020.05.02-18.07.32:399][  0]BlueprintLog: New page: Editor Load
+[2020.05.02-18.07.32:894][  0]LocalizationService: Localization service is disabled
+[2020.05.02-18.07.33:101][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview1'
+[2020.05.02-18.07.33:101][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview1'
+[2020.05.02-18.07.33:101][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview1.ThirdPersonOverview1_C'
+[2020.05.02-18.07.33:481][  0]LogFileCache: Scanning file cache for directory 'C:/Users/but14/Documents/GitHub/ProjectBee/Content/' took 0.01s
+[2020.05.02-18.07.33:481][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.02-18.07.33:482][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.02-18.07.34:310][  0]SourceControl: Source control is disabled
+[2020.05.02-18.07.34:311][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.02-18.07.34:313][  0]LightingResults: New page: Lighting Build
+[2020.05.02-18.07.34:327][  0]MapCheck: New page: Map Check
+[2020.05.02-18.07.34:327][  0]LightingResults: New page: Lighting Build
+[2020.05.02-18.07.34:359][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.05.02-18.07.34:529][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.05.02-18.07.34:561][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.02-18.07.34:591][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.05.02-18.07.34:591][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.02-18.07.34:591][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2020.05.02-18.07.34:591][  0]LogFileHelpers: Loading map 'Template_Default' took 0.281
+[2020.05.02-18.07.34:760][  0]LogCollectionManager: Loaded 0 collections in 0.002618 seconds
+[2020.05.02-18.07.34:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/but14/Documents/GitHub/ProjectBee/Saved/Collections/' took 0.01s
+[2020.05.02-18.07.34:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/but14/Documents/GitHub/ProjectBee/Content/Developers/but14/Collections/' took 0.01s
+[2020.05.02-18.07.34:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/but14/Documents/GitHub/ProjectBee/Content/Collections/' took 0.00s
+[2020.05.02-18.07.34:817][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.05.02-18.07.34:832][  0]LogContentBrowser: Native class hierarchy populated in 0.0130 seconds. Added 2732 classes and 659 folders.
+[2020.05.02-18.07.34:852][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.02-18.07.34:859][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:865][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:867][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:870][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:873][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:875][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:878][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:880][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:883][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:889][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:891][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:895][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:898][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:902][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:906][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:913][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:922][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:926][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.34:928][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.02-18.07.35:075][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.02-18.07.35:118][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-18.07.35:128][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-18.07.35:136][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-18.07.35:143][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-18.07.35:163][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.05.02-18.07.36:895][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.05.02-18.07.36:930][  0]LogSlate: Took 0.001401 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-18.07.36:935][  0]LogSlate: Took 0.001891 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-18.07.36:939][  0]LogSlate: Took 0.001771 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-18.07.37:052][  0]LogRenderer: Reallocating scene render targets to support 1208x964 Format 10 NumSamples 1 (Frame:1).
+[2020.05.02-18.07.37:277][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.02-18.07.37:277][  0]LogLoad: (Engine Initialization) Total time: 27.16 seconds
+[2020.05.02-18.07.37:277][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.02-18.07.37:339][  0]LogAssetRegistry: Asset discovery search completed in 13.2595 seconds
+[2020.05.02-18.07.37:341][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.05.02-18.07.37:341][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2020.05.02-18.07.37:345][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.02-18.07.41:153][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-18.08.12:635][678]LogSlate: Took 0.007380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-18.08.12:644][678]LogAssetEditorManager: Opening Asset editor for Material /Game/ConnorStuff/PostProcess/CelShad_PostProcess_2.CelShad_PostProcess_2
+[2020.05.02-18.08.12:650][678]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.08.13:072][678]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.08.13:091][678]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.08.13:122][678]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.02-18.08.13:160][678]LogSlate: Took 0.001333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-18.08.14:582][746]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.02-18.08.17:155][963]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.05.02-18.08.17:155][963]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.05.02-18.08.17:155][963]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.08.17:155][963]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.10.53:562][909]LogSlate: Window 'CelShad_PostProcess_2' being destroyed
+[2020.05.02-18.10.55:308][112]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.10.55:332][113]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.02-18.10.56:456][215]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.02-18.10.56:913][252]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.10.57:301][277]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.02-18.10.58:106][347]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.10.58:130][347]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.10.58:142][347]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.10.59:406][451]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.10.59:406][451]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.10.59:406][451]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.02-18.11.11:150][209]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.11.11:188][210]LogSlate: Took 0.001572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.02-18.11.11:874][271]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.11.11:874][271]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.11.11:874][271]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.02-18.11.12:989][400]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.11.13:816][462]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.11.13:816][462]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.11.13:816][462]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.02-18.11.14:881][588]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.11.16:695][772]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.11.16:703][772]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.11.17:361][826]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.11.17:361][826]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.11.17:361][826]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.02-18.11.18:463][956]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.11.20:721][201]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.11.20:731][201]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.11.22:051][249]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.11.22:051][249]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.11.22:052][249]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.02-18.11.30:848][110]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.11.31:790][156]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.11.31:790][156]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.11.31:790][156]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.02-18.11.35:033][408]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.11.37:213][647]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.11.37:213][647]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.11.37:213][647]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.02-18.11.37:892][725]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.11.38:537][779]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.11.38:537][779]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.11.38:537][779]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.02-18.11.40:186][971]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.11.42:585][233]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.11.42:585][233]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.11.42:586][233]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.02-18.11.55:756][149]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.11.56:353][196]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.11.56:353][196]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.11.56:353][196]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.02-18.11.57:450][325]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.11.58:748][456]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.11.59:393][507]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.11.59:393][507]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.11.59:393][507]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.02-18.12.04:728][132]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.12.04:739][132]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.12.05:443][187]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.12.05:444][187]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.12.05:444][187]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.02-18.12.14:788][904]LogActorFactory: Actor Factory created Cylinder
+[2020.05.02-18.12.15:716][  6]LogActorFactory: Actor Factory created Cylinder
+[2020.05.02-18.12.20:070][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-18.12.20:176][480]LogActorFactory: Actor Factory created Cube
+[2020.05.02-18.12.21:035][549]LogActorFactory: Actor Factory created Cube
+[2020.05.02-18.12.23:241][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-18.12.26:438][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.05.02-18.12.30:294][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-18.12.30:404][471]LogActorFactory: Actor Factory created Sphere
+[2020.05.02-18.12.30:957][518]LogActorFactory: Actor Factory created Sphere
+[2020.05.02-18.12.33:797][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-18.12.42:678][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-18.12.42:737][664]MapCheck: New page: Map Check
+[2020.05.02-18.12.42:762][664]Cmd: MAP REBUILD ALLVISIBLE
+[2020.05.02-18.12.42:763][664]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.05.02-18.12.42:846][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.05.02-18.12.42:860][664]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2020.05.02-18.12.42:886][664]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.02-18.12.42:894][664]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.02-18.12.45:254][664]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.05.02-18.12.45:254][664]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.02-18.12.45:254][664]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.02-18.12.45:254][664]TextureStreamingBuild: Display: Compiling optional shaders took 2.402 seconds.
+[2020.05.02-18.12.45:261][664]LogLevel: Display: Export Material TexCoord Scales took 0.007 seconds.
+[2020.05.02-18.12.45:268][664]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2020.05.02-18.12.45:289][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.05.02-18.12.45:292][664]LightingResults: New page: Lighting Build - 2 May 2020 20:12:45
+[2020.05.02-18.12.45:349][664]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.05.02-18.12.45:426][664]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.05.02-18.12.45:446][664]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.05.02-18.12.46:498][664]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.05.02-18.12.46:498][664]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11268
+[2020.05.02-18.12.53:199][664]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.05.02-18.12.53:200][664]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.05.02-18.12.53:200][664]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.05.02-18.12.53:200][664]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.05.02-18.12.53:200][664]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.05.02-18.12.53:200][664]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.05.02-18.12.53:507][664]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.05.02-18.12.53:508][664]MapCheck: New page: Untitled_1 - 2 May 2020 20:12:53
+[2020.05.02-18.12.53:508][664]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.05.02-18.12.53:509][664]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.071ms to complete.
+[2020.05.02-18.12.53:532][664]LogEditorBuildUtils: Build time 0:10
+[2020.05.02-18.12.53:874][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.05.02-18.12.55:821][736]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-18.12.55:832][736]LogSlate: Window 'Message Log' being destroyed
+[2020.05.02-18.12.56:084][755]Job is a success!
+[2020.05.02-18.12.56:161][756]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.022s
+[2020.05.02-18.12.56:161][756]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.05.02-18.12.56:161][756]LogVolumetricLightmapImport:      BrickData 35x5x5 = 0.0Mb
+[2020.05.02-18.12.56:161][756]LogVolumetricLightmapImport:      Bricks at Level
+[2020.05.02-18.12.56:161][756]LogVolumetricLightmapImport:          0: 14.3% covering 100.0% of volume
+[2020.05.02-18.12.56:161][756]LogVolumetricLightmapImport:          1: 14.3% covering 1.6% of volume
+[2020.05.02-18.12.56:161][756]LogVolumetricLightmapImport:          2: 71.4% covering 0.1% of volume
+[2020.05.02-18.12.56:212][756]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.05.02-18.12.56:212][756]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.05.02-18.12.56:212][756]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.05.02-18.12.56:212][756]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.05.02-18.12.56:212][756]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.05.02-18.12.56:212][756]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2020.05.02-18.12.56:245][756]Lightmass on DESKTOP-L8CEVL5: 1.22 sec total, 189 ms importing, 44 ms setup, 408 ms photons, 529 ms processing, 0 ms extra exporting [5/5 mappings]. Threads: 3.53 sec total, 315 ms processing.
+[2020.05.02-18.12.56:249][756]LogStaticLightingSystem: Untitled_1_BuiltData storing lightmap data for 5 meshes in 2 LightmapResourceClusters (2.5 Meshes per cluster).
+[2020.05.02-18.12.56:275][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.05.02-18.12.56:286][756]LogStaticLightingSystem: Illumination: 10.9 sec (25 ms encoding lightmaps, 8 ms encoding shadowmaps)
+[2020.05.02-18.12.56:286][756]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.05.02-18.12.56:286][756]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.05.02-18.12.57:208][756]DumpUnbuiltLightIteractions
+[2020.05.02-18.12.57:209][756]Lights with unbuilt interactions: 0
+[2020.05.02-18.12.57:209][756]
+[2020.05.02-18.12.57:209][756]Primitives with unbuilt interactions: 0
+[2020.05.02-18.12.57:485][757]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.05.02-18.12.57:485][757]MapCheck: New page: Untitled_1 - 2 May 2020 20:12:57
+[2020.05.02-18.12.57:486][757]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.497ms to complete.
+[2020.05.02-18.13.03:415][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-18.13.19:517][225]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.13.20:457][296]LogMaterialEditor: Applying material CelShad_PostProcess_2
+[2020.05.02-18.13.20:866][296]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.13.20:928][296]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.13.20:941][296]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.13.20:976][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.05.02-18.13.20:977][296]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.05.02-18.13.21:000][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.05.02-18.13.21:168][304]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.02-18.13.23:037][492]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.13.23:037][492]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.13.23:037][492]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.13.23:037][492]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.05.02-18.13.46:007][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.02-18.13.50:072][276]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.13.50:974][353]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.13.50:974][353]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.13.50:974][353]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.13.50:974][353]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.05.02-18.13.51:819][451]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.13.53:153][499]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.13.53:153][499]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.13.53:154][499]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.13.53:154][499]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.05.02-18.13.56:632][868]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.13.56:639][868]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.13.57:321][922]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.13.57:321][922]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.13.57:321][922]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.13.57:321][922]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.05.02-18.13.58:651][ 70]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.14.01:181][339]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.14.02:284][443]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.14.04:004][620]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.14.04:005][620]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.14.04:005][620]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.14.04:005][620]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.05.02-18.14.05:897][844]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.14.05:898][844]LogMaterial: Warning: /Engine/Transient.CelShad_PostProcess_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.02-18.14.05:898][844]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2020.05.02-18.14.05:899][844]MaterialEditorStats: Error: [SM5] (Node If) Missing If AGreaterThanB input
+[2020.05.02-18.14.07:133][986]LogMaterialEditor: Applying material CelShad_PostProcess_2
+[2020.05.02-18.14.16:864][986]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2020.05.02-18.14.27:263][420]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.14.27:264][420]LogMaterial: Warning: /Engine/Transient.CelShad_PostProcess_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.02-18.14.27:264][420]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2020.05.02-18.14.33:421][899]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.14.33:421][899]LogMaterial: Warning: /Engine/Transient.CelShad_PostProcess_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.02-18.14.33:421][899]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2020.05.02-18.14.36:310][238]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.14.36:311][238]LogMaterial: Warning: /Engine/Transient.CelShad_PostProcess_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.02-18.14.36:312][238]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2020.05.02-18.14.36:315][238]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.14.36:315][238]LogMaterial: Warning: /Engine/Transient.CelShad_PostProcess_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.02-18.14.36:315][238]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2020.05.02-18.14.39:881][395]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.14.39:883][395]LogMaterial: Warning: /Engine/Transient.CelShad_PostProcess_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.02-18.14.39:883][395]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2020.05.02-18.14.42:023][637]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.14.42:024][637]LogMaterial: Warning: /Engine/Transient.CelShad_PostProcess_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.02-18.14.42:024][637]LogMaterial: 	(Node If) Missing If ALessThanB input
+[2020.05.02-18.14.42:027][637]MaterialEditorStats: Error: [SM5] (Node If) Missing If ALessThanB input
+[2020.05.02-18.14.47:935][327]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.14.47:935][327]LogMaterial: Warning: /Engine/Transient.CelShad_PostProcess_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.02-18.14.47:935][327]LogMaterial: 	(Node If) Missing If ALessThanB input
+[2020.05.02-18.14.49:561][516]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.14.50:465][586]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.14.50:465][586]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.14.50:465][586]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.14.50:465][586]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.05.02-18.14.54:625][ 75]LogMaterialEditor: Applying material CelShad_PostProcess_2
+[2020.05.02-18.14.55:057][ 75]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.14.55:096][ 75]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.14.55:111][ 75]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.14.55:147][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.05.02-18.14.55:147][ 75]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.05.02-18.14.55:171][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.05.02-18.14.55:462][ 91]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.02-18.14.57:519][296]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.14.57:519][296]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.14.57:519][296]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.14.57:519][296]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.05.02-18.15.19:781][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-18.15.27:831][343]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.15.29:352][493]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.15.29:363][493]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.15.29:370][493]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.15.30:032][538]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.15.30:032][538]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.15.30:032][538]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.15.30:032][538]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.05.02-18.15.31:189][668]LogMaterialEditor: Applying material CelShad_PostProcess_2
+[2020.05.02-18.15.31:595][668]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.15.31:667][668]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.15.31:684][668]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.15.31:716][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.05.02-18.15.31:717][668]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.05.02-18.15.31:739][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.05.02-18.15.31:975][679]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.02-18.15.33:822][852]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.15.33:822][852]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.15.33:822][852]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.15.33:822][852]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.05.02-18.16.18:542][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-18.16.34:385][816]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.16.35:436][902]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.16.35:436][902]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.16.35:436][902]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.16.35:436][902]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.05.02-18.16.41:769][166]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.16.43:925][395]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.16.43:933][395]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.16.45:105][487]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.16.45:105][487]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.16.45:105][487]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.16.45:105][487]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.05.02-18.16.45:532][536]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.16.47:078][691]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.16.47:078][691]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.16.47:078][691]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.16.47:078][691]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.05.02-18.16.48:454][854]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.16.56:074][738]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.16.56:084][738]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.16.56:932][808]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.16.56:932][808]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.16.56:932][808]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.16.56:932][808]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.05.02-18.17.02:694][282]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.17.03:363][337]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.17.03:363][337]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.17.03:363][337]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.17.03:363][337]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.05.02-18.17.09:880][901]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.17.10:617][965]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.17.10:617][965]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.17.10:617][965]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.17.10:617][965]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.05.02-18.17.11:773][103]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.17.11:783][103]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.17.12:522][167]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.17.12:522][167]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.17.12:522][167]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.17.12:522][167]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.05.02-18.17.13:835][320]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.17.14:560][378]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.17.14:560][378]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.17.14:560][378]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.17.14:560][378]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.05.02-18.17.16:109][562]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.17.17:401][695]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.17.17:401][695]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.17.17:401][695]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.17.17:401][695]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.05.02-18.17.19:121][899]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.17.22:383][264]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.17.22:383][264]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.17.22:383][264]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.17.22:383][264]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.05.02-18.17.27:134][614]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.17.28:443][661]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.17.28:443][661]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.17.28:443][661]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.17.28:443][661]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.05.02-18.17.31:170][855]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.17.32:404][972]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.17.33:988][134]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.17.35:582][301]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.17.35:582][301]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.17.35:582][301]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.17.35:582][301]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.05.02-18.17.43:739][941]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.17.45:046][984]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.17.45:046][984]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.17.45:046][984]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.02-18.17.45:046][984]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.05.02-18.18.01:914][589]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.18.02:662][640]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.18.02:662][640]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.18.02:662][640]MaterialEditorStats: Texture samplers: 5/16
+[2020.05.02-18.18.02:662][640]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.05.02-18.18.08:735][229]LogMaterialEditor: Applying material CelShad_PostProcess_2
+[2020.05.02-18.18.09:174][229]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.18.09:216][229]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.18.09:231][229]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.18.09:263][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.05.02-18.18.09:264][229]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.05.02-18.18.09:290][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.05.02-18.18.09:607][243]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.02-18.18.12:457][447]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.18.12:457][447]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.18.12:457][447]MaterialEditorStats: Texture samplers: 5/16
+[2020.05.02-18.18.12:457][447]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.05.02-18.18.14:708][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.05.02-18.18.16:137][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-18.18.27:201][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.05.02-18.18.28:385][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-18.18.29:816][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.05.02-18.18.32:259][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-18.18.32:988][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.05.02-18.18.33:995][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-18.18.38:749][293]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.05.02-18.19.08:553][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.05.02-18.19.08:555][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.05.02-18.19.08:596][924]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/Untitled_1_Auto1D35B57B44010DCB17F01B3ABD9FA445D.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2020.05.02-18.19.08:602][924]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.076
+[2020.05.02-18.19.08:602][924]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.076
+[2020.05.02-18.19.08:605][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ConnorStuff/PostProcess/CelShad_PostProcess_2] ([1] browsable assets)...
+[2020.05.02-18.19.08:635][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ConnorStuff/PostProcess/CelShad_PostProcess_2.CelShad_PostProcess_2]
+[2020.05.02-18.19.08:635][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/ConnorStuff/PostProcess/CelShad_PostProcess_2]
+[2020.05.02-18.19.08:654][924]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/CelShad_PostProcess_2_Auto120E9B0374CF420BEEB080088B5F169D4.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/Autosaves/Game/ConnorStuff/PostProcess/CelShad_PostProcess_2_Auto1.uasset'
+[2020.05.02-18.19.08:655][924]LogFileHelpers: Auto-saving content packages took 0.051
+[2020.05.02-18.19.11:288][ 35]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\but14\Desktop\LUT.jpg)
+[2020.05.02-18.19.11:294][ 35]LogTexture: Display: Building textures: LUT (AutoDXT, 256X32)
+[2020.05.02-18.19.11:324][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.02-18.19.13:811][131]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/ConnorStuff/PostProcess/LUT.LUT
+[2020.05.02-18.19.13:828][131]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.05.02-18.20.40:111][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.05.02-18.20.41:284][353]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.02-18.20.41:359][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.05.02-18.21.44:702][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ConnorStuff/T_Lut_01" FILE="../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/T_Lut_01.uasset" SILENT=true
+[2020.05.02-18.21.44:708][622]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/T_Lut_01CA88D4A949BF043E7CBCD5A11019FA3C.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/T_Lut_01.uasset'
+[2020.05.02-18.21.44:716][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ConnorStuff/T_Lut_02" FILE="../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/T_Lut_02.uasset" SILENT=true
+[2020.05.02-18.21.44:723][622]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/T_Lut_02AE75B8E847FB8A2F95BD7EAC9982299E.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/T_Lut_02.uasset'
+[2020.05.02-18.21.44:730][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ConnorStuff/T_Lut_03" FILE="../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/T_Lut_03.uasset" SILENT=true
+[2020.05.02-18.21.44:736][622]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/T_Lut_03003737324FAD4F85F8F0E89D079CDB1E.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/T_Lut_03.uasset'
+[2020.05.02-18.21.44:745][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ConnorStuff/T_Lut_04" FILE="../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/T_Lut_04.uasset" SILENT=true
+[2020.05.02-18.21.44:752][622]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/T_Lut_0475AD492D4DFAFB11DA91A695D34A3DD7.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/T_Lut_04.uasset'
+[2020.05.02-18.21.44:760][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ConnorStuff/T_Lut_05" FILE="../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/T_Lut_05.uasset" SILENT=true
+[2020.05.02-18.21.44:766][622]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/T_Lut_056FBAB91043A1671F909CE59C1FAB6330.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/T_Lut_05.uasset'
+[2020.05.02-18.21.45:030][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.05.02-18.21.45:052][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.05.02-18.21.45:076][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.05.02-18.21.45:099][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.05.02-18.21.45:121][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.05.02-18.21.45:145][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.05.02-18.21.45:167][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.05.02-18.22.09:463][862]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.22.09:472][862]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.05.02-18.22.10:402][920]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.22.10:402][920]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.22.10:402][920]MaterialEditorStats: Texture samplers: 5/16
+[2020.05.02-18.22.10:402][920]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.05.02-18.22.12:898][158]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.22.12:910][158]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.05.02-18.22.12:942][158]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.22.14:811][300]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.22.14:811][300]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.22.14:811][300]MaterialEditorStats: Texture samplers: 5/16
+[2020.05.02-18.22.14:811][300]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.05.02-18.22.36:286][805]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/ConnorStuff/T_Lut_01.T_Lut_01
+[2020.05.02-18.22.45:232][552]LogTexture: Display: Building textures: T_Lut_01 (AutoDXT, 256X32)
+[2020.05.02-18.23.09:200][842]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.23.10:139][902]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.23.10:139][902]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.23.10:139][902]MaterialEditorStats: Texture samplers: 5/16
+[2020.05.02-18.23.10:139][902]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.05.02-18.23.18:861][624]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.23.18:870][624]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.05.02-18.23.19:930][717]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.23.19:930][717]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.23.19:930][717]MaterialEditorStats: Texture samplers: 5/16
+[2020.05.02-18.23.19:930][717]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.05.02-18.23.24:865][109]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.23.25:559][160]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.23.25:559][160]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.23.25:559][160]MaterialEditorStats: Texture samplers: 5/16
+[2020.05.02-18.23.25:559][160]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.05.02-18.23.26:602][281]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.23.28:701][493]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.23.30:977][730]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.23.30:977][730]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.23.30:977][730]MaterialEditorStats: Texture samplers: 5/16
+[2020.05.02-18.23.30:977][730]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.05.02-18.23.32:723][932]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.23.32:734][932]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.05.02-18.23.34:112][ 62]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.23.34:113][ 62]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.23.34:113][ 62]MaterialEditorStats: Texture samplers: 5/16
+[2020.05.02-18.23.34:113][ 62]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.05.02-18.23.52:008][763]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.23.52:500][793]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.23.52:501][793]LogMaterial: Warning: /Engine/Transient.CelShad_PostProcess_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.02-18.23.52:501][793]LogMaterial: 	(Node If) Missing If ALessThanB input
+[2020.05.02-18.23.52:501][793]LogMaterial: 	(Node If) Failed to compile AGreaterThanB input.
+[2020.05.02-18.23.52:503][793]MaterialEditorStats: Error: [SM5] (Node If) Missing If ALessThanB input
+[2020.05.02-18.23.52:503][793]MaterialEditorStats: Error: [SM5] (Node If) Failed to compile AGreaterThanB input.
+[2020.05.02-18.23.53:244][869]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.23.53:245][869]LogMaterial: Warning: /Engine/Transient.CelShad_PostProcess_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.02-18.23.53:245][869]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2020.05.02-18.23.53:246][869]MaterialEditorStats: Error: [SM5] (Node If) Missing If AGreaterThanB input
+[2020.05.02-18.23.54:267][986]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.23.54:267][986]LogMaterial: Warning: /Engine/Transient.CelShad_PostProcess_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.02-18.23.54:267][986]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2020.05.02-18.23.56:261][219]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.23.56:262][219]LogMaterial: Warning: /Engine/Transient.CelShad_PostProcess_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.02-18.23.56:262][219]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2020.05.02-18.23.59:562][403]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.23.59:563][403]LogMaterial: Warning: /Engine/Transient.CelShad_PostProcess_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.02-18.23.59:563][403]LogMaterial: 	(Node If) Missing If AGreaterThanB input
+[2020.05.02-18.24.07:317][105]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.24.07:318][105]LogMaterial: Warning: /Engine/Transient.CelShad_PostProcess_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.02-18.24.07:318][105]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/ConnorStuff/T_Lut_01.T_Lut_01
+[2020.05.02-18.24.07:318][105]LogMaterial: 	(Node If) Failed to compile AGreaterThanB input.
+[2020.05.02-18.24.07:319][105]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/ConnorStuff/T_Lut_01.T_Lut_01
+[2020.05.02-18.24.07:319][105]MaterialEditorStats: Error: [SM5] (Node If) Failed to compile AGreaterThanB input.
+[2020.05.02-18.24.52:818][471]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.24.52:818][471]LogMaterial: Warning: /Engine/Transient.CelShad_PostProcess_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.02-18.24.52:818][471]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/ConnorStuff/T_Lut_01.T_Lut_01
+[2020.05.02-18.24.52:818][471]LogMaterial: 	(Node If) Failed to compile AGreaterThanB input.
+[2020.05.02-18.24.52:821][471]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.02-18.24.52:853][471]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.05.02-18.24.52:856][471]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.02-18.24.54:100][558]LogSlate: Window 'CelShad_PostProcess_2' being destroyed
+[2020.05.02-18.24.57:378][926]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.24.57:379][926]LogMaterial: Warning: /Engine/Transient.CelShad_PostProcess_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.02-18.24.57:379][926]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/ConnorStuff/T_Lut_01.T_Lut_01
+[2020.05.02-18.24.57:379][926]LogMaterial: 	(Node If) Failed to compile AGreaterThanB input.
+[2020.05.02-18.24.57:389][926]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.02-18.24.59:782][189]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.24.59:792][189]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.02-18.25.00:570][239]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.25.00:570][239]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.25.00:570][239]MaterialEditorStats: Texture samplers: 6/16
+[2020.05.02-18.25.00:570][239]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.05.02-18.25.01:236][312]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.25.01:967][360]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.25.01:967][360]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.25.01:967][360]MaterialEditorStats: Texture samplers: 6/16
+[2020.05.02-18.25.01:967][360]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.05.02-18.25.02:213][388]LogMaterialEditor: Applying material CelShad_PostProcess_2
+[2020.05.02-18.25.02:636][388]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.25.02:693][388]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.25.02:707][388]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.25.02:741][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.05.02-18.25.02:741][388]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.05.02-18.25.02:762][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.05.02-18.25.03:007][400]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.02-18.25.05:117][596]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.25.05:118][596]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.25.05:118][596]MaterialEditorStats: Texture samplers: 6/16
+[2020.05.02-18.25.05:118][596]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.05.02-18.25.07:486][857]LogMaterialEditor: Applying material CelShad_PostProcess_2
+[2020.05.02-18.25.07:905][857]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.25.07:965][857]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.25.07:980][857]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.25.08:012][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.05.02-18.25.08:012][857]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.05.02-18.25.08:035][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.05.02-18.25.08:242][867]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.02-18.25.09:186][943]LogMaterialEditor: Saving and Compiling material CelShad_PostProcess_2
+[2020.05.02-18.25.09:873][943]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/CelShad_PostProcess_252B48D7A487C4A9528F4F384845D6FCE.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/PostProcess/CelShad_PostProcess_2.uasset'
+[2020.05.02-18.25.09:890][943]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.25.09:890][943]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.25.09:890][943]MaterialEditorStats: Texture samplers: 6/16
+[2020.05.02-18.25.09:890][943]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.05.02-18.25.25:244][ 36]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/ConnorStuff/T_Lut_02.T_Lut_02
+[2020.05.02-18.25.28:986][472]LogTexture: Display: Building textures: T_Lut_02 (AutoDXT, 256X32)
+[2020.05.02-18.25.34:427][100]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/ConnorStuff/T_Lut_03.T_Lut_03
+[2020.05.02-18.25.36:801][365]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/ConnorStuff/T_Lut_04.T_Lut_04
+[2020.05.02-18.25.39:139][619]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/ConnorStuff/T_Lut_05.T_Lut_05
+[2020.05.02-18.25.46:623][441]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.25.46:637][441]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.02-18.25.46:665][441]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.25.47:696][509]LogMaterialEditor: Applying material CelShad_PostProcess_2
+[2020.05.02-18.25.48:151][509]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.25.48:201][509]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.25.48:213][509]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.25.48:248][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.05.02-18.25.48:248][509]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.05.02-18.25.48:274][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.05.02-18.25.48:422][516]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.02-18.25.50:491][716]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.25.50:491][716]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.25.50:491][716]MaterialEditorStats: Texture samplers: 6/16
+[2020.05.02-18.25.50:491][716]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.05.02-18.25.52:635][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-18.25.55:877][315]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.25.55:891][315]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.02-18.25.55:917][315]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.25.56:963][382]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.25.56:963][382]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.25.56:963][382]MaterialEditorStats: Texture samplers: 6/16
+[2020.05.02-18.25.56:963][382]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.05.02-18.25.57:392][432]LogMaterialEditor: Applying material CelShad_PostProcess_2
+[2020.05.02-18.25.57:772][432]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.25.57:811][432]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.25.57:823][432]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.25.57:855][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.05.02-18.25.57:855][432]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.05.02-18.25.57:878][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.05.02-18.25.58:093][442]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.02-18.26.00:140][642]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.26.00:140][642]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.26.00:140][642]MaterialEditorStats: Texture samplers: 6/16
+[2020.05.02-18.26.00:140][642]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.05.02-18.26.06:257][134]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.02-18.27.03:014][772]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.27.03:028][772]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.05.02-18.27.03:056][772]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.27.04:457][874]LogMaterialEditor: Applying material CelShad_PostProcess_2
+[2020.05.02-18.27.04:902][874]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.27.04:968][874]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.27.04:983][874]LogMaterial: Display: Missing cached shader map for material CelShad_PostProcess_2, compiling. 
+[2020.05.02-18.27.05:011][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.05.02-18.27.05:011][874]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.05.02-18.27.05:032][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.05.02-18.27.05:183][881]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.02-18.27.07:278][ 89]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.02-18.27.07:278][ 89]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.02-18.27.07:278][ 89]MaterialEditorStats: Texture samplers: 6/16
+[2020.05.02-18.27.07:279][ 89]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2020.05.02-18.27.14:714][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-18.27.16:350][965]LogSlate: Window 'Save Level As' being destroyed
+[2020.05.02-18.27.31:738][239]LogSlate: Window 'Save Level As' being destroyed
+[2020.05.02-18.27.31:863][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.05.02-18.27.31:865][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CelShadeTest" FILE="../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/Maps/CelShadeTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.02-18.27.31:891][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.05.02-18.27.31:987][239]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/CelShadeTestCD9DA65F4914752D7170E5AD67C8AC09.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/Maps/CelShadeTest.umap'
+[2020.05.02-18.27.32:010][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CelShadeTest_BuiltData" FILE="../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/Maps/CelShadeTest_BuiltData.uasset" SILENT=true
+[2020.05.02-18.27.32:026][239]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/CelShadeTest_BuiltData50F02E784FB6D8E587BFF9BA0B025133.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/Maps/CelShadeTest_BuiltData.uasset'
+[2020.05.02-18.27.32:034][239]LogFileHelpers: Saving map 'CelShadeTest' took 0.291
+[2020.05.02-18.27.33:341][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CelShadeTest" FILE="../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/Maps/CelShadeTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.02-18.27.33:367][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.05.02-18.27.33:463][357]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/CelShadeTest608A6C4F4A108D47028722ABC52E35BD.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/Maps/CelShadeTest.umap'
+[2020.05.02-18.27.33:485][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CelShadeTest_BuiltData" FILE="../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/Maps/CelShadeTest_BuiltData.uasset" SILENT=true
+[2020.05.02-18.27.33:513][357]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/CelShadeTest_BuiltDataB92027504B571D484ABDF7859A02DFC9.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/Maps/CelShadeTest_BuiltData.uasset'
+[2020.05.02-18.27.40:901][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.05.02-18.27.40:901][176]LogMetaData: Removing '/Game/ConnorStuff/Maps/CelShadeTest.SKEL_CelShadeTest_C' ref from Metadata '/Game/Maps/CelShadeTest.PackageMetaData'
+[2020.05.02-18.27.40:901][176]LogMetaData: Removing '/Game/ConnorStuff/Maps/CelShadeTest.CelShadeTest_C' ref from Metadata '/Game/Maps/CelShadeTest.PackageMetaData'
+[2020.05.02-18.27.40:901][176]LogMetaData: Removing '/Game/ConnorStuff/Maps/CelShadeTest.CelShadeTest:PersistentLevel.CelShadeTest.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Maps/CelShadeTest.PackageMetaData'
+[2020.05.02-18.27.40:901][176]LogMetaData: Removing '/Game/ConnorStuff/Maps/CelShadeTest.CelShadeTest:PersistentLevel.CelShadeTest.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Maps/CelShadeTest.PackageMetaData'
+[2020.05.02-18.27.40:939][176]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/CelShadeTest_BuiltData11B786D146C423FF8819138784E6126D.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/Maps/CelShadeTest_BuiltData.uasset'
+[2020.05.02-18.27.40:970][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.05.02-18.27.41:070][176]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/CelShadeTestB4102997416D30895B5C989C9C0ACB06.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/Maps/CelShadeTest.umap'
+[2020.05.02-18.27.41:093][176]LogFileHelpers: Saving map 'CelShadeTest' took 0.147
+[2020.05.02-18.27.41:236][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.05.02-18.27.41:261][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.05.02-18.27.41:286][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.05.02-18.27.41:309][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.05.02-18.27.49:089][ 75]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/CelShad_PostProcess_2ED5B743748061FE4037B009534693E64.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/PostProcess/CelShad_PostProcess_2.uasset'
+[2020.05.02-18.27.49:099][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ConnorStuff/T_Lut_02" FILE="../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/T_Lut_02.uasset" SILENT=true
+[2020.05.02-18.27.49:108][ 75]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/T_Lut_023AA28619427FBAC97635E8A7690457B8.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/T_Lut_02.uasset'
+[2020.05.02-18.27.49:115][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ConnorStuff/T_Lut_01" FILE="../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/T_Lut_01.uasset" SILENT=true
+[2020.05.02-18.27.49:124][ 75]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/T_Lut_019CB48BCE4132EDD4ABF2478AC617A308.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/T_Lut_01.uasset'
+[2020.05.02-18.27.50:907][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.05.02-18.27.50:998][274]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/CelShadeTest5BA4D0F94534A1138D4DE08CF700C0B4.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/Maps/CelShadeTest.umap'
+[2020.05.02-18.27.51:038][274]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/CelShadeTest_BuiltData97C6E367416421C879575D8BAFFBD37A.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ConnorStuff/Maps/CelShadeTest_BuiltData.uasset'
