@@ -1,0 +1,957 @@
+﻿Log file open, 05/15/20 20:39:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectBee
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.253309
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce RTX 2060 SUPER
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: G:/Software/UnrealEngine/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.15-19.39.47:997][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.15-19.39.47:997][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.15-19.39.47:997][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.15-19.39.48:001][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-19.39.48:001][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.15-19.39.48:001][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.15-19.39.48:001][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-19.39.48:001][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.15-19.39.48:001][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-19.39.48:001][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.15-19.39.48:001][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.15-19.39.48:001][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.15-19.39.48:002][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.15-19.39.48:002][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.15-19.39.48:002][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.15-19.39.48:012][  0]LogHAL: Display: Platform has ~ 24 GB [25725943808 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.05.15-19.39.48:012][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.15-19.39.48:012][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.15-19.39.48:012][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.15-19.39.48:013][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.15-19.39.48:013][  0]LogInit: Computer: VICKYSPC
+[2020.05.15-19.39.48:013][  0]LogInit: User: Joshy
+[2020.05.15-19.39.48:013][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.15-19.39.48:014][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.15-19.39.48:014][  0]LogMemory: Memory total: Physical=24.0GB (24GB approx)
+[2020.05.15-19.39.48:014][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.15-19.39.48:014][  0]LogMemory: Process Physical Memory: 98.50 MB used, 98.50 MB peak
+[2020.05.15-19.39.48:014][  0]LogMemory: Process Virtual Memory: 89.23 MB used, 89.23 MB peak
+[2020.05.15-19.39.48:014][  0]LogMemory: Physical Memory: 11752.94 MB used,  12781.23 MB free, 24534.17 MB total
+[2020.05.15-19.39.48:014][  0]LogMemory: Virtual Memory: 4657.43 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.05.15-19.39.48:034][  0]LogInit: Using OS detected language (en-GB).
+[2020.05.15-19.39.48:034][  0]LogInit: Using OS detected locale (en-GB).
+[2020.05.15-19.39.48:035][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.05.15-19.39.48:166][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.15-19.39.48:207][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.15-19.39.48:207][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.15-19.39.48:409][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.05.15-19.39.48:409][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.15-19.39.48:458][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 SUPER' (Feature Level 11_0)
+[2020.05.15-19.39.48:458][  0]LogD3D11RHI:       8031/0/12267 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.15-19.39.48:460][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.15-19.39.48:460][  0]LogD3D11RHI:       0/0/12267 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.15-19.39.48:460][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.15-19.39.48:466][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.15-19.39.48:466][  0]LogD3D11RHI:     GPU DeviceId: 0x1f06 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.15-19.39.48:466][  0]LogWindows: EnumDisplayDevices:
+[2020.05.15-19.39.48:466][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060 SUPER' (P:1 D:1)
+[2020.05.15-19.39.48:466][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:1)
+[2020.05.15-19.39.48:467][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2020.05.15-19.39.48:467][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2020.05.15-19.39.48:467][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.15-19.39.48:467][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 SUPER
+[2020.05.15-19.39.48:467][  0]LogD3D11RHI:   Driver Version: 441.87 (internal:26.21.14.4187, unified:441.87)
+[2020.05.15-19.39.48:467][  0]LogD3D11RHI:      Driver Date: 12-24-2019
+[2020.05.15-19.39.48:467][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.05.15-19.39.48:511][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.15-19.39.48:525][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.15-19.39.48:525][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.15-19.39.48:525][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.15-19.39.48:533][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.15-19.39.48:793][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.15-19.39.48:803][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.15-19.39.48:812][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.15-19.39.48:823][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.15-19.39.48:834][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.15-19.39.48:844][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.15-19.39.48:855][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.15-19.39.48:866][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.15-19.39.48:870][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.15-19.39.48:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.15-19.39.48:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.15-19.39.48:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.15-19.39.48:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.15-19.39.48:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.15-19.39.48:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.15-19.39.48:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.15-19.39.48:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.15-19.39.48:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.15-19.39.48:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.15-19.39.48:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.15-19.39.48:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.15-19.39.48:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.15-19.39.48:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.15-19.39.48:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.15-19.39.48:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.15-19.39.48:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.15-19.39.48:930][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.15-19.39.48:931][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.15-19.39.48:974][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.15-19.39.48:974][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.15-19.39.48:993][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.15-19.39.48:993][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.15-19.39.49:012][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.15-19.39.49:023][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.15-19.39.49:033][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.15-19.39.49:043][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.15-19.39.49:077][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.15-19.39.49:077][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.15-19.39.49:077][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.15-19.39.49:084][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.15-19.39.49:116][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (E:/Year 3/JuniorSenior/GitHub/ProjectBee/Intermediate/Shaders/WorkingDirectory/11960/).
+[2020.05.15-19.39.49:116][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Joshy/AppData/Local/Temp/UnrealShaderWorkingDir/ED347D404CEBFD47945A848AFA00949A/'.
+[2020.05.15-19.39.49:118][  0]LogXGEController: Cleaning working directory: C:/Users/Joshy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.15-19.39.49:118][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.15-19.39.49:118][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.15-19.39.49:118][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.15-19.39.49:592][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.15-19.39.49:632][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Joshy/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.15-19.39.49:632][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Joshy/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.05.15-19.39.49:632][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Year 3/JuniorSenior/GitHub/ProjectBee/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.15-19.39.49:632][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.15-19.39.49:632][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Year 3/JuniorSenior/GitHub/ProjectBee/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.15-19.39.49:632][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.15-19.39.49:642][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.15-19.39.49:642][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.15-19.39.49:642][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.15-19.39.49:654][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Joshy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.15-19.39.49:654][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.15-19.39.49:654][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.15-19.39.49:672][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.15-19.39.49:673][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.15-19.39.49:673][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.15-19.39.49:752][  0]LogAssetRegistry: FAssetRegistry took 0.0319 seconds to start up
+[2020.05.15-19.39.50:041][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.15-19.39.50:089][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.15-19.39.50:089][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.15-19.39.50:089][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.15-19.39.50:089][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.15-19.39.50:089][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.15-19.39.50:178][  0]LogNetVersion: ProjectBee 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2863724400)
+[2020.05.15-19.39.50:522][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.032362 seconds
+[2020.05.15-19.39.50:530][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.05.15-19.39.50:530][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.05.15-19.39.50:530][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.15-19.39.51:271][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.15-19.39.51:283][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.15-19.39.51:378][  0]SourceControl: Source control is disabled
+[2020.05.15-19.39.51:378][  0]SourceControl: Source control is disabled
+[2020.05.15-19.39.51:379][  0]SourceControl: Source control is disabled
+[2020.05.15-19.39.51:380][  0]SourceControl: Source control is disabled
+[2020.05.15-19.39.51:474][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.15-19.39.51:599][  0]LogOcInput: OculusInput pre-init called
+[2020.05.15-19.39.52:223][  0]LogEngine: Initializing Engine...
+[2020.05.15-19.39.52:223][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.05.15-19.39.52:223][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.15-19.39.52:390][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.15-19.39.52:397][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.15-19.39.52:456][  0]LogInit: XAudio2 using 'Headset Earphone (2- Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.15-19.39.52:479][  0]LogInit: FAudioDevice initialized.
+[2020.05.15-19.39.52:479][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.15-19.39.52:544][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/Joshy/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.15-19.39.52:554][  0]LogInit: Texture streaming: Enabled
+[2020.05.15-19.39.52:564][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.15-19.39.52:576][  0]LogInit: Transaction tracking system initialized
+[2020.05.15-19.39.52:590][  0]BlueprintLog: New page: Editor Load
+[2020.05.15-19.39.52:639][  0]LocalizationService: Localization service is disabled
+[2020.05.15-19.39.52:860][  0]LogFileCache: Scanning file cache for directory 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/' took 0.01s
+[2020.05.15-19.39.52:860][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.15-19.39.52:861][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.15-19.39.52:989][  0]SourceControl: Source control is disabled
+[2020.05.15-19.39.52:989][  0]Cmd: MAP LOAD FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Levels/DemoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.15-19.39.52:990][  0]LogEditorServer: Warning: Can't find file 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Levels/DemoLevel.umap'
+[2020.05.15-19.39.52:990][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.15-19.39.52:990][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2020.05.15-19.39.52:990][  0]LogFileHelpers: Loading map 'DemoLevel' took 0.000
+[2020.05.15-19.39.53:090][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.15-19.39.53:096][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.15-19.39.53:101][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.15-19.39.53:107][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.15-19.39.53:110][  0]LogCollectionManager: Loaded 0 collections in 0.000656 seconds
+[2020.05.15-19.39.53:123][  0]LogFileCache: Scanning file cache for directory 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Collections/' took 0.01s
+[2020.05.15-19.39.53:123][  0]LogFileCache: Scanning file cache for directory 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Developers/Joshy/Collections/' took 0.00s
+[2020.05.15-19.39.53:123][  0]LogFileCache: Scanning file cache for directory 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Collections/' took 0.00s
+[2020.05.15-19.39.53:123][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.05.15-19.39.53:130][  0]LogContentBrowser: Native class hierarchy populated in 0.0061 seconds. Added 2732 classes and 659 folders.
+[2020.05.15-19.39.53:133][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.15-19.39.53:134][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:134][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:138][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:138][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:138][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:138][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:139][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:139][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:141][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:141][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:142][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:142][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:142][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:142][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:143][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:144][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:144][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:145][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-19.39.53:179][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.15-19.39.53:189][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.05.15-19.39.53:230][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.05.15-19.39.53:238][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.15-19.39.53:244][  0]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.15-19.39.53:247][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.15-19.39.53:286][  0]LogRenderer: Reallocating scene render targets to support 3012x1420 Format 10 NumSamples 1 (Frame:1).
+[2020.05.15-19.39.53:370][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.15-19.39.53:370][  0]LogLoad: (Engine Initialization) Total time: 8.79 seconds
+[2020.05.15-19.39.53:370][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.15-19.39.53:405][  0]LogAssetRegistry: Asset discovery search completed in 3.6750 seconds
+[2020.05.15-19.39.53:407][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.05.15-19.39.53:407][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2020.05.15-19.39.53:407][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.15-19.39.53:433][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.15-19.39.54:399][113]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.15-19.40.36:198][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.15-19.41.06:987][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:987][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:987][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:987][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:987][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:987][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:987][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:987][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:988][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:988][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:988][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:988][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:988][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:988][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:988][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:988][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:988][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:988][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:988][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:988][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:988][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:988][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:988][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:988][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:988][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:989][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:989][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:989][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:989][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:989][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:989][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:989][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:989][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:989][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:989][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:989][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:989][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:989][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:989][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:989][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:989][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:989][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:991][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:991][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:991][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:991][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:991][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:991][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:991][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:991][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:992][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:992][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:992][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:992][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:992][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:992][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:992][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:992][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:992][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:992][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:992][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:992][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:992][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:992][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:992][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:992][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:992][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:992][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:993][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:993][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:993][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:993][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:993][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:993][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:993][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:993][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:993][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:993][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:993][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:993][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:993][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:993][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:993][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:993][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:994][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.06:995][624]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.06:996][624]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.07:447][624]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass.NPC_Key_ParentClass
+[2020.05.15-19.41.07:637][624]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.05.15-19.41.08:333][624]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.15-19.41.10:007][815]LogSlate: Window 'NPC_Key_ParentClass' being destroyed
+[2020.05.15-19.41.11:759][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.05.15-19.41.13:707][ 13]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.15-19.41.15:550][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.05.15-19.41.17:142][230]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.15-19.41.17:148][230]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass.NPC_Key_ParentClass
+[2020.05.15-19.41.17:475][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.05.15-19.41.17:633][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.05.15-19.41.17:657][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.05.15-19.41.17:676][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.05.15-19.41.19:415][437]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.19:416][437]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.19:416][437]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.19:416][437]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.19:416][437]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.19:416][437]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.19:416][437]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.19:416][437]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/QuestSystem/KeyNPCs/NPC_FortuneTeller.NPC_FortuneTeller_C
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/QuestSystem/KeyNPCs/NPC_FortuneTeller.NPC_FortuneTeller_C
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: Unable to load Default__NPC_FortuneTeller_C with outer Package /Game/Blueprints/QuestSystem/KeyNPCs/NPC_FortuneTeller because its class does not exist
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/QuestSystem/KeyNPCs/NPC_FortuneTeller.NPC_FortuneTeller_C
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.19:417][437]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/QuestSystem/KeyNPCs/NPC_FortuneTeller.NPC_FortuneTeller_C
+[2020.05.15-19.41.19:418][437]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.19:418][437]LoadErrors: Failed to load /Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass.NPC_Key_ParentClass_C Referenced by NPC_FortuneTeller
+[2020.05.15-19.41.19:418][437]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.19:418][437]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.19:418][437]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.19:418][437]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/QuestSystem/KeyNPCs/NPC_FortuneTeller.NPC_FortuneTeller_C
+[2020.05.15-19.41.19:418][437]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.19:418][437]LoadErrors: Failed to load /Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass.NPC_Key_ParentClass_C Referenced by K2Node_CallParentFunction_0
+[2020.05.15-19.41.19:418][437]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.19:418][437]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.19:418][437]LoadErrors: Failed to load /Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass.NPC_Key_ParentClass_C Referenced by K2Node_CallParentFunction_1
+[2020.05.15-19.41.19:419][437]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.19:419][437]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.19:419][437]LoadErrors: Failed to load /Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass.NPC_Key_ParentClass_C Referenced by K2Node_CallParentFunction_2
+[2020.05.15-19.41.19:419][437]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.19:419][437]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.19:419][437]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.19:420][437]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.19:420][437]LoadErrors: Failed to load /Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass.NPC_Key_ParentClass_C Referenced by PackageMetaData
+[2020.05.15-19.41.19:420][437]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.19:420][437]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/QuestSystem/KeyNPCs/NPC_FortuneTeller.NPC_FortuneTeller_C
+[2020.05.15-19.41.19:444][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.05.15-19.41.21:368][437]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.15-19.41.21:440][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.05.15-19.41.21:465][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.05.15-19.41.21:490][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.05.15-19.41.21:491][437]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': NPC_FortuneTeller_C /Game/Blueprints/QuestSystem/KeyNPCs/NPC_FortuneTeller.Default__NPC_FortuneTeller_C
+[2020.05.15-19.41.21:491][437]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': NPC_FortuneTeller_C /Game/Blueprints/QuestSystem/KeyNPCs/NPC_FortuneTeller.Default__NPC_FortuneTeller_C
+[2020.05.15-19.41.21:491][437]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': NPC_FortuneTeller_C /Game/Blueprints/QuestSystem/KeyNPCs/NPC_FortuneTeller.Default__NPC_FortuneTeller_C
+[2020.05.15-19.41.21:491][437]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot_GEN_VARIABLE': BlueprintGeneratedClass /Game/Blueprints/QuestSystem/KeyNPCs/NPC_FortuneTeller.NPC_FortuneTeller_C
+[2020.05.15-19.41.21:491][437]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SimpleConstructionScript_0': BlueprintGeneratedClass /Game/Blueprints/QuestSystem/KeyNPCs/NPC_FortuneTeller.NPC_FortuneTeller_C
+[2020.05.15-19.41.21:491][437]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_0': SimpleConstructionScript /Game/Blueprints/QuestSystem/KeyNPCs/NPC_FortuneTeller.NPC_FortuneTeller_C:SimpleConstructionScript_0
+[2020.05.15-19.41.21:491][437]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharacterMesh0': NPC_FortuneTeller_C /Game/Blueprints/QuestSystem/KeyNPCs/NPC_FortuneTeller.Default__NPC_FortuneTeller_C
+[2020.05.15-19.41.27:583][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:584][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:611][160]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.27:611][160]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.27:611][160]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.27:611][160]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.27:611][160]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.27:611][160]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.27:611][160]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.27:611][160]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.27:611][160]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.27:611][160]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.27:613][160]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.27:613][160]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.27:613][160]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.27:613][160]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.27:613][160]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.27:613][160]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.27:613][160]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.27:613][160]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.27:613][160]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.27:613][160]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.27:614][160]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.27:614][160]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.27:614][160]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.27:614][160]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.27:614][160]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.27:614][160]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.27:614][160]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.27:614][160]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.27:614][160]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.15-19.41.27:615][160]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.15-19.41.27:632][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:632][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:634][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:634][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:635][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:635][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:743][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:743][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:743][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:743][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:743][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:744][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:744][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:744][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:748][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:748][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:752][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:753][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:753][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:753][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:754][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:754][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:754][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:754][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:754][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:754][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:754][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:754][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:754][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:754][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:754][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:754][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:754][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:754][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:754][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:754][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:754][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:755][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:755][160]LogLinker: Warning: Can't find file '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass'
+[2020.05.15-19.41.27:755][160]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/QuestSystem/KeyNPCs/NPC_Key_ParentClass' while loading NULL.
+[2020.05.15-19.41.27:798][160]LogAIModule: Creating AISystem for world Vicky_Test
+[2020.05.15-19.41.27:817][160]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/TestLevels/Vicky_Test.Vicky_Test
+[2020.05.15-19.41.27:842][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.05.15-19.41.33:100][160]LogSlate: Window 'Save Content' being destroyed
+[2020.05.15-19.41.33:118][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/QuestSystem/BP_QuestActor_Base" FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor_Base.uasset" SILENT=true
+[2020.05.15-19.41.33:232][160]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/BP_QuestActor_BaseF556BA384FF81F75A7D45FA1651E1A11.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor_Base.uasset'
+[2020.05.15-19.41.33:234][160]Cmd: MAP LOAD FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Levels/TestLevels/Vicky_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.15-19.41.33:234][160]LightingResults: New page: Lighting Build
+[2020.05.15-19.41.33:235][160]LogBlueprintActionDatabase: Requesting refresh due to module change: StatsViewer (loaded)
+[2020.05.15-19.41.33:235][160]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2020.05.15-19.41.33:236][160]LoadErrors: New page: Loading map: Vicky_Test.umap
+[2020.05.15-19.41.33:236][160]MapCheck: New page: Map Check
+[2020.05.15-19.41.33:236][160]LightingResults: New page: Lighting Build
+[2020.05.15-19.41.33:265][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.05.15-19.41.33:362][160]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.15-19.41.33:391][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.05.15-19.41.33:413][160]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.15-19.41.33:413][160]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.064ms to complete.
+[2020.05.15-19.41.33:413][160]LogFileHelpers: Loading map 'Vicky_Test' took 0.180
+[2020.05.15-19.41.33:447][160]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': NPC_Key_ParentClass_C /Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.NPC_Key_ParentClass2
+[2020.05.15-19.41.33:447][160]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': NPC_Key_ParentClass_C /Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.NPC_Key_ParentClass2
+[2020.05.15-19.41.33:447][160]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': NPC_Key_ParentClass_C /Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.NPC_Key_ParentClass2
+[2020.05.15-19.41.33:447][160]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Thought Bubble': NPC_Key_ParentClass_C /Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.NPC_Key_ParentClass2
+[2020.05.15-19.41.33:447][160]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharacterMesh0': NPC_Key_ParentClass_C /Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.NPC_Key_ParentClass2
+[2020.05.15-19.41.38:600][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.05.15-19.41.38:994][765]LogEditorViewport: Clicking on Actor (LMB): BP_QuestActor_Base_C (BP_QuestActor_Base)
+[2020.05.15-19.41.39:055][765]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.15-19.41.39:730][765]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.676 s
+[2020.05.15-19.41.39:730][765]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.15-19.41.39:730][765]LogOutputDevice: Error: 
+[2020.05.15-19.41.39:730][765]LogOutputDevice: Error: Ensure condition failed: Class != nullptr [File:D:\Build\++UE4\Sync\Engine\Source\Editor\PropertyEditor\Private\UserInterface\PropertyEditor\SPropertyEditorAsset.cpp] [Line: 1272]
+[2020.05.15-19.41.39:730][765]LogOutputDevice: Error: Property (ObjectProperty /Game/Blueprints/QuestSystem/BP_QuestActor_Base.BP_QuestActor_Base_C:QuestGiver) is not an object or interface class
+[2020.05.15-19.41.39:730][765]LogOutputDevice: Error: Stack: 
+[2020.05.15-19.41.39:730][765]LogOutputDevice: Error: [Callstack] 0x00007ffe7b8338bc UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.15-19.41.39:730][765]LogOutputDevice: Error: [Callstack] 0x00007ffe7b6d15fd UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.15-19.41.39:730][765]LogOutputDevice: Error: [Callstack] 0x00007ffe7b5d11c4 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.15-19.41.39:730][765]LogOutputDevice: Error: [Callstack] 0x00007ffe7b5cee2f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.15-19.41.39:730][765]LogOutputDevice: Error: [Callstack] 0x00007ffe7b4dd78a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.15-19.41.39:730][765]LogOutputDevice: Error: [Callstack] 0x00007ffe7b4ca7ac UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.15-19.41.39:730][765]LogOutputDevice: Error: [Callstack] 0x00007ffe7b4ca66f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.15-19.41.39:730][765]LogOutputDevice: Error: [Callstack] 0x00007ffe7b5c73fa UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.15-19.41.39:730][765]LogOutputDevice: Error: [Callstack] 0x00007ffe7b4b621e UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.15-19.41.39:730][765]LogOutputDevice: Error: [Callstack] 0x00007ffe7b73415c UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe7b7047b3 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe7b7157cf UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe7b7166fd UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe7b74961a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe98e11056 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe7b75db2e UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c3e2b UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c2571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c26d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c26d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe98dc9354 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c26d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe98dc49c9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe98dc479e UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c2571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c26d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:731][765]LogOutputDevice: Error: [Callstack] 0x00007ffe98dc9354 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe98dc9354 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c2571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c26d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe98dc479e UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c2571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c26d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe98dc9354 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c2571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c26d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c4bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c26d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:732][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c2571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:733][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:733][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c1c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:733][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c277a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:733][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:733][765]LogOutputDevice: Error: [Callstack] 0x00007ffe958c50fe UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.05.15-19.41.39:733][765]LogOutputDevice: Error: [Callstack] 0x00007ffe98bbd714 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.15-19.41.39:733][765]LogOutputDevice: Error: [Callstack] 0x00007ffe98be68d2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.15-19.41.39:733][765]LogOutputDevice: Error: 
+[2020.05.15-19.41.39:735][765]LogStats:                SubmitErrorReport -  0.000 s
