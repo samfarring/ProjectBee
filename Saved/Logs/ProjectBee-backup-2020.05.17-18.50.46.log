@@ -1,0 +1,1636 @@
+﻿Log file open, 05/17/20 17:20:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectBee
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.379960
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: S:/UnrealEngine/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.17-16.20.15:460][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.17-16.20.15:460][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.17-16.20.15:460][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.17-16.20.15:460][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.17-16.20.15:460][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.05.17-16.20.15:460][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.17-16.20.15:460][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.17-16.20.15:460][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.17-16.20.15:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.17-16.20.15:461][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.17-16.20.15:466][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.17-16.20.15:466][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-16.20.15:466][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.17-16.20.15:467][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.17-16.20.15:467][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.17-16.20.15:467][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.17-16.20.15:478][  0]LogHAL: Display: Platform has ~ 32 GB [34293186560 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.17-16.20.15:478][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.05.17-16.20.15:478][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.17-16.20.15:478][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-16.20.15:478][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.17-16.20.15:478][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.17-16.20.15:478][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-16.20.15:478][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.17-16.20.15:478][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-16.20.15:478][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.17-16.20.15:478][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.17-16.20.15:478][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.17-16.20.15:478][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.17-16.20.15:478][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.17-16.20.15:478][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.17-16.20.15:478][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.17-16.20.15:478][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.17-16.20.15:478][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.17-16.20.15:478][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.17-16.20.15:478][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.17-16.20.15:478][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.17-16.20.15:479][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [S:/Unreal Projects/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.17-16.20.15:479][  0]LogInit: Computer: CUTHBERT
+[2020.05.17-16.20.15:479][  0]LogInit: User: samfa
+[2020.05.17-16.20.15:480][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.17-16.20.15:480][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.17-16.20.15:480][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.05.17-16.20.15:480][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.17-16.20.15:480][  0]LogMemory: Process Physical Memory: 100.03 MB used, 100.03 MB peak
+[2020.05.17-16.20.15:480][  0]LogMemory: Process Virtual Memory: 89.76 MB used, 89.76 MB peak
+[2020.05.17-16.20.15:480][  0]LogMemory: Physical Memory: 10814.18 MB used,  21890.35 MB free, 32704.53 MB total
+[2020.05.17-16.20.15:480][  0]LogMemory: Virtual Memory: 4660.48 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.05.17-16.20.15:495][  0]LogInit: Using OS detected language (en-GB).
+[2020.05.17-16.20.15:495][  0]LogInit: Using OS detected locale (en-GB).
+[2020.05.17-16.20.15:495][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.05.17-16.20.15:632][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.17-16.20.15:655][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.17-16.20.15:655][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.17-16.20.15:791][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.17-16.20.15:791][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.17-16.20.15:854][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2020.05.17-16.20.15:854][  0]LogD3D11RHI:       8031/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.17-16.20.15:856][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.17-16.20.15:856][  0]LogD3D11RHI:       0/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.17-16.20.15:856][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.17-16.20.15:863][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.17-16.20.15:863][  0]LogD3D11RHI:     GPU DeviceId: 0x1f07 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.17-16.20.15:863][  0]LogWindows: EnumDisplayDevices:
+[2020.05.17-16.20.15:864][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2020.05.17-16.20.15:864][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2020.05.17-16.20.15:864][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.05.17-16.20.15:864][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.05.17-16.20.15:865][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.17-16.20.15:865][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2020.05.17-16.20.15:865][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.05.17-16.20.15:865][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.05.17-16.20.15:865][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.05.17-16.20.15:909][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.17-16.20.15:921][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.17-16.20.15:921][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.17-16.20.15:921][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.17-16.20.15:928][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.17-16.20.16:180][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.17-16.20.16:191][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.17-16.20.16:203][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.17-16.20.16:215][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.17-16.20.16:226][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.17-16.20.16:238][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.17-16.20.16:249][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.17-16.20.16:261][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.17-16.20.16:266][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.17-16.20.16:335][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.17-16.20.16:335][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.17-16.20.16:335][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.17-16.20.16:335][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.17-16.20.16:335][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.17-16.20.16:335][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.17-16.20.16:335][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.17-16.20.16:335][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.17-16.20.16:335][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.17-16.20.16:335][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.17-16.20.16:335][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.17-16.20.16:335][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.17-16.20.16:335][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.17-16.20.16:335][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.17-16.20.16:335][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.17-16.20.16:335][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.17-16.20.16:335][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.17-16.20.16:335][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.17-16.20.16:337][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.17-16.20.16:380][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.17-16.20.16:380][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.17-16.20.16:401][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.17-16.20.16:401][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.17-16.20.16:412][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.17-16.20.16:426][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.17-16.20.16:442][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.17-16.20.16:455][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.17-16.20.16:498][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.17-16.20.16:498][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.17-16.20.16:498][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.17-16.20.16:506][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.17-16.20.16:537][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../../../Unreal Projects/ProjectBee/Intermediate/Shaders/WorkingDirectory/4348/).
+[2020.05.17-16.20.16:537][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/samfa/AppData/Local/Temp/UnrealShaderWorkingDir/4D2D7F52411896984A2D5DB6DB744D91/'.
+[2020.05.17-16.20.16:538][  0]LogXGEController: Cleaning working directory: C:/Users/samfa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.17-16.20.16:538][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.17-16.20.16:538][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.17-16.20.16:538][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.17-16.20.17:011][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.17-16.20.17:052][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/samfa/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.17-16.20.17:052][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/samfa/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.05.17-16.20.17:052][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/ProjectBee/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.17-16.20.17:052][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.17-16.20.17:052][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/ProjectBee/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.17-16.20.17:052][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.17-16.20.17:062][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.17-16.20.17:062][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.17-16.20.17:062][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.17-16.20.17:074][  0]LogDerivedDataCache: Using Local data cache path C:/Users/samfa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.17-16.20.17:074][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.17-16.20.17:074][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.17-16.20.17:093][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.17-16.20.17:094][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.17-16.20.17:094][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.17-16.20.17:165][  0]LogAssetRegistry: FAssetRegistry took 0.0329 seconds to start up
+[2020.05.17-16.20.17:440][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.17-16.20.17:550][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.17-16.20.17:550][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.17-16.20.17:550][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.17-16.20.17:550][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.17-16.20.17:550][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.17-16.20.17:559][  0]LogNetVersion: ProjectBee 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2863724400)
+[2020.05.17-16.20.17:888][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.030570 seconds
+[2020.05.17-16.20.17:893][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.05.17-16.20.17:893][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.05.17-16.20.17:893][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.17-16.20.18:529][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.17-16.20.18:542][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.17-16.20.18:634][  0]SourceControl: Source control is disabled
+[2020.05.17-16.20.18:634][  0]SourceControl: Source control is disabled
+[2020.05.17-16.20.18:635][  0]SourceControl: Source control is disabled
+[2020.05.17-16.20.18:635][  0]SourceControl: Source control is disabled
+[2020.05.17-16.20.18:688][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.17-16.20.18:872][  0]LogOcInput: OculusInput pre-init called
+[2020.05.17-16.20.19:410][  0]LogEngine: Initializing Engine...
+[2020.05.17-16.20.19:411][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.17-16.20.19:412][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.17-16.20.19:584][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.17-16.20.19:591][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.17-16.20.19:664][  0]LogInit: XAudio2 using 'Headphones (4- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.17-16.20.19:681][  0]LogInit: FAudioDevice initialized.
+[2020.05.17-16.20.19:681][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.17-16.20.19:718][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/samfa/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.17-16.20.19:725][  0]LogInit: Texture streaming: Enabled
+[2020.05.17-16.20.19:736][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.17-16.20.19:751][  0]LogInit: Transaction tracking system initialized
+[2020.05.17-16.20.19:768][  0]BlueprintLog: New page: Editor Load
+[2020.05.17-16.20.19:818][  0]LocalizationService: Localization service is disabled
+[2020.05.17-16.20.20:042][  0]LogFileCache: Scanning file cache for directory 'S:/Unreal Projects/ProjectBee/Content/' took 0.01s
+[2020.05.17-16.20.20:042][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.17-16.20.20:042][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.17-16.20.20:169][  0]SourceControl: Source control is disabled
+[2020.05.17-16.20.20:169][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/ProjectBee/Content/Levels/DemoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.17-16.20.20:169][  0]LogEditorServer: Warning: Can't find file '../../../../../Unreal Projects/ProjectBee/Content/Levels/DemoLevel.umap'
+[2020.05.17-16.20.20:169][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.17-16.20.20:169][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.08ms to complete.
+[2020.05.17-16.20.20:169][  0]LogFileHelpers: Loading map 'DemoLevel' took 0.000
+[2020.05.17-16.20.21:098][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.05.17-16.20.21:151][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-16.20.21:157][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-16.20.21:164][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-16.20.21:170][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-16.20.21:173][  0]LogCollectionManager: Loaded 0 collections in 0.000697 seconds
+[2020.05.17-16.20.21:187][  0]LogFileCache: Scanning file cache for directory 'S:/Unreal Projects/ProjectBee/Saved/Collections/' took 0.01s
+[2020.05.17-16.20.21:188][  0]LogFileCache: Scanning file cache for directory 'S:/Unreal Projects/ProjectBee/Content/Developers/samfa/Collections/' took 0.00s
+[2020.05.17-16.20.21:188][  0]LogFileCache: Scanning file cache for directory 'S:/Unreal Projects/ProjectBee/Content/Collections/' took 0.00s
+[2020.05.17-16.20.21:188][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.05.17-16.20.21:195][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2732 classes and 659 folders.
+[2020.05.17-16.20.21:199][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.17-16.20.21:200][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:200][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:201][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:201][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:201][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:202][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:202][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:202][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:202][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.17-16.20.21:223][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.17-16.20.21:227][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.05.17-16.20.21:272][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.05.17-16.20.21:282][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.17-16.20.21:285][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.17-16.20.21:287][  0]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.17-16.20.21:330][  0]LogRenderer: Reallocating scene render targets to support 2044x996 Format 10 NumSamples 1 (Frame:1).
+[2020.05.17-16.20.21:422][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.17-16.20.21:423][  0]LogLoad: (Engine Initialization) Total time: 7.36 seconds
+[2020.05.17-16.20.21:423][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.17-16.20.21:469][  0]LogAssetRegistry: Asset discovery search completed in 4.3261 seconds
+[2020.05.17-16.20.21:471][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.05.17-16.20.21:471][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2020.05.17-16.20.21:472][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.17-16.20.22:773][  4]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.17-16.20.22:786][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:484][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:485][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:485][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:485][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:485][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:485][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:485][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:485][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:485][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:485][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:485][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:485][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:485][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:487][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:488][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:488][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:488][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:488][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:488][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:488][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:488][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:488][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:488][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:488][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:488][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:488][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:490][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:490][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:490][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:490][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:490][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:490][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:490][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:490][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:490][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:490][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:490][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:490][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:490][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:490][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:490][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:490][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:491][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:491][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:491][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:491][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:491][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:491][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:491][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:491][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:491][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:491][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:491][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:491][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.27:491][510]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.17-16.20.27:491][510]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.17-16.20.28:831][510]LogAIModule: Creating AISystem for world L_DetailedBlock
+[2020.05.17-16.20.28:971][510]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/BlockOut/L_DetailedBlock.L_DetailedBlock
+[2020.05.17-16.20.29:115][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.05.17-16.20.29:116][510]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/ProjectBee/Content/Levels/BlockOut/L_DetailedBlock.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.17-16.20.29:116][510]LightingResults: New page: Lighting Build
+[2020.05.17-16.20.29:117][510]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2020.05.17-16.20.29:118][510]LoadErrors: New page: Loading map: L_DetailedBlock.umap
+[2020.05.17-16.20.29:118][510]MapCheck: New page: Map Check
+[2020.05.17-16.20.29:118][510]LightingResults: New page: Lighting Build
+[2020.05.17-16.20.29:142][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.05.17-16.20.29:229][510]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/BlockOut/BaylisStream) is flushing async loading
+[2020.05.17-16.20.29:229][510]LogStreaming: Display: Flushing async loaders.
+[2020.05.17-16.20.29:277][510]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/BlockOut/RyanStream) is flushing async loading
+[2020.05.17-16.20.29:280][510]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/BlockOut/BirchStream) is flushing async loading
+[2020.05.17-16.20.29:282][510]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/BlockOut/JamesStream) is flushing async loading
+[2020.05.17-16.20.29:634][510]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/BlockOut/InnesStream) is flushing async loading
+[2020.05.17-16.20.29:882][510]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.17-16.20.30:056][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.05.17-16.20.30:084][510]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.17-16.20.30:087][510]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.539ms to complete.
+[2020.05.17-16.20.30:087][510]LogFileHelpers: Loading map 'L_DetailedBlock' took 0.972
+[2020.05.17-16.20.37:736][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.17-16.20.39:558][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.17-16.20.45:979][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.17-16.20.48:566][592]LogAIModule: Creating AISystem for world DemoLevel
+[2020.05.17-16.20.48:771][592]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/ShowOff/DemoLevel.DemoLevel
+[2020.05.17-16.20.48:929][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.05.17-16.20.48:929][592]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/ProjectBee/Content/Levels/ShowOff/DemoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.17-16.20.48:929][592]LightingResults: New page: Lighting Build
+[2020.05.17-16.20.48:930][592]LoadErrors: New page: Loading map: DemoLevel.umap
+[2020.05.17-16.20.48:951][592]MapCheck: New page: Map Check
+[2020.05.17-16.20.48:951][592]LightingResults: New page: Lighting Build
+[2020.05.17-16.20.49:002][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.05.17-16.20.49:460][592]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.05.17-16.20.49:636][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.05.17-16.20.49:665][592]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.17-16.20.49:668][592]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.026ms to complete.
+[2020.05.17-16.20.49:668][592]LogFileHelpers: Loading map 'DemoLevel' took 0.739
+[2020.05.17-16.20.49:724][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.05.17-16.20.57:337][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.17-16.21.01:169][931]LogLinker: Warning: Can't find file '/Game/ArtAssets/Animations/Beekeeper/Skeleton/Beekeeper_Mesh'
+[2020.05.17-16.21.01:169][931]LogLinker: Warning: Can't find file for asset '/Game/ArtAssets/Animations/Beekeeper/Skeleton/Beekeeper_Mesh' while loading NULL.
+[2020.05.17-16.21.01:170][931]LogLinker: Warning: Can't find file '/Game/ArtAssets/Animations/Beekeeper/Skeleton/Beekeeper_Mesh'
+[2020.05.17-16.21.01:170][931]LogLinker: Warning: Can't find file for asset '/Game/ArtAssets/Animations/Beekeeper/Skeleton/Beekeeper_Mesh' while loading NULL.
+[2020.05.17-16.21.01:171][931]LogLinker: Warning: Can't find file '/Game/ArtAssets/Animations/Beekeeper/Skeleton/Beekeeper_Mesh'
+[2020.05.17-16.21.01:171][931]LogLinker: Warning: Can't find file for asset '/Game/ArtAssets/Animations/Beekeeper/Skeleton/Beekeeper_Mesh' while loading NULL.
+[2020.05.17-16.21.01:171][931]LogLinker: Warning: Can't find file '/Game/ArtAssets/Animations/Beekeeper/Skeleton/Beekeeper_Mesh'
+[2020.05.17-16.21.01:171][931]LogLinker: Warning: Can't find file for asset '/Game/ArtAssets/Animations/Beekeeper/Skeleton/Beekeeper_Mesh' while loading NULL.
+[2020.05.17-16.21.01:178][931]LogLinker: Warning: Can't find file '/Game/ArtAssets/Animations/Beekeeper/Skeleton/Beekeeper_Mesh'
+[2020.05.17-16.21.01:178][931]LoadErrors: Failed to load /Game/ArtAssets/Animations/Beekeeper/Skeleton/Beekeeper_Mesh.Beekeeper_Mesh Referenced by Beekeeper_Run_3
+[2020.05.17-16.21.01:178][931]LogLinker: Warning: Can't find file for asset '/Game/ArtAssets/Animations/Beekeeper/Skeleton/Beekeeper_Mesh' while loading NULL.
+[2020.05.17-16.21.01:178][931]LogLinker: Warning: Can't find file '/Game/ArtAssets/Animations/Beekeeper/Skeleton/Beekeeper_Mesh'
+[2020.05.17-16.21.01:178][931]LoadErrors: Failed to load /Game/ArtAssets/Animations/Beekeeper/Skeleton/Beekeeper_Mesh.Beekeeper_Mesh Referenced by Beekeeper_Walk_14
+[2020.05.17-16.21.01:178][931]LogLinker: Warning: Can't find file for asset '/Game/ArtAssets/Animations/Beekeeper/Skeleton/Beekeeper_Mesh' while loading NULL.
+[2020.05.17-16.21.01:209][931]LogAIModule: Creating AISystem for world AnimationShowcase
+[2020.05.17-16.21.01:213][931]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/TestLevels/AnimationShowcase.AnimationShowcase
+[2020.05.17-16.21.01:236][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.05.17-16.21.01:236][931]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AnimationShowcase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.17-16.21.01:236][931]LightingResults: New page: Lighting Build
+[2020.05.17-16.21.01:237][931]LoadErrors: New page: Loading map: AnimationShowcase.umap
+[2020.05.17-16.21.01:258][931]MapCheck: New page: Map Check
+[2020.05.17-16.21.01:258][931]LightingResults: New page: Lighting Build
+[2020.05.17-16.21.01:302][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.05.17-16.21.01:442][931]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.17-16.21.01:466][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.05.17-16.21.01:493][931]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.17-16.21.01:494][931]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2020.05.17-16.21.01:494][931]LogFileHelpers: Loading map 'AnimationShowcase' took 0.257
+[2020.05.17-16.21.04:661][305]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (MaleNPCTalkingStanding_EngineReady9)
+[2020.05.17-16.21.07:611][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.17-16.21.07:950][675]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.17-16.21.22:251][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.17-16.21.22:326][872]LogTemp: Repeating last play command: Simulate
+[2020.05.17-16.21.22:342][872]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/AnimationShowcase.AnimationShowcase:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AnimationShowcase.AnimationShowcase:PersistentLevel.AnimationShowcase' with GeneratedClass '/Game/Levels/TestLevels/AnimationShowcase.AnimationShowcase_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AnimationShowcase.AnimationShowcase:PersistentLevel.AnimationShowcase'
+[2020.05.17-16.21.22:350][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.17-16.21.22:350][872]PIE: New page: SIE session: AnimationShowcase (17 May 2020 18:21:22)
+[2020.05.17-16.21.22:370][872]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_AnimationShowcase
+[2020.05.17-16.21.22:373][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003433s)
+[2020.05.17-16.21.22:374][872]LogAIModule: Creating AISystem for world AnimationShowcase
+[2020.05.17-16.21.22:374][872]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2020.05.17-16.21.22:374][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/AnimationShowcase.AnimationShowcase to /Game/Levels/TestLevels/UEDPIE_0_AnimationShowcase.AnimationShowcase (0.004509s)
+[2020.05.17-16.21.22:396][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.05.17-16.21.22:460][872]LogInit: XAudio2 using 'Headphones (4- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.17-16.21.22:472][872]LogInit: FAudioDevice initialized.
+[2020.05.17-16.21.22:510][872]LogLoad: Game class is 'GM_Bee_C'
+[2020.05.17-16.21.22:514][872]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_AnimationShowcase.AnimationShowcase up for play (max tick rate 0) at 2020.05.17-17.21.22
+[2020.05.17-16.21.22:516][872]LogWorld: Bringing up level for play took: 0.004924
+[2020.05.17-16.21.22:532][872]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2020.05.17-16.21.22:536][872]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_AnimationShowcase 1.087
+[2020.05.17-16.21.22:553][872]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/AnimationShowcase.AnimationShowcase:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AnimationShowcase.AnimationShowcase:PersistentLevel.AnimationShowcase' with GeneratedClass '/Game/Levels/TestLevels/AnimationShowcase.AnimationShowcase_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AnimationShowcase.AnimationShowcase:PersistentLevel.AnimationShowcase'
+[2020.05.17-16.21.33:288][167]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (MaleNPCTalkingStanding_EngineReady2)
+[2020.05.17-16.21.44:983][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.17-16.38.31:089][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.17-16.38.31:187][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.05.17-16.38.31:312][940]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AnimationShowcase3509B60D4CDAEB73371DCE9F0D39DD41.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AnimationShowcase.umap'
+[2020.05.17-16.38.31:350][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevels/AnimationShowcase_BuiltData" FILE="../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AnimationShowcase_BuiltData.uasset" SILENT=true
+[2020.05.17-16.38.31:374][940]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AnimationShowcase_BuiltData03C1ED814F70CAD27AF0F986631EA4DF.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AnimationShowcase_BuiltData.uasset'
+[2020.05.17-16.38.32:391][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.05.17-16.38.45:471][573]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Blueprints/AI/Tree/AI_BaseTree.AI_BaseTree
+[2020.05.17-16.38.45:564][573]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.17-16.38.49:258][974]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/AnimationShowcase.AnimationShowcase:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AnimationShowcase.AnimationShowcase:PersistentLevel.AnimationShowcase' with GeneratedClass '/Game/Levels/TestLevels/AnimationShowcase.AnimationShowcase_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AnimationShowcase.AnimationShowcase:PersistentLevel.AnimationShowcase'
+[2020.05.17-16.38.49:261][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-16.38.49:292][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.17-16.38.49:293][974]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/AnimationShowcase.AnimationShowcase:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AnimationShowcase.AnimationShowcase:PersistentLevel.AnimationShowcase' with GeneratedClass '/Game/Levels/TestLevels/AnimationShowcase.AnimationShowcase_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AnimationShowcase.AnimationShowcase:PersistentLevel.AnimationShowcase'
+[2020.05.17-16.38.49:318][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-16.38.49:322][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.05.17-16.38.49:364][978]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.05.17-16.38.51:506][230]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Blueprints/AI/Tree/AI_FleeTree.AI_FleeTree
+[2020.05.17-16.39.25:359][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Tree/AI_FleeTree" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_FleeTree.uasset" SILENT=true
+[2020.05.17-16.39.25:383][149]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AI_FleeTree127286C846BA39209E756A972772C1C9.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_FleeTree.uasset'
+[2020.05.17-16.39.35:295][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Tree/AI_FleeTree" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_FleeTree.uasset" SILENT=true
+[2020.05.17-16.39.35:311][300]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AI_FleeTreeB97AF859499E387196820CA7B0E7EEED.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_FleeTree.uasset'
+[2020.05.17-16.39.40:565][919]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.17-16.39.40:565][919]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AI/Tree/BTService_BlueprintBase_New.BTService_BlueprintBase_New
+[2020.05.17-16.39.40:783][919]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.05.17-16.39.41:480][919]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/AI/Tree/BTService_BlueprintBase_New.
+[2020.05.17-16.39.47:804][670]BlueprintLog: New page: Compile BTService_BlueprintBase_New
+[2020.05.17-16.39.47:837][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.05.17-16.39.48:194][709]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BTService_BlueprintBase_NewBAFD38694EE2060FE6B9E7A87F7432C8.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/BTService_BlueprintBase_New.uasset'
+[2020.05.17-16.39.48:241][712]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AI/Tree/BTService_BlueprintBase_New.
+[2020.05.17-16.39.52:962][235]LogSlate: Window 'BTService_BlueprintBase_New' being destroyed
+[2020.05.17-16.39.54:607][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.05.17-16.39.54:768][427]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AnimationShowcase3AA483A045F9413ED91752B5A279C291.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AnimationShowcase.umap'
+[2020.05.17-16.39.54:799][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevels/AnimationShowcase_BuiltData" FILE="../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AnimationShowcase_BuiltData.uasset" SILENT=true
+[2020.05.17-16.39.54:816][427]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AnimationShowcase_BuiltData09B6F37E4B9BE16F8B00119284959F11.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AnimationShowcase_BuiltData.uasset'
+[2020.05.17-16.39.55:692][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.05.17-16.40.47:388][660]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AI/BP_Bee_Background_Controller.BP_Bee_Background_Controller
+[2020.05.17-16.40.50:404][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.40.50:449][971]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_Controller906100DD41AC7959818D60BF31C48022.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.40.52:390][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.40.52:428][195]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_Controller9EE640E24FF35C15A04AD3A93609936F.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.40.52:841][243]BlueprintLog: New page: Compile BP_Bee_Background_Controller
+[2020.05.17-16.40.53:001][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.05.17-16.40.54:340][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.40.54:379][394]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_Controller57F1FBE5407CA32CC5AD32B372542AFC.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.40.58:575][889]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AI/I_AI.I_AI
+[2020.05.17-16.42.16:566][526]BlueprintLog: New page: Compile I_AI
+[2020.05.17-16.42.16:628][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.05.17-16.42.17:079][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/I_AI" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/I_AI.uasset" SILENT=true
+[2020.05.17-16.42.17:104][573]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/I_AIF6F1CD594122A1AB3913808993C19F17.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/I_AI.uasset'
+[2020.05.17-16.42.25:403][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/I_AI" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/I_AI.uasset" SILENT=true
+[2020.05.17-16.42.25:420][707]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/I_AIA4CF8BC845CCF7A0874F66A91925423A.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/I_AI.uasset'
+[2020.05.17-16.42.32:744][568]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BTService_BlueprintBase_New0ACD0E874D33AD98541A9697A4740211.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/BTService_BlueprintBase_New.uasset'
+[2020.05.17-16.42.34:778][808]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BTService_BlueprintBase_NewEFB1CCCE465A29D27D40B5990DDC285D.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/BTService_BlueprintBase_New.uasset'
+[2020.05.17-16.42.38:480][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.42.38:518][248]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_ControllerDFD8CE9B4B20AB521B667FB80A2237A0.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.42.42:509][723]BlueprintLog: New page: Compile BP_Bee_Background_Controller
+[2020.05.17-16.42.42:678][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.05.17-16.42.42:935][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.42.42:975][745]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_ControllerAC88F5964FA3827A5B3430938DF73FAB.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.42.51:895][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.42.51:936][799]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_Controller208EB9534481494C0878D9BA1C841165.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.43.17:401][845]BlueprintLog: New page: Compile BP_Bee_Background_Controller
+[2020.05.17-16.43.17:564][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.05.17-16.43.18:032][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.43.18:072][897]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_ControllerE9524072454B8C4E64F205B0730B895E.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.43.20:863][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.43.20:904][228]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_ControllerFC23109B428E274C89EDA996117BDD58.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.43.22:832][458]BlueprintLog: New page: Compile BP_Bee_Background_Controller
+[2020.05.17-16.43.22:994][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.05.17-16.43.23:318][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.43.23:358][493]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_Controller03B9B9B04C0762898F17F1BB90A316E0.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.43.34:555][833]BlueprintLog: New page: Compile I_AI
+[2020.05.17-16.43.34:607][833]LogBlueprint: Warning: [Compiler BP_Bee_Background_Controller] Interface ' IsCowering ' is already implemented as a function graph but is expected as an event. Remove the function graph and reimplement as an event.
+[2020.05.17-16.43.34:641][833]LogBlueprint: Warning: [Compiler BP_Bee_Background_Controller] [1400.58] Compile of BP_Bee_Background_Controller successful, but with 1 Warning(s) [in 85 ms] (/Game/Blueprints/AI/BP_Bee_Background_Controller.BP_Bee_Background_Controller)
+[2020.05.17-16.43.34:812][833]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.05.17-16.43.35:214][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/I_AI" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/I_AI.uasset" SILENT=true
+[2020.05.17-16.43.35:233][873]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/I_AI55DD23644FEE9AA50E290987CEDFC2D2.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/I_AI.uasset'
+[2020.05.17-16.43.39:260][348]BlueprintLog: New page: Compile BP_Bee_Background_Controller
+[2020.05.17-16.43.39:421][348]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.05.17-16.46.09:413][442]BlueprintLog: New page: Compile BP_Bee_Background_Controller
+[2020.05.17-16.46.09:574][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.05.17-16.46.09:877][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.46.09:923][472]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_Controller8585FE2543FFA9A16AE9A8BF553345E1.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.46.21:870][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.46.21:911][723]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_ControllerB62F521D4DA102CF5BE9E9AB31F02281.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.46.34:043][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.05.17-16.46.34:048][167]LogMetaData: Removing '/Game/Blueprints/AI/Tree/BTS_IsCowering.SKEL_BTS_IsCowering_C' ref from Metadata '/Game/Blueprints/AI/Tree/BTService_BlueprintBase_New.PackageMetaData'
+[2020.05.17-16.46.34:048][167]LogMetaData: Removing '/Game/Blueprints/AI/Tree/BTS_IsCowering.BTS_IsCowering_C' ref from Metadata '/Game/Blueprints/AI/Tree/BTService_BlueprintBase_New.PackageMetaData'
+[2020.05.17-16.46.34:062][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Tree/BTS_IsCowering" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/BTS_IsCowering.uasset" SILENT=true
+[2020.05.17-16.46.34:070][167]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BTS_IsCoweringF4D227DD48069CCD37D62A9070649485.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/BTS_IsCowering.uasset'
+[2020.05.17-16.46.34:207][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.05.17-16.46.34:241][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.05.17-16.46.34:272][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.05.17-16.46.34:319][168]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AI/Tree/BTS_IsCowering.
+[2020.05.17-16.46.35:539][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.05.17-16.46.35:728][309]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AnimationShowcaseBCFA530240462F6B9B65D0BA0C8ED4E2.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AnimationShowcase.umap'
+[2020.05.17-16.46.35:762][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevels/AnimationShowcase_BuiltData" FILE="../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AnimationShowcase_BuiltData.uasset" SILENT=true
+[2020.05.17-16.46.35:785][309]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AnimationShowcase_BuiltDataAF9A3DF7468459E2A3B0CD8B491CFCD8.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AnimationShowcase_BuiltData.uasset'
+[2020.05.17-16.46.43:554][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Tree/AI_FleeTree" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_FleeTree.uasset" SILENT=true
+[2020.05.17-16.46.43:575][229]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AI_FleeTree69C0C1DA419B0065DE372F98622B0D36.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_FleeTree.uasset'
+[2020.05.17-16.47.10:125][393]BlueprintLog: New page: Compile BTS_IsCowering
+[2020.05.17-16.47.10:283][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.05.17-16.47.12:211][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Tree/BTS_IsCowering" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/BTS_IsCowering.uasset" SILENT=true
+[2020.05.17-16.47.12:234][620]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BTS_IsCoweringAB53C5C6496EBC10DAAA84BE907CF257.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/BTS_IsCowering.uasset'
+[2020.05.17-16.47.14:570][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.05.17-16.47.14:580][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Tree/AI_FleeTree" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_FleeTree.uasset" SILENT=true
+[2020.05.17-16.47.14:596][894]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AI_FleeTree9E51869C48400E8DEB01BBBB513FECB7.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_FleeTree.uasset'
+[2020.05.17-16.47.20:562][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Tree/AI_FleeTree" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_FleeTree.uasset" SILENT=true
+[2020.05.17-16.47.20:577][603]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AI_FleeTree8538896449AE98CB220449852039FD2C.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_FleeTree.uasset'
+[2020.05.17-16.47.32:446][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Tree/AI_FleeTree" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_FleeTree.uasset" SILENT=true
+[2020.05.17-16.47.32:464][  3]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AI_FleeTree284796BC4DBA384D9AEA6E899D7A4235.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_FleeTree.uasset'
+[2020.05.17-16.47.33:854][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.05.17-16.47.36:772][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.05.17-16.47.47:605][799]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC
+[2020.05.17-16.47.47:621][799]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2020.05.17-16.47.47:621][799]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.05.17-16.47.47:787][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.17-16.47.47:792][799]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2020.05.17-16.47.47:792][799]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.05.17-16.47.48:049][799]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.17-16.47.48:616][799]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.05.17-16.47.58:112][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArtAssets/Animations/Man/AP_MaleNPC" FILE="../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset" SILENT=true
+[2020.05.17-16.47.58:150][926]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AP_MaleNPC38B4136543F440726DCC21B6767B14D8.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset'
+[2020.05.17-16.48.15:156][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArtAssets/Animations/Man/AP_MaleNPC" FILE="../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset" SILENT=true
+[2020.05.17-16.48.15:184][926]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AP_MaleNPC24A1B04D4ACC61A87AEEBAA80E5EE196.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset'
+[2020.05.17-16.48.15:622][976]BlueprintLog: New page: Compile AP_MaleNPC
+[2020.05.17-16.48.15:842][976]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2020.05.17-16.48.16:268][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArtAssets/Animations/Man/AP_MaleNPC" FILE="../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset" SILENT=true
+[2020.05.17-16.48.16:302][ 22]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AP_MaleNPCF7017C9E4E3784A4B9EB90924C06304B.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset'
+[2020.05.17-16.48.38:901][664]BlueprintLog: New page: Compile AP_MaleNPC
+[2020.05.17-16.48.39:097][664]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.05.17-16.48.42:252][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.48.42:292][ 39]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_ControllerA0F0D6A44FB545FED1FDA1AD9A17C0CC.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.48.42:706][ 87]BlueprintLog: New page: Compile BP_Bee_Background_Controller
+[2020.05.17-16.48.42:902][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.05.17-16.49.05:794][821]LogSlate: Took 0.006376 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.05.17-16.49.10:472][370]BlueprintLog: New page: Compile I_AI
+[2020.05.17-16.49.10:533][370]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.05.17-16.49.11:016][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/I_AI" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/I_AI.uasset" SILENT=true
+[2020.05.17-16.49.11:044][424]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/I_AI12A814D5407E728D330FC580E6DDA4D6.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/I_AI.uasset'
+[2020.05.17-16.49.14:873][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Tree/BTS_IsCowering" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/BTS_IsCowering.uasset" SILENT=true
+[2020.05.17-16.49.14:888][881]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BTS_IsCoweringE3EF461B49BF3C4AE283448D19F8C321.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/BTS_IsCowering.uasset'
+[2020.05.17-16.49.16:380][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.49.16:424][ 55]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_ControllerF286F98541981CC85535AF820A79263F.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.49.16:826][102]BlueprintLog: New page: Compile BP_Bee_Background_Controller
+[2020.05.17-16.49.17:023][102]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.05.17-16.49.21:538][630]BlueprintLog: New page: Compile BP_Bee_Background_Controller
+[2020.05.17-16.49.21:732][630]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.05.17-16.49.22:142][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.49.22:185][675]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_Controller4E898A174744CFE47577629B5A8CAC4B.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.49.26:434][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.49.26:479][179]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_Controller078F559C49CF018B3764B6BD274BA259.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.49.26:924][230]BlueprintLog: New page: Compile BP_Bee_Background_Controller
+[2020.05.17-16.49.27:125][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.05.17-16.49.27:520][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.49.27:563][273]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_Controller2887E72844A8A7A4170894B99857AEE5.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.50.02:529][345]BlueprintLog: New page: Compile AP_MaleNPC
+[2020.05.17-16.50.02:683][345]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Engine/Transient.World_6:PersistentLevel.BP_BackgroundAI_Base_C_0.CharacterMesh0.AP_MaleNPC_C_4
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:0246
+[2020.05.17-16.50.02:683][345]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Engine/Transient.World_4:PersistentLevel.BP_CivilianChaseable_C_0.CharacterMesh0.AP_MaleNPC_C_4
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:0246
+[2020.05.17-16.50.02:720][345]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.05.17-16.50.03:110][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArtAssets/Animations/Man/AP_MaleNPC" FILE="../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset" SILENT=true
+[2020.05.17-16.50.03:145][387]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AP_MaleNPC790CE3C94F32B6DFEE6428822181D7F0.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset'
+[2020.05.17-16.50.58:679][942]BlueprintLog: New page: Compile AP_MaleNPC
+[2020.05.17-16.50.58:833][942]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Engine/Transient.World_4:PersistentLevel.BP_CivilianChaseable_C_0.CharacterMesh0.AP_MaleNPC_C_5
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:0246
+[2020.05.17-16.50.58:833][942]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Engine/Transient.World_6:PersistentLevel.BP_BackgroundAI_Base_C_0.CharacterMesh0.AP_MaleNPC_C_5
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:0246
+[2020.05.17-16.50.58:875][942]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.05.17-16.50.59:336][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArtAssets/Animations/Man/AP_MaleNPC" FILE="../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset" SILENT=true
+[2020.05.17-16.50.59:372][992]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AP_MaleNPC8FAA0CE84D36209C798EFBBF23F28435.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset'
+[2020.05.17-16.51.02:777][377]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/MaleNPC_CowerEngineReady40C5AB0E49FEF9B07972D5B1417C270B.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleNPC_CowerEngineReady.uasset'
+[2020.05.17-16.51.02:800][377]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/MaleNPC_CowerEngineReady460653D946D2DB79CBE83F85ACF659D3.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/MaleNPC_CowerEngineReady.uasset'
+[2020.05.17-16.51.24:283][839]BlueprintLog: New page: Compile AP_MaleNPC
+[2020.05.17-16.51.24:438][839]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Engine/Transient.World_6:PersistentLevel.BP_BackgroundAI_Base_C_0.CharacterMesh0.AP_MaleNPC_C_6
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:0246
+[2020.05.17-16.51.24:438][839]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Engine/Transient.World_4:PersistentLevel.BP_CivilianChaseable_C_0.CharacterMesh0.AP_MaleNPC_C_6
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:0246
+[2020.05.17-16.51.24:474][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.05.17-16.51.24:914][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArtAssets/Animations/Man/AP_MaleNPC" FILE="../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset" SILENT=true
+[2020.05.17-16.51.24:951][887]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AP_MaleNPC85F4CB7142A8C1D0D96800A2E01D7873.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset'
+[2020.05.17-16.51.27:548][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.05.17-16.51.27:742][190]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AnimationShowcaseA6452EAB4D1297F803F13785FB0EE573.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AnimationShowcase.umap'
+[2020.05.17-16.51.27:777][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevels/AnimationShowcase_BuiltData" FILE="../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AnimationShowcase_BuiltData.uasset" SILENT=true
+[2020.05.17-16.51.27:796][190]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AnimationShowcase_BuiltData4593D6184C3BF56A7CBEBCB841366803.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AnimationShowcase_BuiltData.uasset'
+[2020.05.17-16.52.04:133][222]LogAIModule: Creating AISystem for world AITest
+[2020.05.17-16.52.04:148][222]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/TestLevels/AITest.AITest
+[2020.05.17-16.52.04:188][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.05.17-16.52.04:189][222]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AITest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.17-16.52.04:189][222]LightingResults: New page: Lighting Build
+[2020.05.17-16.52.04:189][222]LoadErrors: New page: Loading map: AITest.umap
+[2020.05.17-16.52.04:190][222]MapCheck: New page: Map Check
+[2020.05.17-16.52.04:191][222]LightingResults: New page: Lighting Build
+[2020.05.17-16.52.04:227][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.05.17-16.52.04:475][222]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.17-16.52.04:517][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.05.17-16.52.04:544][222]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.17-16.52.04:544][222]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2020.05.17-16.52.04:544][222]LogFileHelpers: Loading map 'AITest' took 0.356
+[2020.05.17-16.52.05:339][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevels/AITest" FILE="../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AITest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.17-16.52.05:378][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.17-16.52.05:594][308]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AITest8C900D6C4B9CEC422C593294A3F5387E.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AITest.umap'
+[2020.05.17-16.52.05:627][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevels/AITest_BuiltData" FILE="../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AITest_BuiltData.uasset" SILENT=true
+[2020.05.17-16.52.05:663][308]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AITest_BuiltDataE9420B214678F63E989A6FBE9EA84EEB.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AITest_BuiltData.uasset'
+[2020.05.17-16.52.07:951][525]LogEditorViewport: Clicking on Actor (LMB): BP_BeeKeeper_C (BP_BeeKeeper)
+[2020.05.17-16.52.08:326][557]Cmd: DELETE
+[2020.05.17-16.52.08:326][557]Cmd: ACTOR DELETE
+[2020.05.17-16.52.08:329][557]LogEditorActor: Deleted Actor: BP_BeeKeeper_C
+[2020.05.17-16.52.08:366][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.05.17-16.52.08:366][557]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.05.17-16.52.09:201][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.17-16.52.13:354][149]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Engine/Transient.World_4:PersistentLevel.BP_CivilianChaseable_C_1.CharacterMesh0.AP_MaleNPC_C_0
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:0246
+[2020.05.17-16.52.13:363][150]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Engine/Transient.World_6:PersistentLevel.BP_BackgroundAI_Base_C_1.CharacterMesh0.AP_MaleNPC_C_0
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:0246
+[2020.05.17-16.52.14:540][288]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Engine/Transient.World_17:PersistentLevel.BP_Civilian_C_0.CharacterMesh0.AP_MaleNPC_C_0
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:0246
+[2020.05.17-16.52.14:622][297]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Game/Levels/TestLevels/AITest.AITest:PersistentLevel.BP_Civilian_C_0.CharacterMesh0.AP_MaleNPC_C_0
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:0246
+[2020.05.17-16.52.14:624][297]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Game/Levels/TestLevels/AITest.AITest:PersistentLevel.BP_Civilian.CharacterMesh0.AP_MaleNPC_C_0
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:0246
+[2020.05.17-16.52.14:626][297]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Game/Levels/TestLevels/AITest.AITest:PersistentLevel.BP_Civilian.CharacterMesh0.AP_MaleNPC_C_0
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:0246
+[2020.05.17-16.52.15:109][347]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Game/Levels/TestLevels/AITest.AITest:PersistentLevel.BP_Civilian_C_1.CharacterMesh0.AP_MaleNPC_C_0
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:0246
+[2020.05.17-16.52.15:110][347]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Game/Levels/TestLevels/AITest.AITest:PersistentLevel.BP_Civilian_2.CharacterMesh0.AP_MaleNPC_C_0
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:0246
+[2020.05.17-16.52.15:143][347]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Game/Levels/TestLevels/AITest.AITest:PersistentLevel.BP_Civilian_2.CharacterMesh0.AP_MaleNPC_C_0
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:0246
+[2020.05.17-16.52.16:234][469]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.17-16.52.16:821][535]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-16.52.16:825][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.17-16.52.16:825][535]PIE: New page: PIE session: AITest (17 May 2020 18:52:16)
+[2020.05.17-16.52.16:826][535]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_AITest
+[2020.05.17-16.52.16:830][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004213s)
+[2020.05.17-16.52.16:830][535]LogAIModule: Creating AISystem for world AITest
+[2020.05.17-16.52.16:831][535]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2020.05.17-16.52.16:831][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/AITest.AITest to /Game/Levels/TestLevels/UEDPIE_0_AITest.AITest (0.005111s)
+[2020.05.17-16.52.16:869][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.05.17-16.52.16:931][535]LogInit: XAudio2 using 'Headphones (4- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.17-16.52.16:944][535]LogInit: FAudioDevice initialized.
+[2020.05.17-16.52.16:944][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.17-16.52.16:970][535]LogLoad: Game class is 'GM_Bee_C'
+[2020.05.17-16.52.16:972][535]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Game/Levels/TestLevels/UEDPIE_0_AITest.AITest:PersistentLevel.BP_Civilian_2.CharacterMesh0.AP_MaleNPC_C_0
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:0246
+[2020.05.17-16.52.16:972][535]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_Controller". Blueprint:  AP_MaleNPC Function:  Execute Ubergraph AP Male NPC Graph:  EventGraph Node:  Set IsCowering
+[2020.05.17-16.52.16:973][535]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_AITest.AITest up for play (max tick rate 0) at 2020.05.17-17.52.16
+[2020.05.17-16.52.16:974][535]LogWorld: Bringing up level for play took: 0.002849
+[2020.05.17-16.52.16:990][535]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_AITest -0.459
+[2020.05.17-16.52.16:990][535]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-16.52.32:216][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-16.52.32:220][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-16.52.32:245][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.17-16.52.32:245][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-16.52.32:286][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-16.52.32:290][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.05.17-16.52.32:299][359]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.17-16.52.32:327][360]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.05.17-16.52.33:883][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.17-16.52.37:760][990]LogSlate: Window 'Message Log' being destroyed
+[2020.05.17-16.52.37:765][990]LogSlate: Window 'Message Log' being destroyed
+[2020.05.17-16.55.16:124][351]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UAIBlueprintHelperLibrary::GetAIController' [Element not found.]
+[2020.05.17-16.55.19:224][716]BlueprintLog: New page: Compile AP_MaleNPC
+[2020.05.17-16.55.19:392][716]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Engine/Transient.World_17:PersistentLevel.BP_Civilian_C_0.CharacterMesh0.AP_MaleNPC_C_1
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:025E
+[2020.05.17-16.55.19:392][716]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Game/Levels/TestLevels/AITest.AITest:PersistentLevel.BP_Civilian_2.CharacterMesh0.AP_MaleNPC_C_1
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:025E
+[2020.05.17-16.55.19:392][716]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Engine/Transient.World_4:PersistentLevel.BP_CivilianChaseable_C_1.CharacterMesh0.AP_MaleNPC_C_1
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:025E
+[2020.05.17-16.55.19:392][716]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Engine/Transient.World_6:PersistentLevel.BP_BackgroundAI_Base_C_1.CharacterMesh0.AP_MaleNPC_C_1
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:025E
+[2020.05.17-16.55.19:432][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.05.17-16.55.20:245][808]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.17-16.55.20:272][808]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-16.55.20:277][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.17-16.55.20:277][808]PIE: New page: PIE session: AITest (17 May 2020 18:55:20)
+[2020.05.17-16.55.20:277][808]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_AITest
+[2020.05.17-16.55.20:281][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004167s)
+[2020.05.17-16.55.20:282][808]LogAIModule: Creating AISystem for world AITest
+[2020.05.17-16.55.20:282][808]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2020.05.17-16.55.20:282][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/AITest.AITest to /Game/Levels/TestLevels/UEDPIE_0_AITest.AITest (0.004873s)
+[2020.05.17-16.55.20:319][808]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.05.17-16.55.20:382][808]LogInit: XAudio2 using 'Headphones (4- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.17-16.55.20:394][808]LogInit: FAudioDevice initialized.
+[2020.05.17-16.55.20:421][808]LogLoad: Game class is 'GM_Bee_C'
+[2020.05.17-16.55.20:423][808]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Game/Levels/TestLevels/UEDPIE_0_AITest.AITest:PersistentLevel.BP_Civilian_2.CharacterMesh0.AP_MaleNPC_C_0
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:025E
+[2020.05.17-16.55.20:423][808]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_Controller". Blueprint:  AP_MaleNPC Function:  Execute Ubergraph AP Male NPC Graph:  EventGraph Node:  Set IsCowering
+[2020.05.17-16.55.20:424][808]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_AITest.AITest up for play (max tick rate 0) at 2020.05.17-17.55.20
+[2020.05.17-16.55.20:425][808]LogWorld: Bringing up level for play took: 0.003156
+[2020.05.17-16.55.20:442][808]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_AITest 0.992
+[2020.05.17-16.55.20:442][808]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-16.55.22:256][ 23]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-16.55.22:262][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-16.55.22:286][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.17-16.55.22:286][ 23]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-16.55.22:326][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-16.55.22:331][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.05.17-16.55.22:339][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.17-16.55.22:365][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.05.17-16.55.28:459][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.17-16.55.28:550][731]LogSlate: Window 'Message Log' being destroyed
+[2020.05.17-16.55.28:554][731]LogSlate: Window 'Message Log' being destroyed
+[2020.05.17-16.55.35:991][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.55.36:048][615]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_Controller252B3CE84CCABF370027AE8BF03B9C8F.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.55.36:432][660]BlueprintLog: New page: Compile BP_Bee_Background_Controller
+[2020.05.17-16.55.36:628][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.05.17-16.55.47:209][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/I_AI" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/I_AI.uasset" SILENT=true
+[2020.05.17-16.55.47:236][919]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/I_AI6AC912B744FE6278F3CF46B6E0642518.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/I_AI.uasset'
+[2020.05.17-16.55.52:569][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Tree/BTS_IsCowering" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/BTS_IsCowering.uasset" SILENT=true
+[2020.05.17-16.55.52:593][556]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BTS_IsCowering49C77D3B4CCF564F06EDD9B9203AB909.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/BTS_IsCowering.uasset'
+[2020.05.17-16.55.57:742][165]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.17-16.55.57:767][165]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-16.55.57:772][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.17-16.55.57:772][165]PIE: New page: PIE session: AITest (17 May 2020 18:55:57)
+[2020.05.17-16.55.57:772][165]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_AITest
+[2020.05.17-16.55.57:777][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004533s)
+[2020.05.17-16.55.57:777][165]LogAIModule: Creating AISystem for world AITest
+[2020.05.17-16.55.57:777][165]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2020.05.17-16.55.57:777][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/AITest.AITest to /Game/Levels/TestLevels/UEDPIE_0_AITest.AITest (0.005347s)
+[2020.05.17-16.55.57:816][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.05.17-16.55.57:881][165]LogInit: XAudio2 using 'Headphones (4- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.17-16.55.57:893][165]LogInit: FAudioDevice initialized.
+[2020.05.17-16.55.57:921][165]LogLoad: Game class is 'GM_Bee_C'
+[2020.05.17-16.55.57:924][165]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Game/Levels/TestLevels/UEDPIE_0_AITest.AITest:PersistentLevel.BP_Civilian_2.CharacterMesh0.AP_MaleNPC_C_0
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:025E
+[2020.05.17-16.55.57:924][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_Controller". Blueprint:  AP_MaleNPC Function:  Execute Ubergraph AP Male NPC Graph:  EventGraph Node:  Set IsCowering
+[2020.05.17-16.55.57:924][165]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_AITest.AITest up for play (max tick rate 0) at 2020.05.17-17.55.57
+[2020.05.17-16.55.57:925][165]LogWorld: Bringing up level for play took: 0.003035
+[2020.05.17-16.55.57:942][165]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_AITest 0.492
+[2020.05.17-16.55.57:942][165]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-16.55.59:047][295]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-16.55.59:053][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-16.55.59:079][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.17-16.55.59:079][295]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-16.55.59:122][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-16.55.59:127][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.05.17-16.55.59:162][296]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.05.17-16.56.10:810][647]LogSlate: Window 'Message Log' being destroyed
+[2020.05.17-16.56.10:813][647]LogSlate: Window 'Message Log' being destroyed
+[2020.05.17-16.56.19:428][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArtAssets/Animations/Man/AP_MaleNPC" FILE="../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset" SILENT=true
+[2020.05.17-16.56.19:474][674]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AP_MaleNPC7E805D6C4DD09757A98177A5638684DA.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset'
+[2020.05.17-16.56.22:556][ 39]BlueprintLog: New page: Compile BP_Bee_Background_Controller
+[2020.05.17-16.56.22:762][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.05.17-16.56.22:937][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.56.22:977][ 52]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_Controller37AE8440401B2F25560FE7990C9E81EE.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.56.27:932][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.56.27:975][640]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_ControllerA08889D14F15724CC46CC7A2A4D82BD3.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.56.41:808][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Tree/AI_FleeTree" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_FleeTree.uasset" SILENT=true
+[2020.05.17-16.56.41:834][203]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AI_FleeTree74C9486047E88510D935948A58AF60A8.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_FleeTree.uasset'
+[2020.05.17-16.56.42:819][315]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.05.17-16.56.42:830][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevels/AITest" FILE="../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AITest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.17-16.56.42:867][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.05.17-16.56.43:082][315]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AITest02337DD5475DB4AE8F6CBC83F1CA358D.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AITest.umap'
+[2020.05.17-16.56.43:116][315]LogFileHelpers: Saving map 'AITest' took 0.287
+[2020.05.17-16.56.58:596][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArtAssets/Animations/Man/AP_MaleNPC" FILE="../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset" SILENT=true
+[2020.05.17-16.56.58:633][157]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AP_MaleNPCD3B0B76343EA7FF96F48A3ACD2246B55.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset'
+[2020.05.17-16.57.00:108][330]LogEditorViewport: Clicking on Actor (LMB): BP_Civilian_C (BP_Civilian)
+[2020.05.17-16.57.01:743][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.17-16.57.14:844][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BP_Bee_Background_Controller" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" SILENT=true
+[2020.05.17-16.57.14:884][870]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/BP_Bee_Background_Controller212B2CB246AA9EA9F5505ABDCD9339B0.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset'
+[2020.05.17-16.57.17:758][204]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.17-16.57.17:785][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-16.57.17:789][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.17-16.57.17:789][204]PIE: New page: PIE session: AITest (17 May 2020 18:57:17)
+[2020.05.17-16.57.17:789][204]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_AITest
+[2020.05.17-16.57.17:792][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003275s)
+[2020.05.17-16.57.17:793][204]LogAIModule: Creating AISystem for world AITest
+[2020.05.17-16.57.17:793][204]LogPlayLevel: PIE: World Init took: (0.000463s)
+[2020.05.17-16.57.17:793][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/AITest.AITest to /Game/Levels/TestLevels/UEDPIE_0_AITest.AITest (0.003839s)
+[2020.05.17-16.57.17:832][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.05.17-16.57.17:893][204]LogInit: XAudio2 using 'Headphones (4- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.17-16.57.17:906][204]LogInit: FAudioDevice initialized.
+[2020.05.17-16.57.17:937][204]LogLoad: Game class is 'GM_Bee_C'
+[2020.05.17-16.57.17:938][204]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Game/Levels/TestLevels/UEDPIE_0_AITest.AITest:PersistentLevel.BP_Civilian_2.CharacterMesh0.AP_MaleNPC_C_0
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:025E
+[2020.05.17-16.57.17:939][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_Controller". Blueprint:  AP_MaleNPC Function:  Execute Ubergraph AP Male NPC Graph:  EventGraph Node:  Set IsCowering
+[2020.05.17-16.57.17:939][204]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_AITest.AITest up for play (max tick rate 0) at 2020.05.17-17.57.17
+[2020.05.17-16.57.17:939][204]LogWorld: Bringing up level for play took: 0.001991
+[2020.05.17-16.57.17:956][204]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_AITest 0.507
+[2020.05.17-16.57.17:957][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-16.57.19:743][416]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-16.57.19:748][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-16.57.19:774][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.17-16.57.19:774][416]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-16.57.19:812][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-16.57.19:817][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.05.17-16.57.19:851][417]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.05.17-16.57.21:802][565]LogSlate: Window 'Message Log' being destroyed
+[2020.05.17-16.57.21:805][565]LogSlate: Window 'Message Log' being destroyed
+[2020.05.17-17.11.10:298][261]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.17-17.11.10:327][261]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-17.11.10:331][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.17-17.11.10:331][261]PIE: New page: PIE session: AITest (17 May 2020 19:11:10)
+[2020.05.17-17.11.10:332][261]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_AITest
+[2020.05.17-17.11.10:337][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004998s)
+[2020.05.17-17.11.10:337][261]LogAIModule: Creating AISystem for world AITest
+[2020.05.17-17.11.10:338][261]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2020.05.17-17.11.10:338][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/AITest.AITest to /Game/Levels/TestLevels/UEDPIE_0_AITest.AITest (0.005795s)
+[2020.05.17-17.11.10:379][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.05.17-17.11.10:441][261]LogInit: XAudio2 using 'Headphones (4- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.17-17.11.10:454][261]LogInit: FAudioDevice initialized.
+[2020.05.17-17.11.10:479][261]LogLoad: Game class is 'GM_Bee_C'
+[2020.05.17-17.11.10:481][261]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Game/Levels/TestLevels/UEDPIE_0_AITest.AITest:PersistentLevel.BP_Civilian_2.CharacterMesh0.AP_MaleNPC_C_0
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:025E
+[2020.05.17-17.11.10:481][261]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_Controller". Blueprint:  AP_MaleNPC Function:  Execute Ubergraph AP Male NPC Graph:  EventGraph Node:  Set IsCowering
+[2020.05.17-17.11.10:481][261]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_AITest.AITest up for play (max tick rate 0) at 2020.05.17-18.11.10
+[2020.05.17-17.11.10:482][261]LogWorld: Bringing up level for play took: 0.002422
+[2020.05.17-17.11.10:499][261]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_AITest 1.049
+[2020.05.17-17.11.10:499][261]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-17.11.27:461][294]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-17.11.27:467][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-17.11.27:494][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.17-17.11.27:495][294]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-17.11.27:538][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-17.11.27:543][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.05.17-17.11.27:553][294]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.17-17.11.27:579][295]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.05.17-17.11.31:874][800]LogSlate: Window 'Message Log' being destroyed
+[2020.05.17-17.11.31:878][800]LogSlate: Window 'Message Log' being destroyed
+[2020.05.17-17.14.05:265][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevels/AITest" FILE="../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AITest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.17-17.14.05:302][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.05.17-17.14.05:517][658]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AITest3C3933504788D8ADFE48E9A73207139A.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AITest.umap'
+[2020.05.17-17.14.05:553][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevels/AITest_BuiltData" FILE="../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AITest_BuiltData.uasset" SILENT=true
+[2020.05.17-17.14.05:586][658]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AITest_BuiltData153B4B8841DFB29A732FCB8EB1390828.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AITest_BuiltData.uasset'
+[2020.05.17-17.14.21:496][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Tree/AI_BaseTree" FILE="../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_BaseTree.uasset" SILENT=true
+[2020.05.17-17.14.21:527][548]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AI_BaseTree27AD9EE14EA8DF4A322AED88C227DE3A.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_BaseTree.uasset'
+[2020.05.17-17.14.23:125][737]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.17-17.14.23:153][737]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-17.14.23:160][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.17-17.14.23:160][737]PIE: New page: PIE session: AITest (17 May 2020 19:14:23)
+[2020.05.17-17.14.23:160][737]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_AITest
+[2020.05.17-17.14.23:165][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004286s)
+[2020.05.17-17.14.23:165][737]LogAIModule: Creating AISystem for world AITest
+[2020.05.17-17.14.23:165][737]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2020.05.17-17.14.23:165][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/AITest.AITest to /Game/Levels/TestLevels/UEDPIE_0_AITest.AITest (0.005075s)
+[2020.05.17-17.14.23:206][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.05.17-17.14.23:267][737]LogInit: XAudio2 using 'Headphones (4- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.17-17.14.23:280][737]LogInit: FAudioDevice initialized.
+[2020.05.17-17.14.23:311][737]LogLoad: Game class is 'GM_Bee_C'
+[2020.05.17-17.14.23:313][737]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_Controller
+	AP_MaleNPC_C /Game/Levels/TestLevels/UEDPIE_0_AITest.AITest:PersistentLevel.BP_Civilian_2.CharacterMesh0.AP_MaleNPC_C_0
+	Function /Game/ArtAssets/Animations/Man/AP_MaleNPC.AP_MaleNPC_C:ExecuteUbergraph_AP_MaleNPC:025E
+[2020.05.17-17.14.23:313][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetController_Controller". Blueprint:  AP_MaleNPC Function:  Execute Ubergraph AP Male NPC Graph:  EventGraph Node:  Set IsCowering
+[2020.05.17-17.14.23:313][737]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_AITest.AITest up for play (max tick rate 0) at 2020.05.17-18.14.23
+[2020.05.17-17.14.23:314][737]LogWorld: Bringing up level for play took: 0.002084
+[2020.05.17-17.14.23:331][737]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_AITest -0.119
+[2020.05.17-17.14.23:331][737]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-17.14.24:076][824]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-17.14.24:081][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-17.14.24:107][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.17-17.14.24:108][824]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest' with GeneratedClass '/Game/Levels/TestLevels/AITest.AITest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/AITest.AITest:PersistentLevel.AITest'
+[2020.05.17-17.14.24:146][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-17.14.24:151][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.05.17-17.14.24:186][825]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.05.17-17.14.26:074][ 35]LogSlate: Window 'Message Log' being destroyed
+[2020.05.17-17.14.26:079][ 35]LogSlate: Window 'Message Log' being destroyed
+[2020.05.17-17.14.30:349][542]LogUObjectArray: Warning: Empty slot
+[2020.05.17-17.14.30:350][542]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.17-17.14.30:357][542]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.007 s
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: 
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: Stack: 
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: [Callstack] 0x00007ffd481bc0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: [Callstack] 0x00007ffd47a36fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: [Callstack] 0x00007ffd47a44e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: [Callstack] 0x00007ffd2dc037f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: [Callstack] 0x00007ffd2cef5cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: [Callstack] 0x00007ffd2ceb1e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: [Callstack] 0x00007ffd4a565984 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: [Callstack] 0x00007ffd4a7515e3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: [Callstack] 0x00007ffd4a5ad70b UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: [Callstack] 0x00007ffd4a5aa302 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: [Callstack] 0x00007ffd4a5a9a4d UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: [Callstack] 0x00007ff726027a6a UE4Editor.exe!UnknownFunction []
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: [Callstack] 0x00007ff72603554c UE4Editor.exe!UnknownFunction []
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: [Callstack] 0x00007ff7260355ca UE4Editor.exe!UnknownFunction []
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: [Callstack] 0x00007ff72604316c UE4Editor.exe!UnknownFunction []
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: [Callstack] 0x00007ff726045b8e UE4Editor.exe!UnknownFunction []
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: [Callstack] 0x00007ffda2a07bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: [Callstack] 0x00007ffda494ce51 ntdll.dll!UnknownFunction []
+[2020.05.17-17.14.30:357][542]LogOutputDevice: Error: 
+[2020.05.17-17.14.30:363][542]LogStats:                SubmitErrorReport -  0.000 s
+[2020.05.17-17.14.30:949][542]LogStats:                    SendNewReport -  0.586 s
+[2020.05.17-17.14.30:949][542]LogStats:             FDebug::EnsureFailed -  0.599 s
+[2020.05.17-17.19.42:895][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.05.17-17.19.42:905][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArtAssets/Animations/Man/AP_MaleNPC" FILE="../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset" SILENT=true
+[2020.05.17-17.19.42:952][859]LogSavePackage: Moving '../../../../../Unreal Projects/ProjectBee/Saved/AP_MaleNPC090A3E894A6C3580DE48A7B671A9777A.tmp' to '../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset'
+[2020.05.17-17.19.43:829][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.17-17.19.44:211][957]LogSlate: Window 'ProjectBee - Unreal Editor' being destroyed
+[2020.05.17-17.19.44:458][958]Cmd: QUIT_EDITOR
+[2020.05.17-17.19.44:488][958]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.17-17.19.44:496][958]LogExit: Preparing to exit.
+[2020.05.17-17.19.45:654][958]LogExit: Editor shut down
+[2020.05.17-17.19.45:654][958]LogExit: Transaction tracking system shut down
+[2020.05.17-17.19.45:959][958]LogExit: Object subsystem successfully closed.
+[2020.05.17-17.19.45:979][958]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.17-17.19.45:984][958]LogD3D11RHI: Shutdown
+[2020.05.17-17.19.45:984][958]LogD3D11RHI: CleanupD3DDevice
+[2020.05.17-17.19.45:984][958]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.05.17-17.19.45:984][958]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.17-17.19.45:984][958]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.05.17-17.19.45:984][958]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.17-17.19.45:984][958]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.05.17-17.19.45:984][958]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.17-17.19.46:157][958]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.05.17-17.19.46:168][958]LogModuleManager: Shutting down and abandoning module PinnedCommandList (656)
+[2020.05.17-17.19.46:168][958]LogModuleManager: Shutting down and abandoning module SkeletonEditor (654)
+[2020.05.17-17.19.46:168][958]LogModuleManager: Shutting down and abandoning module BlueprintGraph (652)
+[2020.05.17-17.19.46:168][958]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2020.05.17-17.19.46:168][958]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2020.05.17-17.19.46:168][958]LogModuleManager: Shutting down and abandoning module StatsViewer (646)
+[2020.05.17-17.19.46:168][958]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2020.05.17-17.19.46:168][958]LogModuleManager: Shutting down and abandoning module WorldBrowser (642)
+[2020.05.17-17.19.46:169][958]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2020.05.17-17.19.46:169][958]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2020.05.17-17.19.46:169][958]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2020.05.17-17.19.46:169][958]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2020.05.17-17.19.46:169][958]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2020.05.17-17.19.46:169][958]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (630)
+[2020.05.17-17.19.46:169][958]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.05.17-17.19.46:169][958]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.05.17-17.19.46:169][958]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.05.17-17.19.46:169][958]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.05.17-17.19.46:170][958]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.05.17-17.19.46:171][958]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.05.17-17.19.46:171][958]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.05.17-17.19.47:977][958]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.05.17-17.19.47:977][958]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.05.17-17.19.47:977][958]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.05.17-17.19.47:977][958]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.05.17-17.19.47:977][958]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.05.17-17.19.47:977][958]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.05.17-17.19.47:977][958]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.05.17-17.19.47:977][958]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.05.17-17.19.47:977][958]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.05.17-17.19.47:977][958]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.05.17-17.19.47:977][958]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.05.17-17.19.47:977][958]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.05.17-17.19.47:977][958]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.05.17-17.19.47:977][958]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.05.17-17.19.47:977][958]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.05.17-17.19.47:978][958]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.05.17-17.19.47:978][958]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.05.17-17.19.47:978][958]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.05.17-17.19.47:978][958]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.05.17-17.19.47:978][958]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.05.17-17.19.47:978][958]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.05.17-17.19.47:978][958]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.05.17-17.19.47:978][958]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.05.17-17.19.48:030][958]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.05.17-17.19.48:030][958]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.05.17-17.19.48:030][958]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.05.17-17.19.48:030][958]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.05.17-17.19.48:030][958]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.05.17-17.19.48:031][958]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.05.17-17.19.48:031][958]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.05.17-17.19.48:031][958]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.05.17-17.19.48:031][958]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.05.17-17.19.48:031][958]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.05.17-17.19.48:031][958]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.05.17-17.19.48:039][958]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.05.17-17.19.48:039][958]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.05.17-17.19.48:040][958]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.05.17-17.19.48:040][958]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.05.17-17.19.48:040][958]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.05.17-17.19.48:040][958]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.05.17-17.19.48:040][958]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.05.17-17.19.48:040][958]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.05.17-17.19.48:041][958]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.05.17-17.19.48:041][958]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.05.17-17.19.48:041][958]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.05.17-17.19.48:041][958]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.05.17-17.19.48:041][958]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.05.17-17.19.48:041][958]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.05.17-17.19.48:041][958]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.05.17-17.19.48:041][958]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.05.17-17.19.48:041][958]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.05.17-17.19.48:041][958]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.05.17-17.19.48:041][958]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.05.17-17.19.48:041][958]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.05.17-17.19.48:041][958]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.05.17-17.19.48:041][958]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.05.17-17.19.48:041][958]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.05.17-17.19.48:041][958]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.05.17-17.19.48:043][958]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.05.17-17.19.48:218][958]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.05.17-17.19.48:219][958]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.05.17-17.19.48:320][958]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.05.17-17.19.48:420][958]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.05.17-17.19.48:420][958]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.05.17-17.19.48:420][958]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.05.17-17.19.48:420][958]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.05.17-17.19.48:420][958]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.05.17-17.19.48:420][958]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.17-17.19.48:420][958]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.05.17-17.19.48:420][958]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.05.17-17.19.48:420][958]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.05.17-17.19.48:420][958]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.05.17-17.19.48:420][958]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.05.17-17.19.48:420][958]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.05.17-17.19.48:420][958]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.05.17-17.19.48:420][958]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.05.17-17.19.48:421][958]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.05.17-17.19.48:421][958]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.05.17-17.19.48:421][958]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.05.17-17.19.48:421][958]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.05.17-17.19.48:421][958]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.05.17-17.19.48:422][958]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.05.17-17.19.48:422][958]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.05.17-17.19.48:422][958]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.05.17-17.19.48:422][958]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.05.17-17.19.48:422][958]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.05.17-17.19.48:422][958]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.05.17-17.19.48:422][958]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.05.17-17.19.48:422][958]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.05.17-17.19.48:422][958]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.05.17-17.19.48:422][958]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.05.17-17.19.48:422][958]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.05.17-17.19.48:422][958]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.05.17-17.19.48:422][958]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.05.17-17.19.48:422][958]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.05.17-17.19.48:422][958]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.05.17-17.19.48:422][958]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.05.17-17.19.48:422][958]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.05.17-17.19.48:423][958]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.05.17-17.19.48:423][958]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.05.17-17.19.48:423][958]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.05.17-17.19.48:423][958]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.05.17-17.19.48:423][958]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.05.17-17.19.48:423][958]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.05.17-17.19.48:423][958]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.05.17-17.19.48:423][958]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.05.17-17.19.48:423][958]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.05.17-17.19.48:423][958]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.05.17-17.19.48:425][958]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.05.17-17.19.48:425][958]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.05.17-17.19.48:425][958]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.05.17-17.19.48:425][958]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.05.17-17.19.48:425][958]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.05.17-17.19.48:425][958]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.05.17-17.19.48:425][958]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.05.17-17.19.48:425][958]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.05.17-17.19.48:425][958]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.05.17-17.19.48:425][958]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.05.17-17.19.48:425][958]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.05.17-17.19.48:425][958]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.05.17-17.19.48:425][958]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.05.17-17.19.48:425][958]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.05.17-17.19.48:425][958]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.05.17-17.19.48:425][958]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.05.17-17.19.48:474][958]LogDerivedDataCache: Shutdown
+[2020.05.17-17.19.48:474][958]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.05.17-17.19.48:474][958]LogXGEController: Cleaning working directory: C:/Users/samfa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.17-17.19.48:474][958]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.05.17-17.19.48:474][958]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.05.17-17.19.48:474][958]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.05.17-17.19.48:474][958]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.05.17-17.19.48:474][958]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.05.17-17.19.48:474][958]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.05.17-17.19.48:474][958]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.05.17-17.19.48:475][958]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.05.17-17.19.48:475][958]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.05.17-17.19.48:475][958]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.05.17-17.19.48:475][958]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.05.17-17.19.48:475][958]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.05.17-17.19.48:475][958]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.05.17-17.19.48:475][958]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.05.17-17.19.48:475][958]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.05.17-17.19.48:475][958]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.05.17-17.19.48:475][958]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.05.17-17.19.48:475][958]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.05.17-17.19.48:476][958]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.05.17-17.19.48:476][958]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.05.17-17.19.48:476][958]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.05.17-17.19.48:476][958]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.05.17-17.19.48:476][958]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.05.17-17.19.48:476][958]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.05.17-17.19.48:477][958]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.05.17-17.19.48:477][958]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.05.17-17.19.48:482][958]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.05.17-17.19.48:482][958]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.05.17-17.19.48:483][958]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.05.17-17.19.48:483][958]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.05.17-17.19.48:508][958]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.05.17-17.19.48:509][958]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.17-17.19.48:509][958]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F244BB7-41D9-37CF-0235-CBB61C2B766A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=377dc6ca4c9ede5c7c8dc1974984b709%7C2fc2229f866e488590e0d725ec65d3a5%7C00ad64a0-2303-459e-8ba5-61f2fddbd32d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.05.17-17.19.48:540][958]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.05.17-17.19.48:541][958]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.05.17-17.19.48:541][958]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.05.17-17.19.48:547][958]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.05.17-17.19.48:547][958]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.05.17-17.19.48:547][958]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.17-17.19.48:547][958]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.17-17.19.48:548][958]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.17-17.19.48:548][958]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.17-17.19.48:548][958]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.17-17.19.48:548][958]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.17-17.19.48:548][958]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.17-17.19.48:549][958]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.17-17.19.48:549][958]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.17-17.19.48:549][958]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.17-17.19.48:549][958]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.17-17.19.48:549][958]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.17-17.19.48:549][958]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.17-17.19.48:549][958]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.17-17.19.48:549][958]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.17-17.19.48:549][958]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.17-17.19.48:549][958]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.17-17.19.48:549][958]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.17-17.19.48:549][958]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.17-17.19.48:557][958]LogExit: Exiting.
+[2020.05.17-17.19.48:562][958]Log file closed, 05/17/20 18:19:48
