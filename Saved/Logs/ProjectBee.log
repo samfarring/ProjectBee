@@ -725,3 +725,728 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.18-12.03.30:681][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/BeeCharacter_BP" FILE="../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Character/BeeCharacter_BP.uasset" SILENT=true
 [2020.05.18-12.03.30:959][784]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BeeCharacter_BP17454E74452F36FB4363769C7A615BA3.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Character/BeeCharacter_BP.uasset'
 [2020.05.18-12.03.46:278][353]LogSlate: Window 'Save Level As' being destroyed
+[2020.05.18-12.12.46:172][679]BlueprintLog: New page: Compile BP_CollectiblesPickup
+[2020.05.18-12.12.46:348][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.05.18-12.12.46:424][679]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_CollectiblesPickup6BCCA2354D344A586E7F408BCCA466F6.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_CollectiblesPickup.uasset'
+[2020.05.18-12.14.19:428][797]BlueprintLog: New page: Compile BP_CollectiblesPickup
+[2020.05.18-12.14.19:613][797]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.05.18-12.14.19:691][797]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_CollectiblesPickupFC69245B4608544679EF75816958EC8B.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_CollectiblesPickup.uasset'
+[2020.05.18-12.15.28:502][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.05.18-12.15.28:502][242]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.051
+[2020.05.18-12.15.28:506][242]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Character/BeeCharacter_BP] ([1] browsable assets)...
+[2020.05.18-12.15.28:534][242]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Character/BeeCharacter_BP.BeeCharacter_BP]
+[2020.05.18-12.15.28:535][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/BeeCharacter_BP]
+[2020.05.18-12.15.28:795][242]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BeeCharacter_BP_Auto1D8AE8DE8484EB7B3B1B71FBDC403A39A.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/Autosaves/Game/Blueprints/Character/BeeCharacter_BP_Auto1.uasset'
+[2020.05.18-12.15.28:796][242]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pickups/BP_CollectiblesPickup] ([1] browsable assets)...
+[2020.05.18-12.15.28:823][242]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pickups/BP_CollectiblesPickup.BP_CollectiblesPickup]
+[2020.05.18-12.15.28:823][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pickups/BP_CollectiblesPickup]
+[2020.05.18-12.15.28:855][242]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_CollectiblesPickup_Auto10108A203475732A3BF639088D2C7179B.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/Autosaves/Game/Blueprints/Pickups/BP_CollectiblesPickup_Auto1.uasset'
+[2020.05.18-12.15.28:856][242]LogFileHelpers: Auto-saving content packages took 0.352
+[2020.05.18-12.16.30:424][803]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.05.18-12.16.33:147][ 77]BlueprintLog: New page: Compile BP_CollectiblesPickup
+[2020.05.18-12.16.33:151][ 77]LogClass: Warning: Type mismatch in CollectibleNumber of BP_CollectiblesPickup_C - Previous (StrProperty) Current(IntProperty) for package:  FObjectReader
+[2020.05.18-12.16.33:316][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.05.18-12.16.33:375][ 77]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_CollectiblesPickup853B9923403F8C2A852745A508C14DB4.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_CollectiblesPickup.uasset'
+[2020.05.18-12.16.34:295][183]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.05.18-12.16.34:298][183]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.05.18-12.17.18:346][  5]BlueprintLog: New page: Compile BeeCharacter_BP
+[2020.05.18-12.17.18:431][  5]LogClass: Warning: Type mismatch in CollectiblesCollected of BeeCharacter_BP_C - Previous (IntProperty) Current(MapProperty) for package:  FObjectReader
+[2020.05.18-12.17.18:614][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.05.18-12.17.18:746][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/BeeCharacter_BP" FILE="../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Character/BeeCharacter_BP.uasset" SILENT=true
+[2020.05.18-12.17.19:022][  5]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BeeCharacter_BPDFCCF91C4E0C43B86E1F3EB8720EFFEA.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Character/BeeCharacter_BP.uasset'
+[2020.05.18-12.18.13:426][982]BlueprintLog: New page: Compile BeeCharacter_BP
+[2020.05.18-12.18.13:665][982]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.05.18-12.18.13:776][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/BeeCharacter_BP" FILE="../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Character/BeeCharacter_BP.uasset" SILENT=true
+[2020.05.18-12.18.14:029][982]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BeeCharacter_BP96C443684867A0DA2F576A932591DE26.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Character/BeeCharacter_BP.uasset'
+[2020.05.18-12.19.20:079][596]BlueprintLog: New page: Compile BP_CollectiblesPickup
+[2020.05.18-12.19.20:253][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.05.18-12.19.20:319][596]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_CollectiblesPickup10BDFF674D7406CB5EEDBF9B1F4CE1C7.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_CollectiblesPickup.uasset'
+[2020.05.18-12.20.19:682][134]BlueprintLog: New page: Compile BP_CollectiblesPickup
+[2020.05.18-12.20.19:849][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.05.18-12.20.19:916][134]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_CollectiblesPickupBD1745D9420164FEBFACCDBBA37EBEFD.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_CollectiblesPickup.uasset'
+[2020.05.18-12.20.43:470][148]BlueprintLog: New page: Compile BP_CollectiblesPickup
+[2020.05.18-12.20.43:648][148]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.05.18-12.21.34:643][627]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.18-12.21.34:643][627]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.18-12.21.34:643][627]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.18-12.21.34:643][627]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.18-12.21.34:643][627]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.18-12.21.34:643][627]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.18-12.21.34:643][627]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.18-12.21.34:643][627]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.18-12.21.34:643][627]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.18-12.21.34:643][627]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.18-12.21.34:646][627]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.18-12.21.34:646][627]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.18-12.21.34:646][627]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.18-12.21.34:646][627]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.18-12.21.34:646][627]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.18-12.21.34:646][627]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.18-12.21.34:647][627]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.18-12.21.34:647][627]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.18-12.21.34:647][627]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.18-12.21.34:647][627]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.18-12.21.34:649][627]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.18-12.21.34:649][627]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.18-12.21.34:649][627]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.18-12.21.34:649][627]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.18-12.21.34:649][627]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.18-12.21.34:650][627]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.18-12.21.34:650][627]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.18-12.21.34:650][627]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.18-12.21.34:650][627]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.18-12.21.34:650][627]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.18-12.21.34:735][627]LogBlueprint: Error: [Compiler BP_WinePickup] Unable to find function with name WineActive for Message node  Invalid Message Node .
+[2020.05.18-12.21.34:735][627]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.21.34:735][627]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.21.34:735][627]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.21.34:735][627]LogBlueprint: Warning: [Compiler BP_WinePickup] Input pin  Active  specifying non-default value no longer exists on node  Invalid Message Node . Please refresh node or reset pin to default value to remove pin.
+[2020.05.18-12.21.34:736][627]LogBlueprint: Error: [Compiler BP_WinePickup] Could not find a function named "WineActive" in 'I_Controls_C'.
+Make sure 'I_Controls_C' has been compiled for  Invalid Message Node
+[2020.05.18-12.21.34:737][627]LogBlueprint: Error: [Compiler BP_WinePickup] Unable to find function with name WineActive for Message node  Invalid Message Node .
+[2020.05.18-12.21.34:737][627]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.21.34:737][627]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.21.34:737][627]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.21.34:737][627]LogBlueprint: Error: [Compiler BP_WinePickup] Could not find a function named "WineActive" in 'I_Controls_C'.
+Make sure 'I_Controls_C' has been compiled for  Invalid Message Node
+[2020.05.18-12.21.34:738][627]LogBlueprint: Warning: [Compiler BP_WinePickup] [1731.36] Compile of BP_WinePickup failed. 10 Fatal Issue(s) 1 Warning(s) [in 6 ms] (/Game/Blueprints/Pickups/BP_WinePickup.BP_WinePickup)
+[2020.05.18-12.21.34:790][627]LogBlueprint: Error: [Compiler BP_WinePickup] Unable to find function with name WineActive for Message node  Invalid Message Node .
+[2020.05.18-12.21.34:790][627]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.21.34:790][627]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.21.34:790][627]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.21.34:790][627]LogBlueprint: Warning: [Compiler BP_WinePickup] Input pin  Active  specifying non-default value no longer exists on node  Invalid Message Node . Please refresh node or reset pin to default value to remove pin.
+[2020.05.18-12.21.34:790][627]LogBlueprint: Error: [Compiler BP_WinePickup] Could not find a function named "WineActive" in 'I_Controls_C'.
+Make sure 'I_Controls_C' has been compiled for  Invalid Message Node
+[2020.05.18-12.21.34:790][627]LogBlueprint: Error: [Compiler BP_WinePickup] Unable to find function with name WineActive for Message node  Invalid Message Node .
+[2020.05.18-12.21.34:790][627]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.21.34:791][627]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.21.34:791][627]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.21.34:791][627]LogBlueprint: Error: [Compiler BP_WinePickup] Could not find a function named "WineActive" in 'I_Controls_C'.
+Make sure 'I_Controls_C' has been compiled for  Invalid Message Node
+[2020.05.18-12.21.34:798][627]LogBlueprint: Warning: [Compiler BP_WinePickup] [1731.42] Compile of BP_WinePickup failed. 10 Fatal Issue(s) 1 Warning(s) [in 36 ms] (/Game/Blueprints/Pickups/BP_WinePickup.BP_WinePickup)
+[2020.05.18-12.21.34:971][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.05.18-12.21.35:000][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/BP_BasePickup" FILE="../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_BasePickup.uasset" SILENT=true
+[2020.05.18-12.21.35:031][627]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_BasePickup5C105D2B487611C32B7EC2A5B641CE25.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_BasePickup.uasset'
+[2020.05.18-12.21.35:206][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.05.18-12.21.35:250][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.05.18-12.21.35:287][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.05.18-12.21.35:290][627]LogBlueprint: Error: [Compiler BP_WinePickup] Unable to find function with name WineActive for Message node  Invalid Message Node .
+[2020.05.18-12.21.35:290][627]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.21.35:290][627]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.21.35:290][627]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.21.35:290][627]LogBlueprint: Warning: [Compiler BP_WinePickup] Input pin  Active  specifying non-default value no longer exists on node  Invalid Message Node . Please refresh node or reset pin to default value to remove pin.
+[2020.05.18-12.21.35:290][627]LogBlueprint: Error: [Compiler BP_WinePickup] Could not find a function named "WineActive" in 'I_Controls_C'.
+Make sure 'I_Controls_C' has been compiled for  Invalid Message Node
+[2020.05.18-12.21.35:290][627]LogBlueprint: Error: [Compiler BP_WinePickup] Unable to find function with name WineActive for Message node  Invalid Message Node .
+[2020.05.18-12.21.35:290][627]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.21.35:290][627]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.21.35:290][627]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.21.35:290][627]LogBlueprint: Error: [Compiler BP_WinePickup] Could not find a function named "WineActive" in 'I_Controls_C'.
+Make sure 'I_Controls_C' has been compiled for  Invalid Message Node
+[2020.05.18-12.21.35:292][627]LogBlueprint: Warning: [Compiler BP_WinePickup] [1731.91] Compile of BP_WinePickup failed. 10 Fatal Issue(s) 1 Warning(s) [in 4 ms] (/Game/Blueprints/Pickups/BP_WinePickup.BP_WinePickup)
+[2020.05.18-12.21.35:327][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.05.18-12.21.35:329][627]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_BasePickup.BP_BasePickup_C' ref from Metadata '/Game/Blueprints/Pickups/BasePickup_BP.PackageMetaData'
+[2020.05.18-12.21.35:329][627]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_BasePickup.BP_BasePickup:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Pickups/BasePickup_BP.PackageMetaData'
+[2020.05.18-12.21.35:329][627]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_BasePickup.BP_BasePickup:Pickup.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Pickups/BasePickup_BP.PackageMetaData'
+[2020.05.18-12.21.35:329][627]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_BasePickup.BP_BasePickup:Pickup.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/Pickups/BasePickup_BP.PackageMetaData'
+[2020.05.18-12.21.35:329][627]LogMetaData: Removing '/Game/Blueprints/Pickups/BP_BasePickup.SKEL_BP_BasePickup_C' ref from Metadata '/Game/Blueprints/Pickups/BasePickup_BP.PackageMetaData'
+[2020.05.18-12.21.35:347][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/BP_BasePickup" FILE="../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_BasePickup.uasset" SILENT=true
+[2020.05.18-12.21.35:373][627]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_BasePickupC8D630424164B9FF7DD910948ED055DB.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_BasePickup.uasset'
+[2020.05.18-12.21.35:524][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.05.18-12.21.35:562][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.05.18-12.21.35:593][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.05.18-12.21.35:622][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/BP_PollenPickup" FILE="../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_PollenPickup.uasset" SILENT=true
+[2020.05.18-12.21.35:654][627]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_PollenPickup209CD28648377FE727865CBB408C54EA.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_PollenPickup.uasset'
+[2020.05.18-12.21.35:673][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/BP_SpeedPickup" FILE="../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_SpeedPickup.uasset" SILENT=true
+[2020.05.18-12.21.35:713][627]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_SpeedPickupCB52E57F438D2D41A535A781D4EAE65B.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_SpeedPickup.uasset'
+[2020.05.18-12.21.35:736][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/BP_WinePickup" FILE="../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_WinePickup.uasset" SILENT=true
+[2020.05.18-12.21.35:772][627]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_WinePickup5F3EB07C412013FA48FB608181BDB76B.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_WinePickup.uasset'
+[2020.05.18-12.21.35:820][627]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_CollectiblesPickup87059AC04D85C74948BF37B23F2CD8D0.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_CollectiblesPickup.uasset'
+[2020.05.18-12.22.20:729][981]BlueprintLog: New page: Compile BP_CollectiblesPickup
+[2020.05.18-12.22.20:923][981]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.05.18-12.23.07:492][207]BlueprintLog: New page: Compile BP_CollectiblesPickup
+[2020.05.18-12.23.07:662][207]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.05.18-12.32.21:879][406]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.05.18-12.32.34:461][878]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Puzzles/BP_ProjectileLauncher.BP_ProjectileLauncher
+[2020.05.18-12.35.05:703][641]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.05.18-12.35.18:099][115]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Puzzles/BP_TennisProjectile.BP_TennisProjectile
+[2020.05.18-12.35.27:041][104]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2020.05.18-12.35.40:939][720]BlueprintLog: New page: Compile BP_TennisProjectile
+[2020.05.18-12.35.41:202][720]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2020.05.18-12.35.41:258][720]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_TennisProjectileB95F126446EFC78F300FF6A1C1790C8B.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/BP_TennisProjectile.uasset'
+[2020.05.18-12.35.43:650][  1]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.18-12.36.17:230][959]BlueprintLog: New page: Compile BP_ProjectileLauncher
+[2020.05.18-12.36.17:237][959]LogBlueprint: Error: [Compiler BP_ProjectileLauncher] This blueprint (self) is not a GameplayTaskOwnerInterface, therefore ' Task Owner ' must have a connection.
+[2020.05.18-12.36.17:460][959]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.05.18-12.36.17:469][959]LogBlueprint: Warning: [Compiler BP_ProjectileLauncher] [2614.09] Compile of BP_ProjectileLauncher failed. 1 Fatal Issue(s) 0 Warning(s) [in 238 ms] (/Game/Blueprints/Puzzles/BP_ProjectileLauncher.BP_ProjectileLauncher)
+[2020.05.18-12.36.30:361][503]BlueprintLog: New page: Compile BP_ProjectileLauncher
+[2020.05.18-12.36.30:369][503]LogBlueprint: Error: [Compiler BP_ProjectileLauncher] This blueprint (self) is not a GameplayTaskOwnerInterface, therefore ' Task Owner ' must have a connection.
+[2020.05.18-12.36.30:575][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.05.18-12.36.30:584][503]LogBlueprint: Warning: [Compiler BP_ProjectileLauncher] [2627.20] Compile of BP_ProjectileLauncher failed. 1 Fatal Issue(s) 0 Warning(s) [in 222 ms] (/Game/Blueprints/Puzzles/BP_ProjectileLauncher.BP_ProjectileLauncher)
+[2020.05.18-12.37.13:034][485]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.18-12.37.29:361][432]BlueprintLog: New page: Compile BP_ProjectileLauncher
+[2020.05.18-12.37.29:570][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.05.18-12.37.29:611][432]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_ProjectileLauncherE35603E945113B0B81A148A7614EB461.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/BP_ProjectileLauncher.uasset'
+[2020.05.18-12.39.32:604][ 16]BlueprintLog: New page: Compile BP_ProjectileLauncher
+[2020.05.18-12.39.32:822][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.05.18-12.39.32:866][ 16]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_ProjectileLauncherFB127A684AE25047752FBB89DF2C4D9F.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/BP_ProjectileLauncher.uasset'
+[2020.05.18-12.39.59:338][157]BlueprintLog: New page: Compile BP_ProjectileLauncher
+[2020.05.18-12.39.59:556][157]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.05.18-12.39.59:603][157]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_ProjectileLauncher8241BF19482BE0DD792141A14E80D4D4.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/BP_ProjectileLauncher.uasset'
+[2020.05.18-12.40.03:606][631]BlueprintLog: New page: Compile BP_ProjectileLauncher
+[2020.05.18-12.40.03:827][631]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.05.18-12.40.03:867][631]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_ProjectileLauncherE7E3B9B74725CEE8A3CA5B81487696D7.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/BP_ProjectileLauncher.uasset'
+[2020.05.18-12.40.25:333][169]BlueprintLog: New page: Compile BP_ProjectileLauncher
+[2020.05.18-12.40.25:553][169]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.05.18-12.40.25:597][169]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_ProjectileLauncher22A5CD11410A5100FDAEA09AC0ADAB28.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/BP_ProjectileLauncher.uasset'
+[2020.05.18-12.40.28:086][461]BlueprintLog: New page: Compile BP_ProjectileLauncher
+[2020.05.18-12.40.28:306][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.05.18-12.40.28:352][461]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_ProjectileLauncherE8DD5EC84550F7F86BCB03A128A37B0F.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/BP_ProjectileLauncher.uasset'
+[2020.05.18-12.40.46:860][666]BlueprintLog: New page: Compile BP_TennisProjectile
+[2020.05.18-12.40.47:073][666]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.05.18-12.40.47:135][666]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_TennisProjectileC25085A747C901CA36CB3B83948EAE3C.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/BP_TennisProjectile.uasset'
+[2020.05.18-12.41.12:009][596]LogAIModule: Creating AISystem for world MovementTest
+[2020.05.18-12.41.12:014][596]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/TestLevels/MovementTest.MovementTest
+[2020.05.18-12.41.12:058][596]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.05.18-12.41.12:061][596]Cmd: MAP LOAD FILE="../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Levels/TestLevels/MovementTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.18-12.41.12:061][596]LightingResults: New page: Lighting Build
+[2020.05.18-12.41.12:067][596]LogBlueprintActionDatabase: Requesting refresh due to module change: StatsViewer (loaded)
+[2020.05.18-12.41.12:068][596]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0007 seconds. Added 5 classes and 0 folders.
+[2020.05.18-12.41.12:077][596]LoadErrors: New page: Loading map: MovementTest.umap
+[2020.05.18-12.41.12:077][596]MapCheck: New page: Map Check
+[2020.05.18-12.41.12:077][596]LightingResults: New page: Lighting Build
+[2020.05.18-12.41.12:126][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.05.18-12.41.12:240][596]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.18-12.41.12:282][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.05.18-12.41.12:289][596]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.18-12.41.12:289][596]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.205ms to complete.
+[2020.05.18-12.41.12:289][596]LogFileHelpers: Loading map 'MovementTest' took 0.230
+[2020.05.18-12.41.20:313][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.18-12.41.23:654][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.18-12.41.23:737][867]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.18-12.41.23:762][867]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest' with GeneratedClass '/Game/Levels/TestLevels/MovementTest.MovementTest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest'
+[2020.05.18-12.41.23:763][867]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.18-12.41.23:763][867]LogPlayLevel: [PlayLevel] Compiling BP_PollenPickup before play...
+[2020.05.18-12.41.23:966][867]LogPlayLevel: [PlayLevel] Compiling BP_SpeedPickup before play...
+[2020.05.18-12.41.24:176][867]LogPlayLevel: [PlayLevel] Compiling BP_WinePickup before play...
+[2020.05.18-12.41.24:178][867]LogBlueprint: Error: [Compiler BP_WinePickup] Unable to find function with name WineActive for Message node  Invalid Message Node .
+[2020.05.18-12.41.24:178][867]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.41.24:178][867]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.41.24:178][867]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.41.24:178][867]LogBlueprint: Warning: [Compiler BP_WinePickup] Input pin  Active  specifying non-default value no longer exists on node  Invalid Message Node . Please refresh node or reset pin to default value to remove pin.
+[2020.05.18-12.41.24:178][867]LogBlueprint: Error: [Compiler BP_WinePickup] Could not find a function named "WineActive" in 'I_Controls_C'.
+Make sure 'I_Controls_C' has been compiled for  Invalid Message Node
+[2020.05.18-12.41.24:178][867]LogBlueprint: Error: [Compiler BP_WinePickup] Unable to find function with name WineActive for Message node  Invalid Message Node .
+[2020.05.18-12.41.24:178][867]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.41.24:178][867]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.41.24:178][867]LogBlueprint: Error: [Compiler BP_WinePickup] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2020.05.18-12.41.24:179][867]LogBlueprint: Error: [Compiler BP_WinePickup] Could not find a function named "WineActive" in 'I_Controls_C'.
+Make sure 'I_Controls_C' has been compiled for  Invalid Message Node
+[2020.05.18-12.41.24:179][867]LogBlueprint: Warning: [Compiler BP_WinePickup] [2920.80] Compile of BP_WinePickup failed. 10 Fatal Issue(s) 1 Warning(s) [in 3 ms] (/Game/Blueprints/Pickups/BP_WinePickup.BP_WinePickup)
+[2020.05.18-12.41.24:470][867]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
+[2020.05.18-12.41.24:470][867]LogPlayLevel: PlayLevel: Blueprint regeneration took 708 ms (3 blueprints)
+[2020.05.18-12.41.24:470][867]BlueprintLog: Blueprint BP_WinePickup failed to compile
+[2020.05.18-12.41.28:428][867]LogSlate: Window 'Message' being destroyed
+[2020.05.18-12.41.33:141][387]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Pickups/BP_WinePickup.BP_WinePickup
+[2020.05.18-12.42.05:562][105]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/PlayerController_BP.PlayerController_BP
+[2020.05.18-12.43.03:207][592]BlueprintLog: New page: Compile BP_WinePickup
+[2020.05.18-12.43.03:471][592]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2020.05.18-12.43.03:513][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickups/BP_WinePickup" FILE="../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_WinePickup.uasset" SILENT=true
+[2020.05.18-12.43.03:543][592]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_WinePickup07D447A64F49111580D13E8DE646A646.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_WinePickup.uasset'
+[2020.05.18-12.43.13:765][805]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-12.43.15:459][997]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.18-12.43.15:479][997]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest' with GeneratedClass '/Game/Levels/TestLevels/MovementTest.MovementTest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest'
+[2020.05.18-12.43.15:479][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.18-12.43.15:484][997]PIE: New page: PIE session: MovementTest (18 May 2020 14:43:15)
+[2020.05.18-12.43.15:565][997]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_MovementTest
+[2020.05.18-12.43.15:569][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003726s)
+[2020.05.18-12.43.15:571][997]LogAIModule: Creating AISystem for world MovementTest
+[2020.05.18-12.43.15:572][997]LogPlayLevel: PIE: World Init took: (0.002434s)
+[2020.05.18-12.43.15:572][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/MovementTest.MovementTest to /Game/Levels/TestLevels/UEDPIE_0_MovementTest.MovementTest (0.007680s)
+[2020.05.18-12.43.15:621][997]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.05.18-12.43.15:671][997]LogInit: XAudio2 using 'Headphones (CORSAIR HS60 SURROUND Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.05.18-12.43.15:844][997]LogInit: FAudioDevice initialized.
+[2020.05.18-12.43.15:901][997]LogLoad: Game class is 'BeeGame_C'
+[2020.05.18-12.43.15:925][997]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.05.18-13.43.15
+[2020.05.18-12.43.15:927][997]LogWorld: Bringing up level for play took: 0.002576
+[2020.05.18-12.43.15:973][997]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.05.18-12.43.15:987][997]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.05.18-12.43.15:987][997]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.05.18-12.43.16:021][997]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_MovementTest 1.501
+[2020.05.18-12.43.16:021][997]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest' with GeneratedClass '/Game/Levels/TestLevels/MovementTest.MovementTest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest'
+[2020.05.18-12.43.46:732][624]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest' with GeneratedClass '/Game/Levels/TestLevels/MovementTest.MovementTest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest'
+[2020.05.18-12.43.46:732][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.18-12.43.46:771][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.18-12.43.46:772][624]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest' with GeneratedClass '/Game/Levels/TestLevels/MovementTest.MovementTest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest'
+[2020.05.18-12.43.46:830][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.18-12.43.46:859][624]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.05.18-12.43.46:883][625]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.05.18-12.43.47:530][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.18-12.43.53:470][398]BlueprintLog: New page: Compile BP_ProjectileLauncher
+[2020.05.18-12.43.53:724][398]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.05.18-12.43.53:771][398]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_ProjectileLauncherE442B607429037C217F09CBA9A707D6B.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/BP_ProjectileLauncher.uasset'
+[2020.05.18-12.43.54:817][515]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.18-12.43.54:846][515]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest' with GeneratedClass '/Game/Levels/TestLevels/MovementTest.MovementTest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest'
+[2020.05.18-12.43.54:847][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.18-12.43.54:847][515]PIE: New page: PIE session: MovementTest (18 May 2020 14:43:54)
+[2020.05.18-12.43.54:847][515]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_MovementTest
+[2020.05.18-12.43.54:851][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003353s)
+[2020.05.18-12.43.54:851][515]LogAIModule: Creating AISystem for world MovementTest
+[2020.05.18-12.43.54:851][515]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2020.05.18-12.43.54:852][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/MovementTest.MovementTest to /Game/Levels/TestLevels/UEDPIE_0_MovementTest.MovementTest (0.004259s)
+[2020.05.18-12.43.54:897][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.05.18-12.43.54:927][515]LogInit: XAudio2 using 'Headphones (CORSAIR HS60 SURROUND Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.05.18-12.43.55:092][515]LogInit: FAudioDevice initialized.
+[2020.05.18-12.43.55:124][515]LogLoad: Game class is 'BeeGame_C'
+[2020.05.18-12.43.55:126][515]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.05.18-13.43.55
+[2020.05.18-12.43.55:126][515]LogWorld: Bringing up level for play took: 0.000737
+[2020.05.18-12.43.55:143][515]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_MovementTest 0.623
+[2020.05.18-12.43.55:143][515]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest' with GeneratedClass '/Game/Levels/TestLevels/MovementTest.MovementTest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest'
+[2020.05.18-12.44.29:420][612]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest' with GeneratedClass '/Game/Levels/TestLevels/MovementTest.MovementTest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest'
+[2020.05.18-12.44.29:421][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.18-12.44.29:452][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.18-12.44.29:453][612]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest' with GeneratedClass '/Game/Levels/TestLevels/MovementTest.MovementTest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest'
+[2020.05.18-12.44.29:505][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.18-12.44.29:514][612]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2020.05.18-12.44.29:539][613]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.05.18-12.44.30:289][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.18-12.45.06:420][848]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.05.18-12.45.07:357][957]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.18-12.45.10:189][283]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.05.18-12.45.11:077][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.18-12.45.13:040][617]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.05.18-12.45.13:786][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.18-12.45.36:269][292]BlueprintLog: New page: Compile BP_ProjectileLauncher
+[2020.05.18-12.45.36:523][292]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.05.18-12.45.36:598][292]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_ProjectileLauncher222D04B642F49B21E04DAAAA99B8C9BC.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/BP_ProjectileLauncher.uasset'
+[2020.05.18-12.45.39:999][687]LogEditorViewport: Clicking on Actor (LMB): BP_ProjectileLauncher_C (BP_ProjectileLauncher)
+[2020.05.18-12.45.41:351][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.18-12.45.45:648][351]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.05.18-12.45.46:575][459]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.05.18-12.46.12:788][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.18-12.46.12:992][692]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.18-12.46.13:016][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest' with GeneratedClass '/Game/Levels/TestLevels/MovementTest.MovementTest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest'
+[2020.05.18-12.46.13:016][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.18-12.46.13:016][692]PIE: New page: PIE session: MovementTest (18 May 2020 14:46:13)
+[2020.05.18-12.46.13:017][692]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_MovementTest
+[2020.05.18-12.46.13:019][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002787s)
+[2020.05.18-12.46.13:020][692]LogAIModule: Creating AISystem for world MovementTest
+[2020.05.18-12.46.13:021][692]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2020.05.18-12.46.13:021][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/MovementTest.MovementTest to /Game/Levels/TestLevels/UEDPIE_0_MovementTest.MovementTest (0.003979s)
+[2020.05.18-12.46.13:070][692]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.05.18-12.46.13:106][692]LogInit: XAudio2 using 'Headphones (CORSAIR HS60 SURROUND Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.05.18-12.46.13:275][692]LogInit: FAudioDevice initialized.
+[2020.05.18-12.46.13:307][692]LogLoad: Game class is 'BeeGame_C'
+[2020.05.18-12.46.13:309][692]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.05.18-13.46.13
+[2020.05.18-12.46.13:309][692]LogWorld: Bringing up level for play took: 0.000762
+[2020.05.18-12.46.13:325][692]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_MovementTest 0.805
+[2020.05.18-12.46.13:325][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest' with GeneratedClass '/Game/Levels/TestLevels/MovementTest.MovementTest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest'
+[2020.05.18-12.46.17:988][235]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBee_Character_BP1
+	BP_ProjectileLauncher_C /Game/Levels/TestLevels/UEDPIE_0_MovementTest.MovementTest:PersistentLevel.BP_ProjectileLauncher_2
+	Function /Game/Blueprints/Puzzles/BP_ProjectileLauncher.BP_ProjectileLauncher_C:ExecuteUbergraph_BP_ProjectileLauncher:01DC
+[2020.05.18-12.46.17:988][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBee_Character_BP1". Blueprint:  BP_ProjectileLauncher Function:  Execute Ubergraph BP Projectile Launcher Graph:  EventGraph Node:  SpawnActor BP Tennis Projectile
+[2020.05.18-12.46.17:988][235]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBee_Character_BP1
+	BP_ProjectileLauncher_C /Game/Levels/TestLevels/UEDPIE_0_MovementTest.MovementTest:PersistentLevel.BP_ProjectileLauncher_2
+	Function /Game/Blueprints/Puzzles/BP_ProjectileLauncher.BP_ProjectileLauncher_C:ExecuteUbergraph_BP_ProjectileLauncher:02D5
+[2020.05.18-12.46.17:988][235]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBee_Character_BP1". Blueprint:  BP_ProjectileLauncher Function:  Execute Ubergraph BP Projectile Launcher Graph:  EventGraph Node:  SpawnActor BP Tennis Projectile
+[2020.05.18-12.46.19:989][474]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBee_Character_BP1
+	BP_ProjectileLauncher_C /Game/Levels/TestLevels/UEDPIE_0_MovementTest.MovementTest:PersistentLevel.BP_ProjectileLauncher_2
+	Function /Game/Blueprints/Puzzles/BP_ProjectileLauncher.BP_ProjectileLauncher_C:ExecuteUbergraph_BP_ProjectileLauncher:01DC
+[2020.05.18-12.46.19:989][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBee_Character_BP1". Blueprint:  BP_ProjectileLauncher Function:  Execute Ubergraph BP Projectile Launcher Graph:  EventGraph Node:  SpawnActor BP Tennis Projectile
+[2020.05.18-12.46.19:989][474]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBee_Character_BP1
+	BP_ProjectileLauncher_C /Game/Levels/TestLevels/UEDPIE_0_MovementTest.MovementTest:PersistentLevel.BP_ProjectileLauncher_2
+	Function /Game/Blueprints/Puzzles/BP_ProjectileLauncher.BP_ProjectileLauncher_C:ExecuteUbergraph_BP_ProjectileLauncher:02D5
+[2020.05.18-12.46.19:989][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBee_Character_BP1". Blueprint:  BP_ProjectileLauncher Function:  Execute Ubergraph BP Projectile Launcher Graph:  EventGraph Node:  SpawnActor BP Tennis Projectile
+[2020.05.18-12.46.20:990][594]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest' with GeneratedClass '/Game/Levels/TestLevels/MovementTest.MovementTest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest'
+[2020.05.18-12.46.20:990][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.18-12.46.21:023][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.18-12.46.21:023][594]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest' with GeneratedClass '/Game/Levels/TestLevels/MovementTest.MovementTest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest'
+[2020.05.18-12.46.21:074][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.18-12.46.21:080][594]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.05.18-12.46.21:094][594]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.18-12.46.21:140][595]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.05.18-12.46.28:886][953]LogSlate: Window 'Message Log' being destroyed
+[2020.05.18-12.46.28:891][953]LogSlate: Window 'Message Log' being destroyed
+[2020.05.18-12.48.11:739][ 67]BlueprintLog: New page: Compile BP_ProjectileLauncher
+[2020.05.18-12.48.11:993][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.05.18-12.48.12:065][ 67]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/BP_ProjectileLauncherD44B9FF5493FB55CC8181ABF1DC36043.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/BP_ProjectileLauncher.uasset'
+[2020.05.18-12.48.13:778][260]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.18-12.48.13:809][260]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest' with GeneratedClass '/Game/Levels/TestLevels/MovementTest.MovementTest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest'
+[2020.05.18-12.48.13:809][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.18-12.48.13:809][260]PIE: New page: PIE session: MovementTest (18 May 2020 14:48:13)
+[2020.05.18-12.48.13:809][260]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_MovementTest
+[2020.05.18-12.48.13:813][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003017s)
+[2020.05.18-12.48.13:813][260]LogAIModule: Creating AISystem for world MovementTest
+[2020.05.18-12.48.13:813][260]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2020.05.18-12.48.13:813][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/MovementTest.MovementTest to /Game/Levels/TestLevels/UEDPIE_0_MovementTest.MovementTest (0.003892s)
+[2020.05.18-12.48.13:856][260]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.05.18-12.48.13:889][260]LogInit: XAudio2 using 'Headphones (CORSAIR HS60 SURROUND Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2020.05.18-12.48.14:056][260]LogInit: FAudioDevice initialized.
+[2020.05.18-12.48.14:086][260]LogLoad: Game class is 'BeeGame_C'
+[2020.05.18-12.48.14:087][260]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_MovementTest.MovementTest up for play (max tick rate 0) at 2020.05.18-13.48.14
+[2020.05.18-12.48.14:088][260]LogWorld: Bringing up level for play took: 0.000901
+[2020.05.18-12.48.14:103][260]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_MovementTest -0.417
+[2020.05.18-12.48.14:103][260]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest' with GeneratedClass '/Game/Levels/TestLevels/MovementTest.MovementTest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest'
+[2020.05.18-12.48.57:418][379]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest' with GeneratedClass '/Game/Levels/TestLevels/MovementTest.MovementTest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest'
+[2020.05.18-12.48.57:419][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.18-12.48.57:454][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.18-12.48.57:454][379]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest' with GeneratedClass '/Game/Levels/TestLevels/MovementTest.MovementTest_C' with ClassGeneratedBy '/Game/Levels/TestLevels/MovementTest.MovementTest:PersistentLevel.MovementTest'
+[2020.05.18-12.48.57:513][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.18-12.48.57:518][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.05.18-12.48.57:542][380]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.05.18-12.52.59:535][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.18-12.53.38:712][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.05.18-12.53.38:945][351]LogSavePackage: Moving '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/MovementTest_Auto23C5509CC4E9792D106F2F0A077133E5D.tmp' to '../../../../../Users/r017524i/Documents/GitHub/ProjectBee/Saved/Autosaves/Game/Levels/TestLevels/MovementTest_Auto2.umap'
+[2020.05.18-12.53.38:950][351]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestLevels/MovementTest' took 0.282
+[2020.05.18-12.53.38:950][351]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.282
+[2020.05.18-12.53.50:086][286]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.05.18-12.53.52:931][286]LogSlate: Window 'Save Content' being destroyed
+[2020.05.18-12.53.52:972][286]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-12.53.53:131][286]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-12.53.53:240][286]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-12.53.53:311][286]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.18-12.53.53:370][286]LogSlate: Window 'ProjectBee - Unreal Editor' being destroyed
+[2020.05.18-12.53.53:596][287]Cmd: QUIT_EDITOR
+[2020.05.18-12.53.54:530][287]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.18-12.53.54:548][287]LogExit: Preparing to exit.
+[2020.05.18-12.53.54:839][287]LogExit: Editor shut down
+[2020.05.18-12.53.54:840][287]LogExit: Transaction tracking system shut down
+[2020.05.18-12.53.55:370][287]LogExit: Object subsystem successfully closed.
+[2020.05.18-12.53.55:413][287]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.18-12.53.55:423][287]LogD3D11RHI: Shutdown
+[2020.05.18-12.53.55:423][287]LogD3D11RHI: CleanupD3DDevice
+[2020.05.18-12.53.55:425][287]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.05.18-12.53.55:425][287]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.18-12.53.55:425][287]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.05.18-12.53.55:425][287]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.18-12.53.55:425][287]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.05.18-12.53.55:425][287]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.18-12.53.55:541][287]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.05.18-12.53.55:578][287]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2020.05.18-12.53.55:578][287]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2020.05.18-12.53.55:578][287]LogModuleManager: Shutting down and abandoning module StatsViewer (646)
+[2020.05.18-12.53.55:578][287]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (644)
+[2020.05.18-12.53.55:579][287]LogModuleManager: Shutting down and abandoning module BlueprintGraph (642)
+[2020.05.18-12.53.55:579][287]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (640)
+[2020.05.18-12.53.55:579][287]LogModuleManager: Shutting down and abandoning module SceneOutliner (638)
+[2020.05.18-12.53.55:579][287]LogModuleManager: Shutting down and abandoning module AddContentDialog (636)
+[2020.05.18-12.53.55:582][287]LogModuleManager: Shutting down and abandoning module WidgetCarousel (635)
+[2020.05.18-12.53.55:582][287]LogModuleManager: Shutting down and abandoning module EditorWidgets (632)
+[2020.05.18-12.53.55:582][287]LogModuleManager: Shutting down and abandoning module CollectionManager (630)
+[2020.05.18-12.53.55:582][287]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.05.18-12.53.55:582][287]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.05.18-12.53.55:582][287]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.05.18-12.53.55:582][287]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.05.18-12.53.55:582][287]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.05.18-12.53.55:582][287]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.05.18-12.53.55:582][287]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.05.18-12.53.55:582][287]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.05.18-12.53.55:582][287]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.05.18-12.53.55:582][287]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.05.18-12.53.55:582][287]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.05.18-12.53.55:582][287]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.05.18-12.53.55:583][287]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.05.18-12.53.55:584][287]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.05.18-12.53.55:584][287]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.05.18-12.53.55:584][287]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.05.18-12.53.55:584][287]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.05.18-12.53.55:584][287]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.05.18-12.53.55:584][287]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.05.18-12.53.55:584][287]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.05.18-12.53.55:848][287]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.05.18-12.53.55:848][287]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.05.18-12.53.55:848][287]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.05.18-12.53.55:848][287]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.05.18-12.53.55:848][287]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.05.18-12.53.55:848][287]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.05.18-12.53.55:848][287]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.05.18-12.53.55:848][287]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.05.18-12.53.55:848][287]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.05.18-12.53.55:848][287]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.05.18-12.53.55:848][287]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.05.18-12.53.55:848][287]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.05.18-12.53.55:848][287]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.05.18-12.53.55:848][287]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.05.18-12.53.55:848][287]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.05.18-12.53.55:849][287]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.05.18-12.53.55:849][287]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.05.18-12.53.55:850][287]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.05.18-12.53.55:850][287]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.05.18-12.53.55:850][287]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.05.18-12.53.55:850][287]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.05.18-12.53.55:850][287]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.05.18-12.53.55:850][287]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.05.18-12.53.55:894][287]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.05.18-12.53.55:894][287]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.05.18-12.53.55:894][287]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.05.18-12.53.55:894][287]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.05.18-12.53.55:894][287]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.05.18-12.53.55:894][287]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.05.18-12.53.55:895][287]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.05.18-12.53.55:895][287]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.05.18-12.53.55:895][287]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.05.18-12.53.55:895][287]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.05.18-12.53.55:895][287]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.05.18-12.53.55:921][287]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.05.18-12.53.55:922][287]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.05.18-12.53.55:924][287]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.05.18-12.53.55:924][287]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.05.18-12.53.55:924][287]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.05.18-12.53.55:924][287]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.05.18-12.53.55:924][287]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.05.18-12.53.55:924][287]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.05.18-12.53.55:925][287]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.05.18-12.53.55:925][287]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.05.18-12.53.55:925][287]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.05.18-12.53.55:925][287]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.05.18-12.53.55:926][287]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.05.18-12.53.55:926][287]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.05.18-12.53.55:926][287]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.05.18-12.53.55:926][287]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.05.18-12.53.55:926][287]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.05.18-12.53.55:926][287]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.05.18-12.53.55:926][287]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.05.18-12.53.55:926][287]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.05.18-12.53.55:926][287]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.05.18-12.53.55:926][287]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.05.18-12.53.55:926][287]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.05.18-12.53.55:926][287]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.05.18-12.53.55:932][287]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.05.18-12.53.56:002][287]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.05.18-12.53.56:002][287]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.05.18-12.53.56:002][287]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.05.18-12.53.56:002][287]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.05.18-12.53.56:002][287]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.05.18-12.53.56:002][287]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.05.18-12.53.56:002][287]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.05.18-12.53.56:002][287]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.05.18-12.53.56:002][287]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.05.18-12.53.56:002][287]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.05.18-12.53.56:002][287]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.05.18-12.53.56:002][287]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.05.18-12.53.56:002][287]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.05.18-12.53.56:002][287]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.05.18-12.53.56:002][287]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.05.18-12.53.56:003][287]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.05.18-12.53.56:004][287]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.05.18-12.53.56:004][287]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.05.18-12.53.56:004][287]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.05.18-12.53.56:004][287]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.05.18-12.53.56:004][287]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.05.18-12.53.56:004][287]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.05.18-12.53.56:004][287]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.05.18-12.53.56:004][287]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.05.18-12.53.56:004][287]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.05.18-12.53.56:004][287]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.05.18-12.53.56:004][287]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.05.18-12.53.56:004][287]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.05.18-12.53.56:004][287]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.05.18-12.53.56:005][287]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.05.18-12.53.56:005][287]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.05.18-12.53.56:005][287]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.05.18-12.53.56:005][287]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.05.18-12.53.56:005][287]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.05.18-12.53.56:005][287]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.05.18-12.53.56:005][287]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.05.18-12.53.56:005][287]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.05.18-12.53.56:005][287]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.05.18-12.53.56:005][287]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.05.18-12.53.56:005][287]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.05.18-12.53.56:005][287]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.05.18-12.53.56:005][287]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.05.18-12.53.56:106][287]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.05.18-12.53.56:207][287]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.05.18-12.53.56:207][287]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.05.18-12.53.56:207][287]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.05.18-12.53.56:207][287]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.05.18-12.53.56:207][287]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.05.18-12.53.56:207][287]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.18-12.53.56:208][287]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.05.18-12.53.56:208][287]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.05.18-12.53.56:208][287]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.05.18-12.53.56:208][287]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.05.18-12.53.56:208][287]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.05.18-12.53.56:208][287]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.05.18-12.53.56:208][287]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.05.18-12.53.56:208][287]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.05.18-12.53.56:211][287]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.05.18-12.53.56:211][287]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.05.18-12.53.56:211][287]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.05.18-12.53.56:212][287]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.05.18-12.53.56:212][287]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.05.18-12.53.56:215][287]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.05.18-12.53.56:215][287]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.05.18-12.53.56:215][287]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.05.18-12.53.56:215][287]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.05.18-12.53.56:215][287]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.05.18-12.53.56:215][287]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.05.18-12.53.56:215][287]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.05.18-12.53.56:216][287]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.05.18-12.53.56:216][287]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.05.18-12.53.56:216][287]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.05.18-12.53.56:216][287]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.05.18-12.53.56:216][287]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.05.18-12.53.56:216][287]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.05.18-12.53.56:216][287]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.05.18-12.53.56:216][287]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.05.18-12.53.56:216][287]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.05.18-12.53.56:216][287]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.05.18-12.53.56:216][287]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.05.18-12.53.56:216][287]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.05.18-12.53.56:216][287]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.05.18-12.53.56:216][287]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.05.18-12.53.56:217][287]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.05.18-12.53.56:217][287]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.05.18-12.53.56:217][287]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.05.18-12.53.56:217][287]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.05.18-12.53.56:217][287]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.05.18-12.53.56:217][287]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.05.18-12.53.56:222][287]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.05.18-12.53.56:222][287]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.05.18-12.53.56:222][287]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.05.18-12.53.56:223][287]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.05.18-12.53.56:223][287]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.05.18-12.53.56:223][287]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.05.18-12.53.56:223][287]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.05.18-12.53.56:223][287]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.05.18-12.53.56:223][287]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.05.18-12.53.56:223][287]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.05.18-12.53.56:223][287]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.05.18-12.53.56:223][287]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.05.18-12.53.56:223][287]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.05.18-12.53.56:223][287]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.05.18-12.53.56:223][287]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.05.18-12.53.56:223][287]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.05.18-12.53.56:234][287]LogDerivedDataCache: Shutdown
+[2020.05.18-12.53.56:234][287]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.05.18-12.53.56:234][287]LogXGEController: Cleaning working directory: C:/Users/r017524i/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.18-12.53.56:235][287]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.05.18-12.53.56:235][287]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.05.18-12.53.56:235][287]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.05.18-12.53.56:235][287]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.05.18-12.53.56:236][287]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.05.18-12.53.56:236][287]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.05.18-12.53.56:236][287]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.05.18-12.53.56:236][287]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.05.18-12.53.56:236][287]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.05.18-12.53.56:236][287]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.05.18-12.53.56:236][287]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.05.18-12.53.56:237][287]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.05.18-12.53.56:237][287]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.05.18-12.53.56:237][287]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.05.18-12.53.56:237][287]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.05.18-12.53.56:237][287]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.05.18-12.53.56:237][287]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.05.18-12.53.56:262][287]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.05.18-12.53.56:263][287]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.05.18-12.53.56:263][287]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.05.18-12.53.56:263][287]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.05.18-12.53.56:263][287]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.05.18-12.53.56:276][287]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.05.18-12.53.56:276][287]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.05.18-12.53.56:283][287]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.05.18-12.53.56:283][287]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.05.18-12.53.56:337][287]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.05.18-12.53.56:337][287]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.05.18-12.53.56:337][287]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.05.18-12.53.56:337][287]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.05.18-12.53.56:338][287]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.05.18-12.53.56:338][287]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.05.18-12.53.56:338][287]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.05.18-12.53.56:338][287]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.05.18-12.53.56:338][287]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.05.18-12.53.56:338][287]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.05.18-12.53.56:338][287]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.05.18-12.53.56:338][287]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.05.18-12.53.56:339][287]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.05.18-12.53.56:339][287]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.05.18-12.53.56:339][287]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.18-12.53.56:339][287]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.05.18-12.53.56:339][287]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.05.18-12.53.56:339][287]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.05.18-12.53.56:339][287]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.05.18-12.53.56:339][287]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.05.18-12.53.56:340][287]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.05.18-12.53.56:340][287]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.05.18-12.53.56:356][287]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.05.18-12.53.56:356][287]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.18-12.53.56:356][287]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B448DE9DD-4EAA-D9C9-505C-E7BF0B2262A7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1cb1fce441b3c01c13ab808f25f0990e%7Cbf3c56fcb030419bad9a157a4ceb5a6c%7C0d8e7410-8154-409c-90f7-99be9dc1c5d1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.05.18-12.53.56:360][287]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.05.18-12.53.56:362][287]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.05.18-12.53.56:364][287]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.05.18-12.53.56:371][287]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.05.18-12.53.56:371][287]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.05.18-12.53.56:371][287]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.18-12.53.56:371][287]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.18-12.53.56:372][287]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.18-12.53.56:372][287]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.18-12.53.56:372][287]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.18-12.53.56:372][287]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.18-12.53.56:372][287]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.18-12.53.56:374][287]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.18-12.53.56:374][287]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.18-12.53.56:374][287]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.18-12.53.56:374][287]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.18-12.53.56:374][287]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.18-12.53.56:374][287]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.18-12.53.56:374][287]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.18-12.53.56:374][287]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.18-12.53.56:374][287]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.18-12.53.56:374][287]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.18-12.53.56:374][287]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.18-12.53.56:374][287]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.18-12.53.56:382][287]LogExit: Exiting.
+[2020.05.18-12.53.56:397][287]Log file closed, 05/18/20 13:53:56
