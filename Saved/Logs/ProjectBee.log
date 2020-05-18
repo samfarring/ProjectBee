@@ -3811,3 +3811,316 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.18-19.26.43:240][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
 [2020.05.18-19.26.43:479][850]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/L_TestLevel_DeleteLaterF5EA8C1240BAD5C5B62836993A413F47.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/Levels/TestLevels/L_TestLevel_DeleteLater.umap'
 [2020.05.18-19.26.43:518][850]LogFileHelpers: Saving map 'L_TestLevel_DeleteLater' took 0.324
+[2020.05.18-19.29.50:285][ 72]LogAssetEditorManager: Opening Asset editor for Material /Game/ArtAssets/PostProcess/SilentHill_PostProcess.SilentHill_PostProcess
+[2020.05.18-19.29.50:289][ 72]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.29.50:438][ 72]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.29.50:457][ 72]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.29.50:477][ 72]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.18-19.29.51:512][124]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.18-19.29.54:483][255]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.05.18-19.29.54:483][255]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.05.18-19.29.54:483][255]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.18-19.29.54:483][255]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.18-19.30.43:442][849]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.43:457][849]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.05.18-19.30.43:478][850]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.18-19.30.44:943][935]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.44:969][935]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.44:987][935]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.45:030][935]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.45:649][970]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.18-19.30.46:461][ 19]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.18-19.30.48:521][142]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.05.18-19.30.48:521][142]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.05.18-19.30.48:521][142]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.18-19.30.48:521][142]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.18-19.30.53:662][447]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.53:706][447]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.53:724][447]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.18-19.30.53:815][452]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.53:850][452]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.53:889][452]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.53:929][452]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.54:097][460]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.54:130][460]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.54:186][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.54:221][462]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.54:254][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.54:290][462]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.54:322][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.54:360][462]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.54:390][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.54:423][462]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.54:449][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.54:486][462]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.54:516][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.54:549][462]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.54:581][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.54:618][462]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.54:718][466]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.54:753][466]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.54:787][466]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.54:825][466]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.54:855][466]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.54:892][466]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.55:007][471]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.55:044][471]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.55:067][471]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.55:099][471]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.55:428][489]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.55:464][489]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.55:492][489]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.55:525][489]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.55:567][489]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.55:605][489]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.55:991][511]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.18-19.30.56:276][527]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.56:312][527]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.56:343][527]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.30.56:375][527]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.30.56:395][527]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.18-19.30.56:913][558]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.18-19.30.57:964][621]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.18-19.30.59:921][736]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.05.18-19.30.59:921][736]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.05.18-19.30.59:921][736]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.18-19.30.59:921][736]MaterialEditorStats: Texture samplers: 3/16
+[2020.05.18-19.31.12:549][843]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.31.12:565][843]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.18-19.31.13:376][892]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.18-19.31.14:479][957]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.31.14:752][970]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.05.18-19.31.15:690][ 25]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.31.15:714][ 25]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.31.15:728][ 25]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.31.17:076][ 77]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.18-19.31.17:076][ 77]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.18-19.31.17:076][ 77]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.18-19.31.39:139][710]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.31.39:991][760]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.18-19.31.39:991][760]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.18-19.31.39:992][760]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.18-19.31.46:652][987]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSceneTexture_0, compiling. 
+[2020.05.18-19.31.48:566][102]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.31.49:262][140]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.18-19.31.49:262][140]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.18-19.31.49:262][140]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.18-19.31.50:167][194]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.31.50:177][194]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.31.51:379][265]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.18-19.31.51:380][265]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.18-19.31.51:380][265]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.18-19.32.04:072][851]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.32.04:631][883]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.18-19.32.04:631][883]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.18-19.32.04:631][883]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.18-19.32.05:703][947]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.32.06:326][984]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.18-19.32.06:326][984]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.18-19.32.06:326][984]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.18-19.32.16:907][406]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.32.16:918][406]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.32.17:783][457]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.18-19.32.17:783][457]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.18-19.32.17:783][457]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.18-19.32.36:594][685]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.32.36:603][685]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.32.37:658][748]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.18-19.32.37:658][748]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.18-19.32.37:658][748]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.18-19.32.39:843][877]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.32.39:854][877]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.32.39:904][878]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.05.18-19.32.40:258][899]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.18-19.32.40:764][929]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.18-19.32.40:764][929]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.18-19.32.40:764][929]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.18-19.32.41:590][978]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.32.42:130][  9]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.18-19.32.42:130][  9]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.18-19.32.42:130][  9]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.18-19.32.42:619][ 38]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.32.43:269][ 75]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.18-19.32.43:269][ 75]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.18-19.32.43:269][ 75]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.18-19.32.47:379][320]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.32.47:939][353]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.18-19.32.47:939][353]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.18-19.32.47:939][353]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.18-19.32.52:267][536]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.32.52:280][536]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.05.18-19.32.52:821][567]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2020.05.18-19.32.52:821][567]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.05.18-19.32.52:821][567]MaterialEditorStats: Texture samplers: 0/16
+[2020.05.18-19.32.53:767][623]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.32.54:480][664]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.18-19.32.54:480][664]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.32.54:480][664]MaterialEditorStats: Texture samplers: 1/16
+[2020.05.18-19.32.54:480][664]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.32.54:480][664]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.32.56:903][809]LogMaterialEditor: Applying material SilentHill_PostProcess
+[2020.05.18-19.32.57:309][809]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.32.57:353][809]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.32.57:370][809]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.32.57:436][809]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2020.05.18-19.32.57:437][809]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.05.18-19.32.57:493][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.05.18-19.32.57:678][820]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.18-19.32.59:247][914]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.18-19.32.59:247][914]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.32.59:247][914]MaterialEditorStats: Texture samplers: 1/16
+[2020.05.18-19.32.59:248][914]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.32.59:248][914]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.33.04:229][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.18-19.33.11:276][547]LogAIModule: Creating AISystem for world L_DetailedBlock
+[2020.05.18-19.33.11:446][547]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/BlockOut/L_DetailedBlock.L_DetailedBlock
+[2020.05.18-19.33.11:614][547]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.05.18-19.33.13:981][547]LogSlate: Window 'Save Content' being destroyed
+[2020.05.18-19.33.14:038][547]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/SilentHill_PostProcess18C432E8495A9F5DCEB0FF9CFAEC6F3F.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ArtAssets/PostProcess/SilentHill_PostProcess.uasset'
+[2020.05.18-19.33.14:042][547]Cmd: MAP LOAD FILE="../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/Levels/BlockOut/L_DetailedBlock.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.18-19.33.14:042][547]LightingResults: New page: Lighting Build
+[2020.05.18-19.33.14:043][547]LoadErrors: New page: Loading map: L_DetailedBlock.umap
+[2020.05.18-19.33.14:044][547]MapCheck: New page: Map Check
+[2020.05.18-19.33.14:045][547]LightingResults: New page: Lighting Build
+[2020.05.18-19.33.14:101][547]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2020.05.18-19.33.14:204][547]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/BlockOut/BaylisStream) is flushing async loading
+[2020.05.18-19.33.14:204][547]LogStreaming: Display: Flushing async loaders.
+[2020.05.18-19.33.14:207][547]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/BlockOut/RyanStream) is flushing async loading
+[2020.05.18-19.33.14:321][547]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/BlockOut/JamesStream) is flushing async loading
+[2020.05.18-19.33.14:460][547]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Levels/BlockOut/InnesStream) is flushing async loading
+[2020.05.18-19.33.14:970][547]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.05.18-19.33.15:163][547]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.05.18-19.33.15:197][547]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.18-19.33.15:201][547]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.974ms to complete.
+[2020.05.18-19.33.15:201][547]LogFileHelpers: Loading map 'L_DetailedBlock' took 1.160
+[2020.05.18-19.33.18:822][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.18-19.33.24:102][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.18-19.33.31:666][484]LogAssetEditorManager: Opening Asset editor for LightPropagationVolumeBlendable /Game/Levels/BlockOut/L_DetailedBlock.L_DetailedBlock:PersistentLevel.PostProcessVolume2_2.LightPropagationVolumeBlendable_0
+[2020.05.18-19.33.55:070][575]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.18-19.33.59:919][848]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.34.00:784][899]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.18-19.34.00:784][899]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.34.00:784][899]MaterialEditorStats: Texture samplers: 1/16
+[2020.05.18-19.34.00:784][899]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.34.00:784][899]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.34.01:838][961]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.34.02:468][993]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.18-19.34.02:468][993]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.34.02:468][993]MaterialEditorStats: Texture samplers: 1/16
+[2020.05.18-19.34.02:468][993]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.34.02:468][993]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.34.05:181][155]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.34.06:161][193]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.18-19.34.06:162][193]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.34.06:162][193]MaterialEditorStats: Texture samplers: 1/16
+[2020.05.18-19.34.06:162][193]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.34.06:162][193]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.34.12:996][448]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.34.13:630][485]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.18-19.34.13:630][485]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.34.13:630][485]MaterialEditorStats: Texture samplers: 1/16
+[2020.05.18-19.34.13:630][485]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.34.13:630][485]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.34.25:616][ 29]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.34.25:630][ 29]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.34.26:279][ 66]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.18-19.34.26:279][ 66]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.34.26:279][ 66]MaterialEditorStats: Texture samplers: 1/16
+[2020.05.18-19.34.26:279][ 66]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.34.26:279][ 66]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.34.27:701][151]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.34.28:413][192]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.18-19.34.28:414][192]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.34.28:414][192]MaterialEditorStats: Texture samplers: 1/16
+[2020.05.18-19.34.28:414][192]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.34.28:414][192]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.34.40:206][820]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.34.40:220][820]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.34.40:261][821]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.05.18-19.34.40:666][824]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.18-19.34.40:666][824]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.34.40:666][824]MaterialEditorStats: Texture samplers: 1/16
+[2020.05.18-19.34.40:666][824]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.34.40:666][824]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.34.48:251][ 31]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.34.48:919][ 70]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.18-19.34.48:919][ 70]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.34.48:919][ 70]MaterialEditorStats: Texture samplers: 1/16
+[2020.05.18-19.34.48:919][ 70]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.34.48:919][ 70]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.34.49:489][104]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.34.50:900][142]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.18-19.34.50:900][142]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.34.50:900][142]MaterialEditorStats: Texture samplers: 1/16
+[2020.05.18-19.34.50:900][142]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.34.50:900][142]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.34.57:937][277]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.34.58:542][311]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.18-19.34.58:542][311]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.34.58:542][311]MaterialEditorStats: Texture samplers: 1/16
+[2020.05.18-19.34.58:542][311]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.34.58:542][311]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.35.12:981][ 39]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.35.12:993][ 39]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.35.13:620][ 75]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.18-19.35.13:620][ 75]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.35.13:620][ 75]MaterialEditorStats: Texture samplers: 1/16
+[2020.05.18-19.35.13:620][ 75]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.35.13:620][ 75]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.35.15:706][200]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.35.16:397][238]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.18-19.35.16:397][238]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.35.16:397][238]MaterialEditorStats: Texture samplers: 1/16
+[2020.05.18-19.35.16:397][238]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.35.16:397][238]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.35.33:774][124]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.35.33:785][124]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.35.34:256][151]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.35.35:028][195]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.18-19.35.35:028][195]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.35.35:028][195]MaterialEditorStats: Texture samplers: 1/16
+[2020.05.18-19.35.35:028][195]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.35.35:028][195]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.35.35:365][215]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.35.36:008][252]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.18-19.35.36:008][252]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.35.36:008][252]MaterialEditorStats: Texture samplers: 1/16
+[2020.05.18-19.35.36:008][252]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.35.36:008][252]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.35.45:492][627]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.35.46:162][663]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.18-19.35.46:162][663]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.35.46:162][663]MaterialEditorStats: Texture samplers: 1/16
+[2020.05.18-19.35.46:162][663]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.35.46:162][663]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.35.47:778][758]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.35.47:791][758]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.35.48:398][793]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.18-19.35.48:399][793]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.35.48:399][793]MaterialEditorStats: Texture samplers: 1/16
+[2020.05.18-19.35.48:399][793]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.35.48:399][793]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.35.57:854][ 35]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.35.58:571][ 74]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2020.05.18-19.35.58:572][ 74]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.35.58:572][ 74]MaterialEditorStats: Texture samplers: 2/16
+[2020.05.18-19.35.58:572][ 74]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.35.58:572][ 74]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.36.03:639][378]LogMaterialEditor: Applying material SilentHill_PostProcess
+[2020.05.18-19.36.04:031][378]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.36.04:073][378]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.36.04:113][378]LogMaterial: Display: Missing cached shader map for material SilentHill_PostProcess, compiling. 
+[2020.05.18-19.36.04:289][378]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.05.18-19.36.04:452][378]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2020.05.18-19.36.04:452][378]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.05.18-19.36.04:502][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.05.18-19.36.05:943][456]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2020.05.18-19.36.05:943][456]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.05.18-19.36.05:943][456]MaterialEditorStats: Texture samplers: 2/16
+[2020.05.18-19.36.05:943][456]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.05.18-19.36.05:943][456]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.05.18-19.36.37:202][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.18-19.36.38:253][305]LogMaterialEditor: Saving and Compiling material SilentHill_PostProcess
+[2020.05.18-19.36.38:329][305]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/SilentHill_PostProcessF3966FAA48B1862E42E73C9E1C6DCE0E.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/ArtAssets/PostProcess/SilentHill_PostProcess.uasset'
+[2020.05.18-19.36.51:067][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.05.18-19.36.55:990][525]LogSavePackage: Moving '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Saved/L_DetailedBlockF76A0A7146AFEFDEB0EEB4919A3F4DF2.tmp' to '../../../../../../Users/but14/Documents/GitHub/ProjectBee/Content/Levels/BlockOut/L_DetailedBlock.umap'
