@@ -1,0 +1,1357 @@
+﻿Log file open, 05/19/20 14:44:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectBee
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.254907
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce RTX 2060 SUPER
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: G:/Software/UnrealEngine/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.19-13.44.56:176][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.19-13.44.56:176][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.19-13.44.56:176][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.19-13.44.56:176][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.19-13.44.56:176][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.05.19-13.44.56:176][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.19-13.44.56:176][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.19-13.44.56:176][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.19-13.44.56:176][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.19-13.44.56:176][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.19-13.44.56:176][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.19-13.44.56:176][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.19-13.44.56:176][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.19-13.44.56:176][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.19-13.44.56:177][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.19-13.44.56:177][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.19-13.44.56:181][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.19-13.44.56:181][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.19-13.44.56:181][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.19-13.44.56:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.19-13.44.56:182][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.19-13.44.56:182][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.19-13.44.56:182][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.19-13.44.56:194][  0]LogHAL: Display: Platform has ~ 24 GB [25725943808 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.05.19-13.44.56:194][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.19-13.44.56:194][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.19-13.44.56:194][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Scalability.ini]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.19-13.44.56:195][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
+[2020.05.19-13.44.56:195][  0]LogInit: Computer: VICKYSPC
+[2020.05.19-13.44.56:195][  0]LogInit: User: Joshy
+[2020.05.19-13.44.56:195][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.19-13.44.56:195][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.19-13.44.56:196][  0]LogMemory: Memory total: Physical=24.0GB (24GB approx)
+[2020.05.19-13.44.56:196][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.19-13.44.56:196][  0]LogMemory: Process Physical Memory: 98.81 MB used, 98.81 MB peak
+[2020.05.19-13.44.56:196][  0]LogMemory: Process Virtual Memory: 97.17 MB used, 97.17 MB peak
+[2020.05.19-13.44.56:196][  0]LogMemory: Physical Memory: 9101.05 MB used,  15433.12 MB free, 24534.17 MB total
+[2020.05.19-13.44.56:196][  0]LogMemory: Virtual Memory: 4665.43 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.05.19-13.44.56:220][  0]LogInit: Using OS detected language (en-GB).
+[2020.05.19-13.44.56:220][  0]LogInit: Using OS detected locale (en-GB).
+[2020.05.19-13.44.56:221][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.05.19-13.44.56:366][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.19-13.44.56:403][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.19-13.44.56:403][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.19-13.44.56:614][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.05.19-13.44.56:614][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.19-13.44.56:664][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 SUPER' (Feature Level 11_0)
+[2020.05.19-13.44.56:664][  0]LogD3D11RHI:       8031/0/12267 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.19-13.44.56:665][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.19-13.44.56:665][  0]LogD3D11RHI:       0/0/12267 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.19-13.44.56:665][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.19-13.44.56:671][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.19-13.44.56:671][  0]LogD3D11RHI:     GPU DeviceId: 0x1f06 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.19-13.44.56:671][  0]LogWindows: EnumDisplayDevices:
+[2020.05.19-13.44.56:672][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060 SUPER' (P:1 D:1)
+[2020.05.19-13.44.56:672][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:1)
+[2020.05.19-13.44.56:672][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2020.05.19-13.44.56:672][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2020.05.19-13.44.56:672][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.19-13.44.56:672][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 SUPER
+[2020.05.19-13.44.56:672][  0]LogD3D11RHI:   Driver Version: 441.87 (internal:26.21.14.4187, unified:441.87)
+[2020.05.19-13.44.56:672][  0]LogD3D11RHI:      Driver Date: 12-24-2019
+[2020.05.19-13.44.56:672][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.05.19-13.44.56:705][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.19-13.44.56:719][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.19-13.44.56:719][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.19-13.44.56:719][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.19-13.44.56:726][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.19-13.44.56:949][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.19-13.44.56:958][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.19-13.44.56:969][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.19-13.44.56:978][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.19-13.44.56:988][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.19-13.44.56:998][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.19-13.44.57:008][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.19-13.44.57:018][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.19-13.44.57:022][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.19-13.44.57:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.19-13.44.57:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.19-13.44.57:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.19-13.44.57:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.19-13.44.57:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.19-13.44.57:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.19-13.44.57:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.19-13.44.57:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.19-13.44.57:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.19-13.44.57:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.19-13.44.57:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.19-13.44.57:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.19-13.44.57:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.19-13.44.57:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.19-13.44.57:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.19-13.44.57:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.19-13.44.57:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.19-13.44.57:081][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.19-13.44.57:083][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.19-13.44.57:124][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.19-13.44.57:124][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.19-13.44.57:142][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.19-13.44.57:142][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.19-13.44.57:151][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.19-13.44.57:160][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.19-13.44.57:170][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.19-13.44.57:180][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.19-13.44.57:213][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.19-13.44.57:213][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.19-13.44.57:213][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.19-13.44.57:218][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.19-13.44.57:245][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (E:/Year 3/JuniorSenior/GitHub/ProjectBee/Intermediate/Shaders/WorkingDirectory/8292/).
+[2020.05.19-13.44.57:245][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Joshy/AppData/Local/Temp/UnrealShaderWorkingDir/AF837A864F0005A88978A59FD1881BAD/'.
+[2020.05.19-13.44.57:246][  0]LogXGEController: Cleaning working directory: C:/Users/Joshy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.19-13.44.57:246][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.19-13.44.57:246][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.19-13.44.57:247][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.19-13.44.57:688][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.19-13.44.57:728][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Joshy/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.19-13.44.57:728][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Joshy/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.05.19-13.44.57:728][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Year 3/JuniorSenior/GitHub/ProjectBee/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.19-13.44.57:728][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.19-13.44.57:728][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Year 3/JuniorSenior/GitHub/ProjectBee/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.19-13.44.57:728][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.19-13.44.57:737][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.19-13.44.57:737][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.19-13.44.57:737][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.19-13.44.57:750][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Joshy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.19-13.44.57:750][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.19-13.44.57:750][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.19-13.44.57:766][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.19-13.44.57:767][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.19-13.44.57:767][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.19-13.44.57:844][  0]LogAssetRegistry: FAssetRegistry took 0.0302 seconds to start up
+[2020.05.19-13.44.58:078][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.19-13.44.58:178][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.19-13.44.58:178][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.19-13.44.58:178][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.19-13.44.58:178][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.19-13.44.58:178][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.19-13.44.58:186][  0]LogNetVersion: ProjectBee 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2863724400)
+[2020.05.19-13.44.58:485][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.027443 seconds
+[2020.05.19-13.44.58:491][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.05.19-13.44.58:491][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.05.19-13.44.58:491][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.19-13.44.59:187][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.19-13.44.59:200][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.19-13.44.59:294][  0]SourceControl: Source control is disabled
+[2020.05.19-13.44.59:294][  0]SourceControl: Source control is disabled
+[2020.05.19-13.44.59:295][  0]SourceControl: Source control is disabled
+[2020.05.19-13.44.59:296][  0]SourceControl: Source control is disabled
+[2020.05.19-13.44.59:348][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.19-13.45.01:344][  0]LogOcInput: OculusInput pre-init called
+[2020.05.19-13.45.01:954][  0]LogEngine: Initializing Engine...
+[2020.05.19-13.45.01:954][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.05.19-13.45.01:955][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.19-13.45.02:115][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.19-13.45.02:123][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.19-13.45.02:176][  0]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.19-13.45.02:251][  0]LogInit: FAudioDevice initialized.
+[2020.05.19-13.45.02:251][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.19-13.45.02:338][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Joshy/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.19-13.45.02:346][  0]LogInit: Texture streaming: Enabled
+[2020.05.19-13.45.02:356][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.19-13.45.02:369][  0]LogInit: Transaction tracking system initialized
+[2020.05.19-13.45.02:381][  0]BlueprintLog: New page: Editor Load
+[2020.05.19-13.45.02:426][  0]LocalizationService: Localization service is disabled
+[2020.05.19-13.45.02:638][  0]LogFileCache: Scanning file cache for directory 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/' took 0.01s
+[2020.05.19-13.45.02:638][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.19-13.45.02:639][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.19-13.45.02:765][  0]SourceControl: Source control is disabled
+[2020.05.19-13.45.02:765][  0]Cmd: MAP LOAD FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Levels/DemoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.19-13.45.02:765][  0]LogEditorServer: Warning: Can't find file 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Levels/DemoLevel.umap'
+[2020.05.19-13.45.02:765][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.19-13.45.02:765][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
+[2020.05.19-13.45.02:765][  0]LogFileHelpers: Loading map 'DemoLevel' took 0.000
+[2020.05.19-13.45.02:857][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-13.45.02:863][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-13.45.02:869][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-13.45.02:875][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-13.45.02:878][  0]LogCollectionManager: Loaded 0 collections in 0.000703 seconds
+[2020.05.19-13.45.02:903][  0]LogFileCache: Scanning file cache for directory 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Collections/' took 0.01s
+[2020.05.19-13.45.02:903][  0]LogFileCache: Scanning file cache for directory 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Developers/Joshy/Collections/' took 0.01s
+[2020.05.19-13.45.02:903][  0]LogFileCache: Scanning file cache for directory 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Collections/' took 0.00s
+[2020.05.19-13.45.02:903][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.05.19-13.45.02:910][  0]LogContentBrowser: Native class hierarchy populated in 0.0061 seconds. Added 2732 classes and 659 folders.
+[2020.05.19-13.45.02:912][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.19-13.45.02:914][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:918][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:918][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:922][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:922][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.19-13.45.02:959][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.19-13.45.02:969][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.05.19-13.45.03:010][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.05.19-13.45.03:015][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.19-13.45.03:018][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.19-13.45.03:022][  0]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.19-13.45.03:061][  0]LogRenderer: Reallocating scene render targets to support 1504x660 Format 10 NumSamples 1 (Frame:1).
+[2020.05.19-13.45.03:144][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.19-13.45.03:144][  0]LogLoad: (Engine Initialization) Total time: 8.74 seconds
+[2020.05.19-13.45.03:144][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.19-13.45.03:177][  0]LogAssetRegistry: Asset discovery search completed in 5.3543 seconds
+[2020.05.19-13.45.03:178][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.05.19-13.45.03:178][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2020.05.19-13.45.03:179][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.19-13.45.03:202][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:345][109]LoadErrors: Failed to load /Game/Blueprints/AI/BP_Bee_Background_Controller.BP_Bee_Background_Controller_C Referenced by Default__BP_BackgroundAI_Base_C
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:345][109]LoadErrors: Failed to load /Script/EnvironmentQueryEditor.EnvironmentQueryGraph Referenced by Default__BP_BackgroundAI_Base_C
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:345][109]LoadErrors: Failed to load /Script/EnvironmentQueryEditor.EnvironmentQueryGraphNode_Option Referenced by Default__BP_BackgroundAI_Base_C
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:345][109]LoadErrors: Failed to load /Script/EnvironmentQueryEditor.EnvironmentQueryGraphNode_Root Referenced by Default__BP_BackgroundAI_Base_C
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:345][109]LoadErrors: Failed to load /Script/EnvironmentQueryEditor.EnvironmentQueryGraphNode_Test Referenced by Default__BP_BackgroundAI_Base_C
+[2020.05.19-13.45.04:345][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:346][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:346][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:346][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:346][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:346][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:346][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:346][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:346][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:346][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:346][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:346][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:346][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:346][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:346][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:346][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:346][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:349][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:349][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:350][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:351][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:351][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:351][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:351][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:351][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:351][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:351][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:351][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:351][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:351][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:351][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:351][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:351][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:351][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:351][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:351][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:351][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:357][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:358][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:358][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:358][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:358][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:358][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:358][109]LogLinker: Warning: Can't find file '/Script/EnvironmentQueryEditor'
+[2020.05.19-13.45.04:358][109]LogLinker: Warning: Can't find file for asset '/Script/EnvironmentQueryEditor' while loading NULL.
+[2020.05.19-13.45.04:923][109]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.19-13.45.04:925][109]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.19-13.45.04:927][109]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Misc/BP_Gate.BP_Gate
+[2020.05.19-13.45.05:113][109]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.05.19-13.45.05:748][109]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/QuestSystem/BP_QuestActor_VICKY.BP_QuestActor_VICKY
+[2020.05.19-13.45.06:036][109]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/BeeCharacter_BP.BeeCharacter_BP
+[2020.05.19-13.45.06:351][109]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.19-13.45.06:910][110]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.19-13.45.46:032][760]LogAIModule: Creating AISystem for world Vicky_Test
+[2020.05.19-13.45.46:052][760]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/TestLevels/Vicky_Test.Vicky_Test
+[2020.05.19-13.45.46:095][760]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.05.19-13.45.46:096][760]Cmd: MAP LOAD FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Levels/TestLevels/Vicky_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.19-13.45.46:096][760]LightingResults: New page: Lighting Build
+[2020.05.19-13.45.46:097][760]LogBlueprintActionDatabase: Requesting refresh due to module change: StatsViewer (loaded)
+[2020.05.19-13.45.46:098][760]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2020.05.19-13.45.46:098][760]LoadErrors: New page: Loading map: Vicky_Test.umap
+[2020.05.19-13.45.46:099][760]MapCheck: New page: Map Check
+[2020.05.19-13.45.46:099][760]LightingResults: New page: Lighting Build
+[2020.05.19-13.45.46:122][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.05.19-13.45.46:212][760]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.19-13.45.46:247][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.05.19-13.45.46:276][760]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.19-13.45.46:277][760]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.93ms to complete.
+[2020.05.19-13.45.46:277][760]LogFileHelpers: Loading map 'Vicky_Test' took 0.181
+[2020.05.19-13.46.22:046][340]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.19-13.46.22:086][340]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.46.22:086][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.19-13.46.22:087][340]PIE: New page: PIE session: Vicky_Test (19 May 2020 15:46:22)
+[2020.05.19-13.46.22:105][340]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test
+[2020.05.19-13.46.22:109][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003536s)
+[2020.05.19-13.46.22:109][340]LogAIModule: Creating AISystem for world Vicky_Test
+[2020.05.19-13.46.22:109][340]LogPlayLevel: PIE: World Init took: (0.000493s)
+[2020.05.19-13.46.22:109][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/Vicky_Test.Vicky_Test to /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test.Vicky_Test (0.004266s)
+[2020.05.19-13.46.22:157][340]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.05.19-13.46.22:199][340]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.19-13.46.22:211][340]LogInit: FAudioDevice initialized.
+[2020.05.19-13.46.22:255][340]LogLoad: Game class is 'GM_Bee_C'
+[2020.05.19-13.46.22:257][340]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test.Vicky_Test up for play (max tick rate 0) at 2020.05.19-14.46.22
+[2020.05.19-13.46.22:258][340]LogWorld: Bringing up level for play took: 0.002875
+[2020.05.19-13.46.22:272][340]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.05.19-13.46.22:273][340]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.05.19-13.46.22:273][340]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2020.05.19-13.46.22:278][340]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test -0.365
+[2020.05.19-13.46.22:278][340]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.46.22:301][340]LogScript: Warning: Accessed None trying to read property WinePickUp
+	W_WinePU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_WinePU
+	Function /Game/Widgets/HUD/W_WinePU.W_WinePU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:301][340]LogScript: Warning: Accessed None trying to read property Pickup
+	W_SpeedPU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_SpeedPU
+	Function /Game/Widgets/HUD/W_SpeedPU.W_SpeedPU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:725][341]LogScript: Warning: Accessed None trying to read property WinePickUp
+	W_WinePU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_WinePU
+	Function /Game/Widgets/HUD/W_WinePU.W_WinePU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:725][341]LogScript: Warning: Accessed None trying to read property Pickup
+	W_SpeedPU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_SpeedPU
+	Function /Game/Widgets/HUD/W_SpeedPU.W_SpeedPU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:762][342]LogScript: Warning: Accessed None trying to read property WinePickUp
+	W_WinePU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_WinePU
+	Function /Game/Widgets/HUD/W_WinePU.W_WinePU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:762][342]LogScript: Warning: Accessed None trying to read property Pickup
+	W_SpeedPU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_SpeedPU
+	Function /Game/Widgets/HUD/W_SpeedPU.W_SpeedPU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:778][343]LogScript: Warning: Accessed None trying to read property WinePickUp
+	W_WinePU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_WinePU
+	Function /Game/Widgets/HUD/W_WinePU.W_WinePU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:778][343]LogScript: Warning: Accessed None trying to read property Pickup
+	W_SpeedPU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_SpeedPU
+	Function /Game/Widgets/HUD/W_SpeedPU.W_SpeedPU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:794][344]LogScript: Warning: Accessed None trying to read property WinePickUp
+	W_WinePU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_WinePU
+	Function /Game/Widgets/HUD/W_WinePU.W_WinePU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:794][344]LogScript: Warning: Accessed None trying to read property Pickup
+	W_SpeedPU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_SpeedPU
+	Function /Game/Widgets/HUD/W_SpeedPU.W_SpeedPU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:807][345]LogScript: Warning: Accessed None trying to read property WinePickUp
+	W_WinePU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_WinePU
+	Function /Game/Widgets/HUD/W_WinePU.W_WinePU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:807][345]LogScript: Warning: Accessed None trying to read property Pickup
+	W_SpeedPU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_SpeedPU
+	Function /Game/Widgets/HUD/W_SpeedPU.W_SpeedPU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:824][346]LogScript: Warning: Accessed None trying to read property WinePickUp
+	W_WinePU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_WinePU
+	Function /Game/Widgets/HUD/W_WinePU.W_WinePU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:824][346]LogScript: Warning: Accessed None trying to read property Pickup
+	W_SpeedPU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_SpeedPU
+	Function /Game/Widgets/HUD/W_SpeedPU.W_SpeedPU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:837][347]LogScript: Warning: Accessed None trying to read property WinePickUp
+	W_WinePU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_WinePU
+	Function /Game/Widgets/HUD/W_WinePU.W_WinePU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:838][347]LogScript: Warning: Accessed None trying to read property Pickup
+	W_SpeedPU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_SpeedPU
+	Function /Game/Widgets/HUD/W_SpeedPU.W_SpeedPU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:851][348]LogScript: Warning: Accessed None trying to read property WinePickUp
+	W_WinePU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_WinePU
+	Function /Game/Widgets/HUD/W_WinePU.W_WinePU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:851][348]LogScript: Warning: Accessed None trying to read property Pickup
+	W_SpeedPU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_SpeedPU
+	Function /Game/Widgets/HUD/W_SpeedPU.W_SpeedPU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:867][349]LogScript: Warning: Accessed None trying to read property WinePickUp
+	W_WinePU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_WinePU
+	Function /Game/Widgets/HUD/W_WinePU.W_WinePU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:867][349]LogScript: Warning: Accessed None trying to read property Pickup
+	W_SpeedPU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_SpeedPU
+	Function /Game/Widgets/HUD/W_SpeedPU.W_SpeedPU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:883][350]LogScript: Warning: Accessed None trying to read property WinePickUp
+	W_WinePU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_WinePU
+	Function /Game/Widgets/HUD/W_WinePU.W_WinePU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:883][350]LogScript: Warning: Accessed None trying to read property Pickup
+	W_SpeedPU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_SpeedPU
+	Function /Game/Widgets/HUD/W_SpeedPU.W_SpeedPU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:898][351]LogScript: Warning: Accessed None trying to read property WinePickUp
+	W_WinePU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_WinePU
+	Function /Game/Widgets/HUD/W_WinePU.W_WinePU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:898][351]LogScript: Warning: Accessed None trying to read property Pickup
+	W_SpeedPU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_SpeedPU
+	Function /Game/Widgets/HUD/W_SpeedPU.W_SpeedPU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:913][352]LogScript: Warning: Accessed None trying to read property WinePickUp
+	W_WinePU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_WinePU
+	Function /Game/Widgets/HUD/W_WinePU.W_WinePU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:913][352]LogScript: Warning: Accessed None trying to read property Pickup
+	W_SpeedPU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_SpeedPU
+	Function /Game/Widgets/HUD/W_SpeedPU.W_SpeedPU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:927][353]LogScript: Warning: Accessed None trying to read property WinePickUp
+	W_WinePU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_WinePU
+	Function /Game/Widgets/HUD/W_WinePU.W_WinePU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:927][353]LogScript: Warning: Accessed None trying to read property Pickup
+	W_SpeedPU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_SpeedPU
+	Function /Game/Widgets/HUD/W_SpeedPU.W_SpeedPU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:942][354]LogScript: Warning: Accessed None trying to read property WinePickUp
+	W_WinePU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_WinePU
+	Function /Game/Widgets/HUD/W_WinePU.W_WinePU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:942][354]LogScript: Warning: Accessed None trying to read property Pickup
+	W_SpeedPU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_SpeedPU
+	Function /Game/Widgets/HUD/W_SpeedPU.W_SpeedPU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:955][355]LogScript: Warning: Accessed None trying to read property WinePickUp
+	W_WinePU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_WinePU
+	Function /Game/Widgets/HUD/W_WinePU.W_WinePU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:955][355]LogScript: Warning: Accessed None trying to read property Pickup
+	W_SpeedPU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_SpeedPU
+	Function /Game/Widgets/HUD/W_SpeedPU.W_SpeedPU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:970][356]LogScript: Warning: Accessed None trying to read property WinePickUp
+	W_WinePU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_WinePU
+	Function /Game/Widgets/HUD/W_WinePU.W_WinePU_C:SetCooldownText:003E
+[2020.05.19-13.46.22:970][356]LogScript: Warning: Accessed None trying to read property Pickup
+	W_SpeedPU_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_0.W_UIManager_C_0.WidgetTree_0.W_SpeedPU
+	Function /Game/Widgets/HUD/W_SpeedPU.W_SpeedPU_C:SetCooldownText:003E
+[2020.05.19-13.46.25:221][519]LogBlueprintUserMessages: [BP_QuestActor_VICKY_Temp_5] quest completed
+[2020.05.19-13.46.28:699][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.46.28:699][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-13.46.28:746][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.19-13.46.28:747][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.46.28:786][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-13.46.28:817][774]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.05.19-13.46.29:021][775]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.05.19-13.46.35:356][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.19-13.46.50:791][308]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/QuestSystem/QuestManager.QuestManager
+[2020.05.19-13.47.06:686][ 99]BlueprintLog: New page: Compile QuestManager
+[2020.05.19-13.47.06:720][ 99]LogBlueprint: Error: [Compiler QuestManager] COMPILER ERROR: failed building connection with 'Array of BP Quest Actor Base Object References is not compatible with Array of BP Quest Actor VICKY Object References.' at  Get (a copy) generated from expanding For Each Loop
+[2020.05.19-13.47.06:720][ 99]LogBlueprint: Error: [Compiler QuestManager] Can't connect pins  Out Actors  and  Target Array generated from expanding For Each Loop : Array of BP Quest Actor VICKY Object References is not compatible with Array of BP Quest Actor Base Object References.
+[2020.05.19-13.47.06:720][ 99]LogBlueprint: Error: [Compiler QuestManager] Invalid pin connection from ' Out Actors ' to ' Target Array generated from expanding For Each Loop '. You may have changed the type after the connections were made.
+[2020.05.19-13.47.06:720][ 99]LogBlueprint: Error: [Compiler QuestManager] Can't connect pins  Target Array generated from expanding For Each Loop  and  Out Actors : Array of BP Quest Actor Base Object References is not compatible with Array of BP Quest Actor VICKY Object References.
+[2020.05.19-13.47.06:721][ 99]LogBlueprint: Error: [Compiler QuestManager] The current value of the ' Array generated from expanding Get (a copy) ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2020.05.19-13.47.06:923][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.05.19-13.47.06:945][ 99]LogBlueprint: Warning: [Compiler QuestManager] [0132.54] Compile of QuestManager failed. 5 Fatal Issue(s) 0 Warning(s) [in 259 ms] (/Game/Blueprints/QuestSystem/QuestManager.QuestManager)
+[2020.05.19-13.47.08:217][232]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.19-13.47.08:237][232]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.47.08:238][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.19-13.47.14:896][232]LogSlate: Window 'Message' being destroyed
+[2020.05.19-13.48.24:795][  9]BlueprintLog: New page: Compile QuestManager
+[2020.05.19-13.48.24:806][  9]LogBlueprint: Error: [Compiler QuestManager] Create Event  Signature Error: The function/event 'OBJComplete' does not match the necessary signature - has the delegate or function/event changed?
+[2020.05.19-13.48.24:806][  9]LogBlueprint: Error: [Compiler QuestManager] Create Event  Signature Error: The function/event 'QuestCompleted' does not match the necessary signature - has the delegate or function/event changed?
+[2020.05.19-13.48.24:806][  9]LogBlueprint: Error: [Compiler QuestManager] Create Event  Signature Error: The function/event 'NewQuest' does not match the necessary signature - has the delegate or function/event changed?
+[2020.05.19-13.48.24:981][  9]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.05.19-13.48.25:005][  9]LogBlueprint: Warning: [Compiler QuestManager] [0210.60] Compile of QuestManager failed. 3 Fatal Issue(s) 0 Warning(s) [in 209 ms] (/Game/Blueprints/QuestSystem/QuestManager.QuestManager)
+[2020.05.19-13.48.45:662][312]LogEditorTransaction: Undo Move Node
+[2020.05.19-13.48.46:084][348]LogEditorTransaction: Undo Add Node
+[2020.05.19-13.48.52:905][447]LogRenderer: Reallocating scene render targets to support 2004x920 Format 10 NumSamples 1 (Frame:16234).
+[2020.05.19-13.51.49:989][748]BlueprintLog: New page: Compile QuestManager
+[2020.05.19-13.51.49:999][748]LogBlueprint: Error: [Compiler QuestManager] Create Event  Signature Error: The function/event 'OBJComplete' does not match the necessary signature - has the delegate or function/event changed?
+[2020.05.19-13.51.49:999][748]LogBlueprint: Error: [Compiler QuestManager] Create Event  Signature Error: The function/event 'QuestCompleted' does not match the necessary signature - has the delegate or function/event changed?
+[2020.05.19-13.51.49:999][748]LogBlueprint: Error: [Compiler QuestManager] Create Event  Signature Error: The function/event 'NewQuest' does not match the necessary signature - has the delegate or function/event changed?
+[2020.05.19-13.51.50:180][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.05.19-13.51.50:205][748]LogBlueprint: Warning: [Compiler QuestManager] [0415.80] Compile of QuestManager failed. 3 Fatal Issue(s) 0 Warning(s) [in 215 ms] (/Game/Blueprints/QuestSystem/QuestManager.QuestManager)
+[2020.05.19-13.52.35:374][257]LogSlate: Took 0.018099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.05.19-13.53.59:396][860]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.05.19-13.54.01:722][996]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.05.19-13.54.01:728][996]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.05.19-13.56.18:040][436]LogEditorTransaction: Undo Delete current selection
+[2020.05.19-13.56.26:819][359]BlueprintLog: New page: Compile QuestManager
+[2020.05.19-13.56.26:829][359]LogBlueprint: Error: [Compiler QuestManager] In use pin  Current Objectives  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.05.19-13.56.26:831][359]LogBlueprint: Error: [Compiler QuestManager] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2020.05.19-13.56.26:832][359]LogBlueprint: Error: [Compiler QuestManager] Create Event  Signature Error: The function/event 'OBJComplete' does not match the necessary signature - has the delegate or function/event changed?
+[2020.05.19-13.56.26:832][359]LogBlueprint: Error: [Compiler QuestManager] Create Event  Signature Error: The function/event 'QuestCompleted' does not match the necessary signature - has the delegate or function/event changed?
+[2020.05.19-13.56.26:833][359]LogClass: Warning: Property CurrentObjectives of CurrentObjectives has a struct type mismatch (tag QuestStruct != prop QuestStructVICKY) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.05.19-13.56.27:018][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.05.19-13.56.27:046][359]LogBlueprint: Warning: [Compiler QuestManager] [0692.64] Compile of QuestManager failed. 4 Fatal Issue(s) 0 Warning(s) [in 226 ms] (/Game/Blueprints/QuestSystem/QuestManager.QuestManager)
+[2020.05.19-13.58.03:008][399]BlueprintLog: New page: Compile QuestManager
+[2020.05.19-13.58.03:017][399]LogBlueprint: Error: [Compiler QuestManager] In use pin  Current Objectives  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.05.19-13.58.03:019][399]LogBlueprint: Error: [Compiler QuestManager] Create Event  Signature Error: The function/event 'OBJComplete' does not match the necessary signature - has the delegate or function/event changed?
+[2020.05.19-13.58.03:200][399]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.05.19-13.58.03:230][399]LogBlueprint: Warning: [Compiler QuestManager] [0788.82] Compile of QuestManager failed. 2 Fatal Issue(s) 0 Warning(s) [in 222 ms] (/Game/Blueprints/QuestSystem/QuestManager.QuestManager)
+[2020.05.19-13.58.15:793][671]BlueprintLog: New page: Compile QuestManager
+[2020.05.19-13.58.15:802][671]LogBlueprint: Error: [Compiler QuestManager] In use pin  Current Objectives  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.05.19-13.58.15:982][671]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.05.19-13.58.16:009][671]LogBlueprint: Warning: [Compiler QuestManager] [0801.60] Compile of QuestManager failed. 1 Fatal Issue(s) 0 Warning(s) [in 216 ms] (/Game/Blueprints/QuestSystem/QuestManager.QuestManager)
+[2020.05.19-13.58.21:599][201]BlueprintLog: New page: Compile QuestManager
+[2020.05.19-13.58.21:788][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.05.19-13.58.21:829][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/QuestSystem/QuestManager" FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestManager.uasset" SILENT=true
+[2020.05.19-13.58.21:886][201]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/QuestManager537D549041AA930AA0B701A7F01B8FED.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestManager.uasset'
+[2020.05.19-13.58.30:415][749]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.19-13.58.30:434][749]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.58.30:434][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.19-13.58.30:434][749]PIE: New page: PIE session: Vicky_Test (19 May 2020 15:58:30)
+[2020.05.19-13.58.30:434][749]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test
+[2020.05.19-13.58.30:438][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003392s)
+[2020.05.19-13.58.30:439][749]LogAIModule: Creating AISystem for world Vicky_Test
+[2020.05.19-13.58.30:439][749]LogPlayLevel: PIE: World Init took: (0.000519s)
+[2020.05.19-13.58.30:439][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/Vicky_Test.Vicky_Test to /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test.Vicky_Test (0.004061s)
+[2020.05.19-13.58.30:475][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.05.19-13.58.30:518][749]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.19-13.58.30:529][749]LogInit: FAudioDevice initialized.
+[2020.05.19-13.58.30:558][749]LogLoad: Game class is 'GM_Bee_C'
+[2020.05.19-13.58.30:560][749]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test.Vicky_Test up for play (max tick rate 0) at 2020.05.19-14.58.30
+[2020.05.19-13.58.30:561][749]LogWorld: Bringing up level for play took: 0.002266
+[2020.05.19-13.58.30:577][749]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test -0.066
+[2020.05.19-13.58.30:577][749]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.58.35:525][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_NewObjectives1' of length 0 in '/Game/Blueprints/QuestSystem/QuestManager.QuestManager_C:ExecuteUbergraph_QuestManager'!
+[2020.05.19-13.58.35:525][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_NewObjectives1' of length 0 in '/Game/Blueprints/QuestSystem/QuestManager.QuestManager_C:ExecuteUbergraph_QuestManager'!
+[2020.05.19-13.58.35:630][347]LogBlueprintUserMessages: [BP_QuestActor_VICKY_Temp_5] quest completed
+[2020.05.19-13.58.37:848][613]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.58.37:849][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-13.58.37:899][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.19-13.58.37:899][613]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.58.37:935][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-13.58.37:940][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.05.19-13.58.37:982][614]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.05.19-13.58.38:725][700]LogEditorViewport: Clicking on Actor (LMB): BP_QuestActor_VICKY_Temp_C (BP_QuestActor_VICKY_Temp)
+[2020.05.19-13.58.39:700][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.19-13.58.42:399][114]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.19-13.58.42:418][114]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.58.42:419][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.19-13.58.42:419][114]PIE: New page: PIE session: Vicky_Test (19 May 2020 15:58:42)
+[2020.05.19-13.58.42:419][114]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test
+[2020.05.19-13.58.42:422][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003274s)
+[2020.05.19-13.58.42:422][114]LogAIModule: Creating AISystem for world Vicky_Test
+[2020.05.19-13.58.42:423][114]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2020.05.19-13.58.42:423][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/Vicky_Test.Vicky_Test to /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test.Vicky_Test (0.004061s)
+[2020.05.19-13.58.42:455][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.05.19-13.58.42:498][114]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.19-13.58.42:510][114]LogInit: FAudioDevice initialized.
+[2020.05.19-13.58.42:541][114]LogLoad: Game class is 'GM_Bee_C'
+[2020.05.19-13.58.42:543][114]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test.Vicky_Test up for play (max tick rate 0) at 2020.05.19-14.58.42
+[2020.05.19-13.58.42:543][114]LogWorld: Bringing up level for play took: 0.002096
+[2020.05.19-13.58.42:560][114]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test -0.083
+[2020.05.19-13.58.42:560][114]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.58.43:858][265]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_NewObjectives1' of length 0 in '/Game/Blueprints/QuestSystem/QuestManager.QuestManager_C:ExecuteUbergraph_QuestManager'!
+[2020.05.19-13.58.43:858][265]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_NewObjectives1' of length 0 in '/Game/Blueprints/QuestSystem/QuestManager.QuestManager_C:ExecuteUbergraph_QuestManager'!
+[2020.05.19-13.58.44:759][373]LogBlueprintUserMessages: [BP_QuestActor_VICKY_Temp_5] quest completed
+[2020.05.19-13.58.46:177][543]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.58.46:177][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-13.58.46:215][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.19-13.58.46:216][543]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.58.46:252][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-13.58.46:256][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.05.19-13.58.46:299][544]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.05.19-13.58.47:904][732]LogEditorViewport: Clicking on Actor (LMB): BP_QuestActor_VICKY_Temp_C (BP_QuestActor_VICKY_Temp)
+[2020.05.19-13.58.49:988][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.19-13.58.53:123][324]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.19-13.58.53:143][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.58.53:143][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.19-13.58.53:143][324]PIE: New page: PIE session: Vicky_Test (19 May 2020 15:58:53)
+[2020.05.19-13.58.53:143][324]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test
+[2020.05.19-13.58.53:147][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003394s)
+[2020.05.19-13.58.53:147][324]LogAIModule: Creating AISystem for world Vicky_Test
+[2020.05.19-13.58.53:147][324]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2020.05.19-13.58.53:147][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/Vicky_Test.Vicky_Test to /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test.Vicky_Test (0.004095s)
+[2020.05.19-13.58.53:181][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.05.19-13.58.53:224][324]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.19-13.58.53:235][324]LogInit: FAudioDevice initialized.
+[2020.05.19-13.58.53:261][324]LogLoad: Game class is 'GM_Bee_C'
+[2020.05.19-13.58.53:264][324]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test.Vicky_Test up for play (max tick rate 0) at 2020.05.19-14.58.53
+[2020.05.19-13.58.53:264][324]LogWorld: Bringing up level for play took: 0.002109
+[2020.05.19-13.58.53:280][324]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test 0.638
+[2020.05.19-13.58.53:280][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.58.54:579][477]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_NewObjectives1' of length 0 in '/Game/Blueprints/QuestSystem/QuestManager.QuestManager_C:ExecuteUbergraph_QuestManager'!
+[2020.05.19-13.58.54:579][477]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_NewObjectives1' of length 0 in '/Game/Blueprints/QuestSystem/QuestManager.QuestManager_C:ExecuteUbergraph_QuestManager'!
+[2020.05.19-13.58.55:679][609]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'txt_pointsArray' of length 6 in '/Game/Widgets/W_todoList.W_todoList_C'!
+[2020.05.19-13.58.55:679][609]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'txt_objectivesArray' of length 6 in '/Game/Widgets/W_todoList.W_todoList_C'!
+[2020.05.19-13.58.55:679][609]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	W_todoList_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_3.W_todoList_C_1
+	Function /Game/Widgets/W_todoList.W_todoList_C:ExecuteUbergraph_W_todoList:0396
+[2020.05.19-13.58.55:679][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Color and Opacity
+[2020.05.19-13.58.55:679][609]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item1
+	W_todoList_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_3.W_todoList_C_1
+	Function /Game/Widgets/W_todoList.W_todoList_C:ExecuteUbergraph_W_todoList:03BF
+[2020.05.19-13.58.55:679][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item1". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Color and Opacity
+[2020.05.19-13.58.55:679][609]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'img_marksArray' of length 6 in '/Game/Widgets/W_todoList.W_todoList_C'!
+[2020.05.19-13.58.55:679][609]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	W_todoList_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_3.W_todoList_C_1
+	Function /Game/Widgets/W_todoList.W_todoList_C:ExecuteUbergraph_W_todoList:0466
+[2020.05.19-13.58.55:679][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush Tint Color
+[2020.05.19-13.58.55:679][609]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'img_marksArray' of length 6 in '/Game/Widgets/W_todoList.W_todoList_C'!
+[2020.05.19-13.58.55:679][609]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	W_todoList_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_3.W_todoList_C_1
+	Function /Game/Widgets/W_todoList.W_todoList_C:ExecuteUbergraph_W_todoList:04EF
+[2020.05.19-13.58.55:679][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.58.55:679][609]LogScript: Warning: Accessed None reading structure ImageSize
+	W_todoList_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_3.W_todoList_C_1
+	Function /Game/Widgets/W_todoList.W_todoList_C:ExecuteUbergraph_W_todoList:0504
+[2020.05.19-13.58.55:680][609]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure ImageSize". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.58.55:680][609]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	W_todoList_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_3.W_todoList_C_1
+	Function /Game/Widgets/W_todoList.W_todoList_C:ExecuteUbergraph_W_todoList:0532
+[2020.05.19-13.58.55:680][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.58.55:680][609]LogScript: Warning: Accessed None reading structure Margin
+	W_todoList_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_3.W_todoList_C_1
+	Function /Game/Widgets/W_todoList.W_todoList_C:ExecuteUbergraph_W_todoList:0547
+[2020.05.19-13.58.55:680][609]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Margin". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.58.55:680][609]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	W_todoList_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_3.W_todoList_C_1
+	Function /Game/Widgets/W_todoList.W_todoList_C:ExecuteUbergraph_W_todoList:0575
+[2020.05.19-13.58.55:680][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.58.55:680][609]LogScript: Warning: Accessed None reading structure TintColor
+	W_todoList_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_3.W_todoList_C_1
+	Function /Game/Widgets/W_todoList.W_todoList_C:ExecuteUbergraph_W_todoList:058A
+[2020.05.19-13.58.55:680][609]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure TintColor". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.58.55:680][609]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	W_todoList_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_3.W_todoList_C_1
+	Function /Game/Widgets/W_todoList.W_todoList_C:ExecuteUbergraph_W_todoList:05D4
+[2020.05.19-13.58.55:680][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.58.55:680][609]LogScript: Warning: Accessed None reading structure DrawAs
+	W_todoList_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_3.W_todoList_C_1
+	Function /Game/Widgets/W_todoList.W_todoList_C:ExecuteUbergraph_W_todoList:05E9
+[2020.05.19-13.58.55:680][609]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure DrawAs". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.58.55:680][609]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	W_todoList_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_3.W_todoList_C_1
+	Function /Game/Widgets/W_todoList.W_todoList_C:ExecuteUbergraph_W_todoList:0617
+[2020.05.19-13.58.55:680][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.58.55:680][609]LogScript: Warning: Accessed None reading structure Tiling
+	W_todoList_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_3.W_todoList_C_1
+	Function /Game/Widgets/W_todoList.W_todoList_C:ExecuteUbergraph_W_todoList:062C
+[2020.05.19-13.58.55:680][609]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Tiling". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.58.55:680][609]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	W_todoList_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_3.W_todoList_C_1
+	Function /Game/Widgets/W_todoList.W_todoList_C:ExecuteUbergraph_W_todoList:065A
+[2020.05.19-13.58.55:680][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.58.55:680][609]LogScript: Warning: Accessed None reading structure Mirroring
+	W_todoList_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_3.W_todoList_C_1
+	Function /Game/Widgets/W_todoList.W_todoList_C:ExecuteUbergraph_W_todoList:066F
+[2020.05.19-13.58.55:680][609]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Mirroring". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.58.55:681][609]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item2
+	W_todoList_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_3.W_todoList_C_1
+	Function /Game/Widgets/W_todoList.W_todoList_C:ExecuteUbergraph_W_todoList:067A
+[2020.05.19-13.58.55:681][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.58.55:681][609]LogBlueprintUserMessages: [BP_QuestActor_VICKY_Temp_5] quest completed
+[2020.05.19-13.58.58:427][938]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.58.58:427][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-13.58.58:464][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.19-13.58.58:465][938]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.58.58:501][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-13.58.58:506][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.05.19-13.58.58:565][939]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.05.19-13.58.59:397][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.19-13.58.59:481][ 34]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.19-13.58.59:502][ 34]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.58.59:502][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.19-13.58.59:502][ 34]PIE: New page: PIE session: Vicky_Test (19 May 2020 15:58:59)
+[2020.05.19-13.58.59:502][ 34]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test
+[2020.05.19-13.58.59:505][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003321s)
+[2020.05.19-13.58.59:506][ 34]LogAIModule: Creating AISystem for world Vicky_Test
+[2020.05.19-13.58.59:506][ 34]LogPlayLevel: PIE: World Init took: (0.000524s)
+[2020.05.19-13.58.59:506][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/Vicky_Test.Vicky_Test to /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test.Vicky_Test (0.003992s)
+[2020.05.19-13.58.59:540][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.05.19-13.58.59:583][ 34]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.19-13.58.59:594][ 34]LogInit: FAudioDevice initialized.
+[2020.05.19-13.58.59:619][ 34]LogLoad: Game class is 'GM_Bee_C'
+[2020.05.19-13.58.59:622][ 34]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test.Vicky_Test up for play (max tick rate 0) at 2020.05.19-14.58.59
+[2020.05.19-13.58.59:623][ 34]LogWorld: Bringing up level for play took: 0.002372
+[2020.05.19-13.58.59:639][ 34]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test 0.996
+[2020.05.19-13.58.59:639][ 34]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.59.01:005][195]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_NewObjectives1' of length 0 in '/Game/Blueprints/QuestSystem/QuestManager.QuestManager_C:ExecuteUbergraph_QuestManager'!
+[2020.05.19-13.59.01:005][195]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_NewObjectives1' of length 0 in '/Game/Blueprints/QuestSystem/QuestManager.QuestManager_C:ExecuteUbergraph_QuestManager'!
+[2020.05.19-13.59.02:605][387]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'txt_pointsArray' of length 6 in '/Game/Widgets/W_todoList.W_todoList_C'!
+[2020.05.19-13.59.02:605][387]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'txt_objectivesArray' of length 6 in '/Game/Widgets/W_todoList.W_todoList_C'!
+[2020.05.19-13.59.02:605][387]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	W_todoList_C /Engine/Transient.UnrealEdEngine_0:BeeInstance_C_4.W_todoList_C_1
+	Function /Game/Widgets/W_todoList.W_todoList_C:ExecuteUbergraph_W_todoList:0396
+[2020.05.19-13.59.02:605][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Color and Opacity
+[2020.05.19-13.59.02:605][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item1". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Color and Opacity
+[2020.05.19-13.59.02:605][387]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'img_marksArray' of length 6 in '/Game/Widgets/W_todoList.W_todoList_C'!
+[2020.05.19-13.59.02:605][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush Tint Color
+[2020.05.19-13.59.02:606][387]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'img_marksArray' of length 6 in '/Game/Widgets/W_todoList.W_todoList_C'!
+[2020.05.19-13.59.02:606][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.59.02:606][387]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure ImageSize". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.59.02:606][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.59.02:606][387]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Margin". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.59.02:606][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.59.02:606][387]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure TintColor". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.59.02:606][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.59.02:606][387]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure DrawAs". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.59.02:606][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.59.02:606][387]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Tiling". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.59.02:606][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.59.02:606][387]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Mirroring". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.59.02:606][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-13.59.02:606][387]LogBlueprintUserMessages: [BP_QuestActor_VICKY_Temp_5] quest completed
+[2020.05.19-13.59.02:724][400]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.59.02:724][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-13.59.02:763][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.19-13.59.02:764][400]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-13.59.02:799][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-13.59.02:803][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.05.19-13.59.02:849][401]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.05.19-13.59.07:658][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.19-13.59.08:294][ 25]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/W_todoList.W_todoList
+[2020.05.19-13.59.08:525][ 25]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.05.19-14.01.40:978][918]BlueprintLog: New page: Compile QuestManager
+[2020.05.19-14.01.41:213][918]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.05.19-14.01.41:250][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/QuestSystem/QuestManager" FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestManager.uasset" SILENT=true
+[2020.05.19-14.01.41:286][918]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/QuestManagerE76A872F4039AD12BE64EA9CB6A2A672.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestManager.uasset'
+[2020.05.19-14.01.42:605][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.19-14.01.42:634][ 49]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-14.01.42:635][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.19-14.01.42:635][ 49]PIE: New page: PIE session: Vicky_Test (19 May 2020 16:01:42)
+[2020.05.19-14.01.42:635][ 49]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test
+[2020.05.19-14.01.42:639][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003445s)
+[2020.05.19-14.01.42:639][ 49]LogAIModule: Creating AISystem for world Vicky_Test
+[2020.05.19-14.01.42:639][ 49]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2020.05.19-14.01.42:639][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/Vicky_Test.Vicky_Test to /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test.Vicky_Test (0.004166s)
+[2020.05.19-14.01.42:681][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.05.19-14.01.42:723][ 49]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.19-14.01.42:736][ 49]LogInit: FAudioDevice initialized.
+[2020.05.19-14.01.42:762][ 49]LogLoad: Game class is 'GM_Bee_C'
+[2020.05.19-14.01.42:764][ 49]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test.Vicky_Test up for play (max tick rate 0) at 2020.05.19-15.01.42
+[2020.05.19-14.01.42:764][ 49]LogWorld: Bringing up level for play took: 0.002035
+[2020.05.19-14.01.42:781][ 49]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test 0.138
+[2020.05.19-14.01.42:781][ 49]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-14.01.44:158][202]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_NewObjectives1' of length 0 in '/Game/Blueprints/QuestSystem/QuestManager.QuestManager_C:ExecuteUbergraph_QuestManager'!
+[2020.05.19-14.01.45:161][320]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'txt_pointsArray' of length 6 in '/Game/Widgets/W_todoList.W_todoList_C'!
+[2020.05.19-14.01.45:161][320]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'txt_objectivesArray' of length 6 in '/Game/Widgets/W_todoList.W_todoList_C'!
+[2020.05.19-14.01.45:161][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Color and Opacity
+[2020.05.19-14.01.45:161][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item1". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Color and Opacity
+[2020.05.19-14.01.45:161][320]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'img_marksArray' of length 6 in '/Game/Widgets/W_todoList.W_todoList_C'!
+[2020.05.19-14.01.45:161][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush Tint Color
+[2020.05.19-14.01.45:161][320]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'img_marksArray' of length 6 in '/Game/Widgets/W_todoList.W_todoList_C'!
+[2020.05.19-14.01.45:161][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-14.01.45:161][320]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure ImageSize". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-14.01.45:161][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-14.01.45:161][320]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Margin". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-14.01.45:162][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-14.01.45:162][320]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure TintColor". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-14.01.45:162][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-14.01.45:162][320]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure DrawAs". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-14.01.45:162][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-14.01.45:162][320]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Tiling". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-14.01.45:162][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-14.01.45:162][320]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Mirroring". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-14.01.45:162][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item2". Blueprint:  W_todoList Function:  Execute Ubergraph W Todo List Graph:  EventGraph Node:  Set Brush
+[2020.05.19-14.01.45:162][320]LogBlueprintUserMessages: [BP_QuestActor_VICKY_Temp_5] quest completed
+[2020.05.19-14.01.47:644][589]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-14.01.47:644][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-14.01.47:682][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.19-14.01.47:683][589]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-14.01.47:722][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-14.01.47:727][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.05.19-14.01.47:763][590]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.05.19-14.01.48:998][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.19-14.02.00:955][980]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.19-14.02.00:981][980]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-14.02.00:981][980]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.19-14.02.00:984][980]LogPlayLevel: [PlayLevel] Compiling QuestManager before play...
+[2020.05.19-14.02.01:187][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/QuestSystem/QuestManager" FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestManager.uasset" SILENT=true
+[2020.05.19-14.02.01:227][980]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/QuestManagerA58B496146C1E93E59874B87716FD3E8.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestManager.uasset'
+[2020.05.19-14.02.01:275][980]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.05.19-14.02.01:275][980]LogPlayLevel: PlayLevel: Blueprint regeneration took 294 ms (1 blueprints)
+[2020.05.19-14.02.01:275][980]PIE: New page: PIE session: Vicky_Test (19 May 2020 16:02:01)
+[2020.05.19-14.02.01:275][980]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test
+[2020.05.19-14.02.01:279][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003511s)
+[2020.05.19-14.02.01:279][980]LogAIModule: Creating AISystem for world Vicky_Test
+[2020.05.19-14.02.01:279][980]LogPlayLevel: PIE: World Init took: (0.000432s)
+[2020.05.19-14.02.01:279][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/Vicky_Test.Vicky_Test to /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test.Vicky_Test (0.004081s)
+[2020.05.19-14.02.01:316][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.05.19-14.02.01:360][980]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.19-14.02.01:371][980]LogInit: FAudioDevice initialized.
+[2020.05.19-14.02.01:398][980]LogLoad: Game class is 'GM_Bee_C'
+[2020.05.19-14.02.01:401][980]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test.Vicky_Test up for play (max tick rate 0) at 2020.05.19-15.02.01
+[2020.05.19-14.02.01:401][980]LogWorld: Bringing up level for play took: 0.002016
+[2020.05.19-14.02.01:418][980]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test 0.775
+[2020.05.19-14.02.01:418][980]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-14.02.04:444][328]LogBlueprintUserMessages: [BP_QuestActor_VICKY_Temp_5] quest completed
+[2020.05.19-14.02.06:044][519]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-14.02.06:045][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-14.02.06:074][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.19-14.02.06:075][519]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-14.02.06:115][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-14.02.06:120][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.05.19-14.02.06:152][520]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.05.19-14.02.09:306][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.19-14.02.47:397][275]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.19-14.02.47:421][275]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-14.02.47:421][275]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.19-14.02.47:425][275]LogPlayLevel: [PlayLevel] Compiling QuestManager before play...
+[2020.05.19-14.02.47:454][275]LogPlayLevel: [PlayLevel]   Compiling BeeCharacter_BP as a dependent...
+[2020.05.19-14.02.47:516][275]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.05.19-14.02.47:720][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/QuestSystem/QuestManager" FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestManager.uasset" SILENT=true
+[2020.05.19-14.02.47:752][275]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/QuestManagerF365552D4EDED9610C26A38E95D82C0C.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestManager.uasset'
+[2020.05.19-14.02.47:800][275]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.05.19-14.02.47:800][275]LogPlayLevel: PlayLevel: Blueprint regeneration took 379 ms (2 blueprints)
+[2020.05.19-14.02.47:800][275]PIE: New page: PIE session: Vicky_Test (19 May 2020 16:02:47)
+[2020.05.19-14.02.47:800][275]LogPlayLevel: Creating play world package: /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test
+[2020.05.19-14.02.47:804][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003415s)
+[2020.05.19-14.02.47:805][275]LogAIModule: Creating AISystem for world Vicky_Test
+[2020.05.19-14.02.47:805][275]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2020.05.19-14.02.47:805][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevels/Vicky_Test.Vicky_Test to /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test.Vicky_Test (0.004376s)
+[2020.05.19-14.02.47:841][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.05.19-14.02.47:884][275]LogInit: XAudio2 using 'ASUS MG28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.19-14.02.47:894][275]LogInit: FAudioDevice initialized.
+[2020.05.19-14.02.47:923][275]LogLoad: Game class is 'GM_Bee_C'
+[2020.05.19-14.02.47:926][275]LogWorld: Bringing World /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test.Vicky_Test up for play (max tick rate 0) at 2020.05.19-15.02.47
+[2020.05.19-14.02.47:927][275]LogWorld: Bringing up level for play took: 0.002107
+[2020.05.19-14.02.47:943][275]PIE: Play in editor start time for /Game/Levels/TestLevels/UEDPIE_0_Vicky_Test 1.3
+[2020.05.19-14.02.47:943][275]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-14.02.50:095][516]LogBlueprintUserMessages: [BP_QuestActor_VICKY_Temp_5] quest completed
+[2020.05.19-14.02.52:067][752]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-14.02.52:068][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-14.02.52:103][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.19-14.02.52:104][752]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test' with GeneratedClass '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test_C' with ClassGeneratedBy '/Game/Levels/TestLevels/Vicky_Test.Vicky_Test:PersistentLevel.Vicky_Test'
+[2020.05.19-14.02.52:146][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-14.02.52:151][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.05.19-14.02.52:183][753]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.05.19-14.02.52:990][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.19-14.03.14:690][359]BlueprintLog: New page: Compile QuestManager
+[2020.05.19-14.03.14:767][359]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.05.19-14.03.14:962][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.05.19-14.03.14:993][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/QuestSystem/QuestManager" FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestManager.uasset" SILENT=true
+[2020.05.19-14.03.15:023][359]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/QuestManager679C430149EE4571B1C4689BBC9A175C.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestManager.uasset'
+[2020.05.19-14.03.19:954][863]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.19-14.03.20:762][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.05.19-14.03.20:771][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevels/Vicky_Test" FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Levels/TestLevels/Vicky_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.19-14.03.20:803][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.05.19-14.03.21:028][940]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Vicky_TestDBB175884CAB0434B18823835DF6915C.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Levels/TestLevels/Vicky_Test.umap'
+[2020.05.19-14.03.21:059][940]LogFileHelpers: Saving map 'Vicky_Test' took 0.288
+[2020.05.19-14.03.24:250][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.19-14.03.33:379][279]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Blueprints/QuestSystem/QuestStructVICKY.QuestStructVICKY
+[2020.05.19-14.03.51:308][405]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Blueprints/QuestSystem/QuestDetails.QuestDetails
+[2020.05.19-14.03.53:400][648]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_QuestStructVICKY_5' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_QuestStructVICKY_5' is empty
+[2020.05.19-14.03.57:379][120]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_QuestStructVICKY_9' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_QuestStructVICKY_9' is empty
+[2020.05.19-14.04.02:208][687]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_QuestStructVICKY_13' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_QuestStructVICKY_13' is empty
+[2020.05.19-14.04.03:801][873]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_QuestStructVICKY_17' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_QuestStructVICKY_17' is empty
+[2020.05.19-14.04.06:802][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/QuestSystem/QuestDetails" FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestDetails.uasset" SILENT=true
+[2020.05.19-14.04.06:840][226]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/QuestDetailsF2A32ACD4B54E3A55E442F88F608B5D5.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestDetails.uasset'
+[2020.05.19-14.04.22:175][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.05.19-14.04.22:183][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/QuestSystem/QuestManager" FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestManager.uasset" SILENT=true
+[2020.05.19-14.04.22:242][994]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/QuestManager2651572C4BCDD8CA85653BA2DE39D06D.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestManager.uasset'
+[2020.05.19-14.04.22:248][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/QuestSystem/BP_QuestActor_VICKY" FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor_VICKY.uasset" SILENT=true
+[2020.05.19-14.04.22:386][994]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/BP_QuestActor_VICKYF8A448D24D88424A9782048371A5D712.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor_VICKY.uasset'
+[2020.05.19-14.04.22:390][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/QuestSystem/QuestStructVICKY" FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestStructVICKY.uasset" SILENT=true
+[2020.05.19-14.04.22:403][994]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/QuestStructVICKYFB2BC0B64510C1E63BA1018AEB3B732E.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestStructVICKY.uasset'
+[2020.05.19-14.04.22:463][994]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/BP_QuestActor_VICKY_Temp72B070DC4CED20B55B0AE482681C472B.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/KeyNPCs/BP_QuestActor_VICKY_Temp.uasset'
+[2020.05.19-14.04.29:163][677]LogSlate: Window 'BP_Gate' being destroyed
+[2020.05.19-14.04.29:167][677]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.19-14.04.42:435][194]LogMetaData: Removing '/Game/Blueprints/QuestSystem/depreciated_QuestStruct.depreciated_QuestStruct' ref from Metadata '/Game/Blueprints/QuestSystem/QuestStruct.PackageMetaData'
+[2020.05.19-14.04.42:435][194]LogMetaData: Removing '/Game/Blueprints/QuestSystem/depreciated_QuestStruct.depreciated_QuestStruct:IsComplete_8_A1BFF09A4E8026F83A3A2EB580377562' ref from Metadata '/Game/Blueprints/QuestSystem/QuestStruct.PackageMetaData'
+[2020.05.19-14.04.42:435][194]LogMetaData: Removing '/Game/Blueprints/QuestSystem/depreciated_QuestStruct.depreciated_QuestStruct:Type_5_C7DB3C7C4C1B472738BDE8964B12645A' ref from Metadata '/Game/Blueprints/QuestSystem/QuestStruct.PackageMetaData'
+[2020.05.19-14.04.42:435][194]LogMetaData: Removing '/Game/Blueprints/QuestSystem/depreciated_QuestStruct.depreciated_QuestStruct:ObjectiveText_2_65CB6C204281F2A214B7CB898CACDECA' ref from Metadata '/Game/Blueprints/QuestSystem/QuestStruct.PackageMetaData'
+[2020.05.19-14.04.42:456][194]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/depreciated_QuestStruct29AF536A4F7EAF417D832B8586EBA761.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/depreciated_QuestStruct.uasset'
+[2020.05.19-14.04.42:618][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.05.19-14.04.42:663][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.05.19-14.04.42:690][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.05.19-14.04.42:697][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/QuestSystem/BP_QuestActor_Base" FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor_Base.uasset" SILENT=true
+[2020.05.19-14.04.42:798][194]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/BP_QuestActor_Base759865E64AB021537998028DF1AAE0A8.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor_Base.uasset'
+[2020.05.19-14.04.46:328][604]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/depreciated_QuestStruct3676A6DB4FC9E17A27A2A4B63F06C63A.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/depreciated_QuestStruct.uasset'
+[2020.05.19-14.04.46:521][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.05.19-14.04.46:528][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/QuestSystem/BP_QuestActor_Base" FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor_Base.uasset" SILENT=true
+[2020.05.19-14.04.46:634][604]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/BP_QuestActor_Base1049851A4E078656837B89AAA95E309D.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor_Base.uasset'
+[2020.05.19-14.04.58:401][989]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.05.19-14.04.58:517][989]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Depreciated_BP_QuestActor_Base7CEE4DFC4A78DC52DCA89292745FCB3E.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/Depreciated_BP_QuestActor_Base.uasset'
+[2020.05.19-14.04.58:566][989]LogBlueprint: Error: [Compiler QuestManager] Wrong Event Dispatcher. Refresh node  Bind Event to OnObjectiveCompleted
+[2020.05.19-14.04.58:566][989]LogBlueprint: Error: [Compiler QuestManager] Wrong Event Dispatcher. Refresh node  Bind Event to OnStartNewQuest
+[2020.05.19-14.04.58:566][989]LogBlueprint: Error: [Compiler QuestManager] Wrong Event Dispatcher. Refresh node  Bind Event to OnFinishQuest
+[2020.05.19-14.04.58:566][989]LogBlueprint: Error: [Compiler QuestManager] Create Event  Signature Error: The function/event 'ObjectiveComplete' does not match the necessary signature - has the delegate or function/event changed?
+[2020.05.19-14.04.58:566][989]LogBlueprint: Error: [Compiler QuestManager] Create Event  Signature Error: The function/event 'CompleteQuest' does not match the necessary signature - has the delegate or function/event changed?
+[2020.05.19-14.04.58:566][989]LogBlueprint: Error: [Compiler QuestManager] Create Event  Signature Error: The function/event 'StartNewQuest' does not match the necessary signature - has the delegate or function/event changed?
+[2020.05.19-14.04.58:589][989]LogBlueprint: Warning: [Compiler QuestManager] [1204.18] Compile of QuestManager failed. 6 Fatal Issue(s) 0 Warning(s) [in 69 ms] (/Game/Blueprints/QuestSystem/QuestManager.QuestManager)
+[2020.05.19-14.04.58:590][989]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2020.05.19-14.04.58:749][989]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.05.19-14.04.58:802][989]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.05.19-14.04.58:835][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.05.19-14.04.58:866][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.05.19-14.04.58:897][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.05.19-14.04.58:929][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.05.19-14.04.58:959][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.05.19-14.04.58:989][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.05.19-14.04.58:990][989]LogMetaData: Removing '/Game/Blueprints/QuestSystem/Depreciated_BP_QuestActor_Base.Depreciated_BP_QuestActor_Base_C' ref from Metadata '/Game/Blueprints/QuestSystem/BP_QuestActor_Base.PackageMetaData'
+[2020.05.19-14.04.58:990][989]LogMetaData: Removing '/Game/Blueprints/QuestSystem/Depreciated_BP_QuestActor_Base.Depreciated_BP_QuestActor_Base:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/QuestSystem/BP_QuestActor_Base.PackageMetaData'
+[2020.05.19-14.04.58:990][989]LogMetaData: Removing '/Game/Blueprints/QuestSystem/Depreciated_BP_QuestActor_Base.Depreciated_BP_QuestActor_Base:StatusChange.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/QuestSystem/BP_QuestActor_Base.PackageMetaData'
+[2020.05.19-14.04.58:990][989]LogMetaData: Removing '/Game/Blueprints/QuestSystem/Depreciated_BP_QuestActor_Base.Depreciated_BP_QuestActor_Base:StatusChange.K2Node_FunctionResult_1' ref from Metadata '/Game/Blueprints/QuestSystem/BP_QuestActor_Base.PackageMetaData'
+[2020.05.19-14.04.58:990][989]LogMetaData: Removing '/Game/Blueprints/QuestSystem/Depreciated_BP_QuestActor_Base.Depreciated_BP_QuestActor_Base:CompleteQuest.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/QuestSystem/BP_QuestActor_Base.PackageMetaData'
+[2020.05.19-14.04.58:990][989]LogMetaData: Removing '/Game/Blueprints/QuestSystem/Depreciated_BP_QuestActor_Base.Depreciated_BP_QuestActor_Base:OnStartNewQuest.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/QuestSystem/BP_QuestActor_Base.PackageMetaData'
+[2020.05.19-14.04.58:990][989]LogMetaData: Removing '/Game/Blueprints/QuestSystem/Depreciated_BP_QuestActor_Base.Depreciated_BP_QuestActor_Base:OnFinishQuest.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/QuestSystem/BP_QuestActor_Base.PackageMetaData'
+[2020.05.19-14.04.58:990][989]LogMetaData: Removing '/Game/Blueprints/QuestSystem/Depreciated_BP_QuestActor_Base.Depreciated_BP_QuestActor_Base:UINewQuest.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/QuestSystem/BP_QuestActor_Base.PackageMetaData'
+[2020.05.19-14.04.58:990][989]LogMetaData: Removing '/Game/Blueprints/QuestSystem/Depreciated_BP_QuestActor_Base.Depreciated_BP_QuestActor_Base:StartObjective.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/QuestSystem/BP_QuestActor_Base.PackageMetaData'
+[2020.05.19-14.04.58:990][989]LogMetaData: Removing '/Game/Blueprints/QuestSystem/Depreciated_BP_QuestActor_Base.Depreciated_BP_QuestActor_Base:OnObjectiveCompleted.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/QuestSystem/BP_QuestActor_Base.PackageMetaData'
+[2020.05.19-14.04.58:990][989]LogMetaData: Removing '/Game/Blueprints/QuestSystem/Depreciated_BP_QuestActor_Base.Depreciated_BP_QuestActor_Base:NewObjective.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/QuestSystem/BP_QuestActor_Base.PackageMetaData'
+[2020.05.19-14.04.58:990][989]LogMetaData: Removing '/Game/Blueprints/QuestSystem/Depreciated_BP_QuestActor_Base.SKEL_Depreciated_BP_QuestActor_Base_C' ref from Metadata '/Game/Blueprints/QuestSystem/BP_QuestActor_Base.PackageMetaData'
+[2020.05.19-14.04.59:117][989]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/Depreciated_BP_QuestActor_BaseE760BA9C4D3B40F0529D96988766D87B.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/Depreciated_BP_QuestActor_Base.uasset'
+[2020.05.19-14.04.59:121][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/QuestSystem/BP_QuestActor_Base" FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor_Base.uasset" SILENT=true
+[2020.05.19-14.04.59:128][989]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/BP_QuestActor_Base8E0156C64D4820177B5C3CA2CB1388AC.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor_Base.uasset'
+[2020.05.19-14.05.12:128][521]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'DefaultSceneRoot' for 'Capsule' in BlueprintGeneratedClass 'BP_QuestActor_VICKY_Temp_C' (it may have been removed)
+[2020.05.19-14.05.12:293][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.05.19-14.05.12:301][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/QuestSystem/BP_QuestActor" FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor.uasset" SILENT=true
+[2020.05.19-14.05.12:441][521]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/BP_QuestActorAB76645241FCC611B7D6D39EAF352D5B.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor.uasset'
+[2020.05.19-14.05.12:441][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/QuestSystem/QuestManager" FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestManager.uasset" SILENT=true
+[2020.05.19-14.05.12:479][521]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/QuestManager4BBE494347794B257C17DFA61A13F8F6.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestManager.uasset'
+[2020.05.19-14.05.12:655][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.05.19-14.05.12:860][521]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.05.19-14.05.12:913][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.05.19-14.05.13:074][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.05.19-14.05.13:075][521]LogMetaData: Removing '/Game/Blueprints/QuestSystem/BP_QuestActor.BP_QuestActor_C' ref from Metadata '/Game/Blueprints/QuestSystem/BP_QuestActor_VICKY.PackageMetaData'
+[2020.05.19-14.05.13:075][521]LogMetaData: Removing '/Game/Blueprints/QuestSystem/BP_QuestActor.BP_QuestActor:SetGoalSphere.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/QuestSystem/BP_QuestActor_VICKY.PackageMetaData'
+[2020.05.19-14.05.13:075][521]LogMetaData: Removing '/Game/Blueprints/QuestSystem/BP_QuestActor.SKEL_BP_QuestActor_C' ref from Metadata '/Game/Blueprints/QuestSystem/BP_QuestActor_VICKY.PackageMetaData'
+[2020.05.19-14.05.13:091][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/QuestSystem/BP_QuestActor" FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor.uasset" SILENT=true
+[2020.05.19-14.05.13:236][521]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/BP_QuestActorC92B93A64E7B1B8464A2AC9117347FB3.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor.uasset'
+[2020.05.19-14.05.13:241][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/QuestSystem/BP_QuestActor_VICKY" FILE="E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor_VICKY.uasset" SILENT=true
+[2020.05.19-14.05.13:249][521]LogSavePackage: Moving 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Saved/BP_QuestActor_VICKY7655517E4F925F75A7693FBECB9D0C52.tmp' to 'E:/Year 3/JuniorSenior/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor_VICKY.uasset'
+[2020.05.19-14.05.16:792][929]LogMetaData: Removing '/Game/Blueprints/QuestSystem/QuestStruct.QuestStruct' ref from Metadata '/Game/Blueprints/QuestSystem/QuestStructVICKY.PackageMetaData'
+[2020.05.19-14.05.16:792][929]LogMetaData: Removing '/Game/Blueprints/QuestSystem/QuestStruct.QuestStruct:QuestDetails_15_F28855DD47BFCDE5590A31A02C002B41' ref from Metadata '/Game/Blueprints/QuestSystem/QuestStructVICKY.PackageMetaData'
+[2020.05.19-14.05.16:792][929]LogMetaData: Removing '/Game/Blueprints/QuestSystem/QuestStruct.QuestStruct:IsComplete_8_A1BFF09A4E8026F83A3A2EB580377562' ref from Metadata '/Game/Blueprints/QuestSystem/QuestStructVICKY.PackageMetaData'
+[2020.05.19-14.05.16:792][929]LogMetaData: Removing '/Game/Blueprints/QuestSystem/QuestStruct.QuestStruct:Type_5_C7DB3C7C4C1B472738BDE8964B12645A' ref from Metadata '/Game/Blueprints/QuestSystem/QuestStructVICKY.PackageMetaData'
+[2020.05.19-14.05.16:792][929]LogMetaData: Removing '/Game/Blueprints/QuestSystem/QuestStruct.QuestStruct:ObjectiveText_2_65CB6C204281F2A214B7CB898CACDECA' ref from Metadata '/Game/Blueprints/QuestSystem/QuestStructVICKY.PackageMetaData'
+[2020.05.19-14.05.16:812][929]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.19-14.05.18:225][929]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.412 s
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: 
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: Found circular redirect from /Game/Blueprints/QuestSystem/depreciated_QuestStruct.depreciated_QuestStruct to /Game/Blueprints/QuestSystem/Depreciated_QuestStruct.Depreciated_QuestStruct! Returning None instead
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: Stack: 
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffea1202690 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffea0ed4d22 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffea0ea686f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffe71ddad31 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffe71dcb0f4 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffe71d8ab33 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffe71dda9d7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffe6ec42fde UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffe6eca6f11 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffe6ecedda4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffe6ec20e4d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffe6ec03d59 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffe977db61a UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffe977aee59 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffe9780c69d UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffe9780d93d UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffe977400bd UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffe97591e66 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffe975f8dcd UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffe975ef1ce UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffeb8d8b55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffeb8d7ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffeb8d8d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffeb8d7c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffeed3b74d6 USER32.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffeed3b6ff2 USER32.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ffeb8d8e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ff7807f5d3e UE4Editor.exe!UnknownFunction []
+[2020.05.19-14.05.18:225][929]LogOutputDevice: Error: [Callstack] 0x00007ff78080554c UE4Editor.exe!UnknownFunction []
+[2020.05.19-14.05.18:226][929]LogOutputDevice: Error: [Callstack] 0x00007ff7808055ca UE4Editor.exe!UnknownFunction []
+[2020.05.19-14.05.18:226][929]LogOutputDevice: Error: [Callstack] 0x00007ff78081316c UE4Editor.exe!UnknownFunction []
+[2020.05.19-14.05.18:226][929]LogOutputDevice: Error: [Callstack] 0x00007ff780815b8e UE4Editor.exe!UnknownFunction []
+[2020.05.19-14.05.18:226][929]LogOutputDevice: Error: [Callstack] 0x00007ffeec967974 KERNEL32.DLL!UnknownFunction []
+[2020.05.19-14.05.18:226][929]LogOutputDevice: Error: [Callstack] 0x00007ffeedf9a271 ntdll.dll!UnknownFunction []
+[2020.05.19-14.05.18:226][929]LogOutputDevice: Error: 
+[2020.05.19-14.05.18:235][929]LogStats:                SubmitErrorReport -  0.000 s
