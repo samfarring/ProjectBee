@@ -1,712 +1,735 @@
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 0
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Character/I_Controls.uasset" 1
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Fonts/Baloo-Regular.uasset" 2
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Fonts/Baloo-Regular_Font.uasset" 3
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_Cloud.uasset" 4
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_logoBack.uasset" 5
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_logoFront.uasset" 6
-"../../../../../Unreal Projects/ProjectBee/Content/Widgets/W_loadingScreen.uasset" 7
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Character/PlayerController_BP.uasset" 8
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Character/I_Character.uasset" 9
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 10
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/02_-_Default.uasset" 11
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__13.uasset" 12
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_bottle_Bottle.uasset" 13
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Grabbables/Enum_Sizes.uasset" 14
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Grabbables/BP_Grabbable.uasset" 15
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Interfaces/I_Bee.uasset" 16
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Skeleton/MaleNPCTalkingStanding_EngineReady_Skeleton.uasset" 17
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleNPC_CowerEngineReady.uasset" 18
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/Male_RunFromBEE.uasset" 19
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/Male_Walk.uasset" 20
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleNPCTalkingStanding_EngineReady_Anim.uasset" 21
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/MaleNPC_IdleWalkRun_Blend.uasset" 22
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/I_Animation.uasset" 23
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Enums/E_AI_States.uasset" 24
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/AI_BB.uasset" 25
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/I_AI.uasset" 26
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tasks/BTS_GetTarget.uasset" 27
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tasks/BTS_SetCharacterSpeed.uasset" 28
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_AggressionTree.uasset" 29
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/EQS/ContextPlayer.uasset" 30
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/EQS/ChaseQuery.uasset" 31
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_ChaseTree.uasset" 32
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tasks/BTS_IsCowering.uasset" 33
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/EQS/FleeQuery.uasset" 34
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_FleeTree.uasset" 35
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/EQS/RoamQuery.uasset" 36
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_RoamTree.uasset" 37
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tasks/BTS_GetAIState.uasset" 38
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tasks/BTS_GetIsChaseable.uasset" 39
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tree/AI_BaseTree.uasset" 40
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" 41
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset" 42
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/I_Stingable.uasset" 43
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Skeleton/07_-_Default.uasset" 44
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Skeleton/07_-_Default_ncl1_1.uasset" 45
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Skeleton/07_-_Default_ncl1_2.uasset" 46
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Skeleton/07_-_Default_ncl1_3.uasset" 47
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Skeleton/MaleNPCTalkingStanding_EngineReady_PhysicsAsset.uasset" 48
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Skeleton/MaleNPCTalkingStanding_EngineReady.uasset" 49
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/BP_BackgroundAI_Base.uasset" 50
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/BP_CivilianChaseable.uasset" 51
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/ObjectiveTypes.uasset" 52
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/QuestStruct.uasset" 53
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/QuestStatus.uasset" 54
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor_Base.uasset" 55
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/I_Quest.uasset" 56
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/T_cross.uasset" 57
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/T_tick.uasset" 58
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/T_todoList.uasset" 59
-"../../../../../Unreal Projects/ProjectBee/Content/Widgets/W_todoList.uasset" 60
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/QuestManager.uasset" 61
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Materials/MapMaterial/M_MapGrassColour.uasset" 62
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/QuestMarker/T_pinHead.uasset" 63
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/QuestMarker/T_pinStem.uasset" 64
-"../../../../../Unreal Projects/ProjectBee/Content/Widgets/W_questMarkerPin.uasset" 65
-"../../../../../Unreal Projects/ProjectBee/Content/Widgets/W_objectivePopup.uasset" 66
-"../../../../../Unreal Projects/ProjectBee/Content/Widgets/W_UIManager.uasset" 67
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/ProtoBee/Meshes/FullBee.uasset" 68
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Character/BeeCharacter_BP.uasset" 69
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Checkpoint/CheckpointStatus.uasset" 70
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Checkpoint/BP_Checkpoint.uasset" 71
-"../../../../../Unreal Projects/ProjectBee/Content/BP_Checkpoint.uasset" 72
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/MaleNPC_CowerEngineReady.uasset" 73
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/ploppoopoopeepeeanimation.uasset" 74
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/Male_RunNormalOld.uasset" 75
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/Male_RunNormal.uasset" 76
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Fonts/blogger-sans_bold.uasset" 77
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Fonts/blogger-sans_bold_Font.uasset" 78
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Fonts/OptimusPrincepsSemiBold.uasset" 79
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Fonts/OptimusPrincepsSemiBold_Font.uasset" 80
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__22.uasset" 81
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_boy_lp_BootsB.uasset" 82
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 83
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 84
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 85
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 86
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_boy_lp_Cap.uasset" 87
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__24.uasset" 88
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_boy_lp_ChestB.uasset" 89
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_boy_lp_HairB.uasset" 90
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__23.uasset" 91
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_boy_lp_HeadArmsB.uasset" 92
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_boy_lp_ShortsB.uasset" 93
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/DridgeBrick_default.uasset" 94
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__36.uasset" 95
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__37.uasset" 96
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__38.uasset" 97
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_bridge_LP_Cylinder001.uasset" 98
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_dog_a_dog.uasset" 99
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Cylinder002Mat.uasset" 100
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/A_Fire_Hydrant.uasset" 101
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_man_lp_Chest.uasset" 102
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_man_lp_Feet.uasset" 103
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__26.uasset" 104
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_man_lp_Hair.uasset" 105
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_man_lp_HeadArms.uasset" 106
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_man_lp_Legs.uasset" 107
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_MetalGate_a_Gate.uasset" 108
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/MANTLE.uasset" 109
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/METAL.uasset" 110
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/A_Playground_Dome_pPlatonic1.uasset" 111
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Spikes_low_defaultMat.uasset" 112
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Spikes_low_defaultMat_ncl1_1.uasset" 113
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_shed_Shed.uasset" 114
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/07_-_Default.uasset" 115
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__41.uasset" 116
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_toiletroll_TolietRoll.uasset" 117
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_woman_lp_BootsW.uasset" 118
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_woman_lp_ChestW.uasset" 119
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_woman_lp_HairW.uasset" 120
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_woman_lp_Skirt.uasset" 121
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_WoodenBridge_a_WoodenBridge.uasset" 122
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Bottle_Bottle.uasset" 123
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/BridgeObject_Cylinder001.uasset" 124
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/01_-_Default.uasset" 125
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Clock_Clock.uasset" 126
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/default.uasset" 127
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Cloud_1_Cloud1.uasset" 128
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Cloud_2_Cloud2.uasset" 129
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Cloud_3_Cloud3.uasset" 130
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/DirectionSign_DirectionSign.uasset" 131
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__48.uasset" 132
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__49.uasset" 133
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__51.uasset" 134
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Duck_Group51048.uasset" 135
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Hamburger_Hamburger.uasset" 136
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__53.uasset" 137
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__54.uasset" 138
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/JunctionBox_JunctionBox.uasset" 139
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/PHONE_GLASS.uasset" 140
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/PHONE_RED.uasset" 141
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/PHONE_WHITE.uasset" 142
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/K2_Phonebox_pCube1.uasset" 143
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/PhoneModel_Box001.uasset" 144
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__52.uasset" 145
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__75.uasset" 146
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Portaloo_Closed_Box006.uasset" 147
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Portaloo_OpenDoor_Box004.uasset" 148
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__66.uasset" 149
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__67.uasset" 150
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/PostBox_PostBox.uasset" 151
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__39.uasset" 152
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__40.uasset" 153
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/RoundSign.uasset" 154
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__46.uasset" 155
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__47.uasset" 156
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/SewerModel.uasset" 157
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/SignPole.uasset" 158
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/StoneVase_Cylinder001.uasset" 159
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/StopSign_StopSign.uasset" 160
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/StreetFurniture-r017058i_DirectionSign.uasset" 161
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/StreetFurniture-r017058i_JunctionBox.uasset" 162
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/StreetFurniture-r017058i_PostBox.uasset" 163
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/StreetFurniture-r017058i_RoundSign.uasset" 164
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/StreetFurniture-r017058i_SignPole.uasset" 165
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/StreetFurniture-r017058i_StopSign.uasset" 166
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/StreetFurniture-r017058i_TriangleSign.uasset" 167
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/LAMP_GLASS.uasset" 168
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/LAMP_METAL.uasset" 169
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Street_Lamp_Old_pCube4.uasset" 170
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/ToiletRoll_TolietRoll.uasset" 171
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/TriangleSign_TriangleSign.uasset" 172
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/DIRT.uasset" 173
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/WOOD.uasset" 174
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Flower_Plot_2x1.uasset" 175
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Flower_Plot_lx1.uasset" 176
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/METAL.uasset" 177
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Flower_Plot_Wall_Large.uasset" 178
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Flower_Plot_Wall_Small.uasset" 179
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/BRICK.uasset" 180
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/CHIM.uasset" 181
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Front_Yard_Wall.uasset" 182
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Front_Yard_Wall_Corner_Left.uasset" 183
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Front_Yard_Wall_Corner_Right.uasset" 184
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Front_Yard_Wall_Junction.uasset" 185
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/GLASS.uasset" 186
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Greenhouse_Front.uasset" 187
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Greenhouse_Rear.uasset" 188
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Greenhouse_Section.uasset" 189
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/brass.uasset" 190
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/letterbox.uasset" 191
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Letterbox.uasset" 192
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/MANTLE.uasset" 193
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/WHEELYBIN.uasset" 194
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Wheelybin.uasset" 195
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/FRAME.uasset" 196
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/BRICK.uasset" 197
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/CHIM.uasset" 198
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/POTS.uasset" 199
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/A_Chimney_Small_3.uasset" 200
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Drains/GUTTER.uasset" 201
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Drains/A_Drain_Corner_Left.uasset" 202
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Drains/A_Drain_Corner_Right.uasset" 203
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Drains/A_Gutter_End_Left.uasset" 204
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/BRICK.uasset" 205
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/ROOF.uasset" 206
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/TRIM_ROOF.uasset" 207
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_1_Half_end_slant.uasset" 208
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Walls/BRICK.uasset" 209
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Walls/A_Wall_1x1.uasset" 210
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Walls/A_Wall_Corner_Protrusion.uasset" 211
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/PostProcess/PSX_PostProcess.uasset" 212
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/ProtoBee/Animations/Beeattack.uasset" 213
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/ProtoBee/Animations/BeeFlight.uasset" 214
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/ProtoBee/Animations/Playerbee.uasset" 215
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/ProtoBee/Animations/Playerbee_PhysicsAsset.uasset" 216
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/ProtoBee/Animations/Playerbee_Skeleton.uasset" 217
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/LUT/T_Lut_01.uasset" 218
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/LUT/T_Lut_02.uasset" 219
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/LUT/T_Lut_04.uasset" 220
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/LUT/T_Lut_05.uasset" 221
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/BP_Talking.uasset" 222
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 223
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Animations/ThirdPersonJump_End.uasset" 224
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Animations/ThirdPerson_Jump.uasset" 225
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 226
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Animations/ThirdPersonJump_Start.uasset" 227
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Animations/ThirdPersonIdle.uasset" 228
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Animations/ThirdPersonRun.uasset" 229
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Animations/ThirdPersonWalk.uasset" 230
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 231
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 232
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 233
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 234
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 235
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 236
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 237
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 238
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 239
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 240
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 241
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 242
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 243
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 244
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 245
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 246
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 247
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 248
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 249
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 250
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Mesh/SK_Mannequin.uasset" 251
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Tasks/BTT_FindRandomLocation.uasset" 252
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Dog/Skeleton/DogSitIdle_EngineReadyDog_Sit_Idle_Skeleton.uasset" 253
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Dog/Sequences/DogSitIdleAnimationDogSitIdle_EngineReady.uasset" 254
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Dog/Sequences/DogRunExportNew.uasset" 255
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Dog/Sequences/DogStandIdleAnimationDogStandIdle_EngineReady.uasset" 256
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Dog/Sequences/DogWalkExport.uasset" 257
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Dog/Dog_IdleRun.uasset" 258
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Dog/AP_Dog.uasset" 259
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Dog/Skeleton/DogPhysicsAsset.uasset" 260
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Dog/Skeleton/DogSkeletalMesh.uasset" 261
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Character/Misc/BP_DogPlayer.uasset" 262
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/GameMode/TESTFORBLOCKOUTBeeGame.uasset" 263
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 264
-"../../../Engine/Content/BasicShapes/Cone.uasset" 265
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Pickups/BasePickup_BP.uasset" 266
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Pickups/BP_PollenPickup.uasset" 267
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/MultiObjectiveQuest.uasset" 268
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/TestQuest.uasset" 269
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/TestVICKY.uasset" 270
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/KeyNPCs/NPC_1.uasset" 271
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleDanceExportNewDance.uasset" 272
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/KeyNPCs/NPC_Quest_Base.uasset" 273
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/Quests/BP_GoToLocation.uasset" 274
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/Quests/BP_Sting.uasset" 275
-"../../../../../Unreal Projects/ProjectBee/Content/Interactables/Church.uasset" 276
-"../../../../../Unreal Projects/ProjectBee/Content/Interactables/Park.uasset" 277
-"../../../../../Unreal Projects/ProjectBee/Content/Interactables/Pub.uasset" 278
-"../../../../../Unreal Projects/ProjectBee/Content/Interactables/TownMarket.uasset" 279
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/DemoLevel_BuiltData.uasset" 280
-"../../../../../Unreal Projects/ProjectBee/Content/Widgets/W_BeeUI.uasset" 281
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 282
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 283
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 284
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 285
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 286
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 287
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 288
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 289
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 290
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 291
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 292
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 293
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 294
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 295
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 296
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 297
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 298
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 299
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 300
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 301
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 302
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 303
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 304
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 305
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 306
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 307
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 308
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 309
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 310
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 311
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 312
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 313
-"../../../Engine/Content/EditorResources/S_Note.uasset" 314
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 315
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 316
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 317
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 318
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 319
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 320
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 321
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 322
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 323
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 324
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 325
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 326
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 327
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 328
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 329
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 330
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 331
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 332
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 333
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 334
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 335
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 336
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 337
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 338
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 339
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 340
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 341
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 342
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 343
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 344
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 345
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 346
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 347
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 348
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 349
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 350
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 351
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 352
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 353
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 354
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 355
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 356
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 357
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 358
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 359
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 360
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 361
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 362
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 363
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 364
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 365
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 366
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 367
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 368
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 369
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 370
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 371
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 372
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 373
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 374
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 375
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 376
-"../../../Engine/Content/EngineResources/Black.uasset" 377
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 378
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 379
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 380
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 381
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 382
-"../../../Engine/Content/EngineSounds/Master.uasset" 383
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 384
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 385
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 386
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 387
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 388
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 389
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 390
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 391
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 392
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 393
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 394
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 395
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 396
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 397
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 398
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 399
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 400
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 401
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 402
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 403
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 404
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 405
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 406
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 407
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 408
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 409
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 410
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 411
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 412
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 413
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 414
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 415
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 416
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 417
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 418
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 419
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 420
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 421
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 422
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 423
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 424
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 425
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 426
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 427
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 428
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 429
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 430
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 431
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 432
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 433
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 434
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 435
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 436
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 437
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 438
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 439
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 440
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 441
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 442
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 443
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 444
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 445
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 446
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 447
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 448
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 449
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 450
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 451
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 452
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 453
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 454
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Checkpoint/BP_BeeSave.uasset" 455
-"../../../../../Unreal Projects/ProjectBee/Content/Widgets/W_DeathScreen.uasset" 456
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Fonts/OptimusPrinceps.uasset" 457
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Fonts/OptimusPrinceps_Font.uasset" 458
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Materials/M_DeathScreen_DS_IMG.uasset" 459
-"../../../../../Unreal Projects/ProjectBee/Content/Widgets/W_DeathScreen_DS.uasset" 460
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Fonts/Russian.uasset" 461
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Fonts/Russian_Font.uasset" 462
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Materials/M_DeathScreen_MGS3_Filter.uasset" 463
-"../../../../../Unreal Projects/ProjectBee/Content/Widgets/W_DeathScreen_MGS3.uasset" 464
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Fonts/me123.uasset" 465
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Fonts/me123_Font.uasset" 466
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Materials/M_DeathScreen_MS1_Filter1.uasset" 467
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Materials/M_DeathScreen_MS1_Filter2.uasset" 468
-"../../../../../Unreal Projects/ProjectBee/Content/Widgets/W_DeathScreen_MS1.uasset" 469
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/GameMode/GM_Bee.uasset" 470
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/T_WarningRing.uasset" 471
-"../../../../../Unreal Projects/ProjectBee/Content/Widgets/W_Warning.uasset" 472
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/GameMode/WorldBorder.uasset" 473
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/LV_BlockOut_BuiltData.uasset" 474
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/T_Map2.uasset" 475
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Materials/MapMaterial/M_Map2.uasset" 476
-"../../../Engine/Content/BasicShapes/Cube.uasset" 477
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 478
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/LV_BlockOut.umap" 479
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/T_Noise.uasset" 480
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Materials/M_Water.uasset" 481
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/LUT/T_Lut_03.uasset" 482
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/PostProcess/Celshad_PostProcess.uasset" 483
-"../../../Engine/Content/BasicShapes/Plane.uasset" 484
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 485
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/L_ShaderExperiment.umap" 486
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/GameMode/I_MainMenu.uasset" 487
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Instance/I_Instance.uasset" 488
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Instance/BeeInstance.uasset" 489
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_honeyCombPlay.uasset" 490
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_honeyCombPlayHighlight.uasset" 491
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_Play.uasset" 492
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_wing.uasset" 493
-"../../../../../Unreal Projects/ProjectBee/Content/Widgets/W_MainMenuButton.uasset" 494
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_honeyCombOptions.uasset" 495
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_honeyCombOptionsHighlight.uasset" 496
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_honeyCombQuit.uasset" 497
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_honeyCombQuitHightlight.uasset" 498
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_Options.uasset" 499
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_Quit.uasset" 500
-"../../../../../Unreal Projects/ProjectBee/Content/Widgets/W_MainMenu.uasset" 501
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/GameMode/MenuGM.uasset" 502
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/brass.uasset" 503
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/HexFloor/HexTile_mesh.uasset" 504
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/HexFloor/BP_HexGrid.uasset" 505
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/L_StartScreen_DeleteLater_BuiltData.uasset" 506
-"../../../../../Unreal Projects/ProjectBee/Content/Widgets/W_Settings.uasset" 507
-"../../../../../Unreal Projects/ProjectBee/Content/Widgets/W_StartScreen.uasset" 508
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/L_StartScreen_DeleteLater.umap" 509
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/BlockOut/BaylisStream.umap" 510
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/BlockOut/BirchStream.umap" 511
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/BlockOut/InnesStream.umap" 512
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/03_-_Default.uasset" 513
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Basketball_Black.uasset" 514
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Basketball_Orange.uasset" 515
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/court_blue.uasset" 516
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/court_dark.uasset" 517
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/court_lines.uasset" 518
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/FRUT_BANANA.uasset" 519
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/FRUT_PEAR.uasset" 520
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/FRUT_PLUM.uasset" 521
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/gaz_roof.uasset" 522
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__25.uasset" 523
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__28.uasset" 524
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_ChildPlayTower_a_PlayArea.uasset" 525
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__27.uasset" 526
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Material__29.uasset" 527
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_hamburger.uasset" 528
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/a_woman_lp_HeadArmsW.uasset" 529
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Basketball_polySurface28.uasset" 530
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Basketball_polySurface29.uasset" 531
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/gazebo_polySurface86.uasset" 532
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/gaz_wood.uasset" 533
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/gazebo_polySurface89.uasset" 534
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Halfcourt_polySurface40.uasset" 535
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Halfcourt_polySurface41.uasset" 536
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Halfcourt_polySurface62.uasset" 537
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/FRUIT_CRATE.uasset" 538
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/FRUT_APPLEGREEN.uasset" 539
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/FRUT_APPLERED.uasset" 540
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/FRUT_grape.uasset" 541
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/FRUT_ORANGE.uasset" 542
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/FRUT_STEM.uasset" 543
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/FRUT_STRAWBERRY.uasset" 544
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/FRUT_STRAWBERRYgreen.uasset" 545
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/lambert1.uasset" 546
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/STALL_METAL.uasset" 547
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/STALL_ORANGE.uasset" 548
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/STALL_WOOD.uasset" 549
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Marketstall_pPlatonic104.uasset" 550
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/frame_dark.uasset" 551
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Garden_Fencing.uasset" 552
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/partybaloon_polySurface90.uasset" 553
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/partybaloon_polySurface91.uasset" 554
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/soccerball_black.uasset" 555
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Soccerball_polySurface21.uasset" 556
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/soccerball_white.uasset" 557
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Soccerball_polySurface26.uasset" 558
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/BlockOut/JamesStream.umap" 559
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/FRAME.uasset" 560
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/FRAME.uasset" 561
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Landmarks/BRICK.uasset" 562
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Landmarks/CHIM.uasset" 563
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Landmarks/FRAME.uasset" 564
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Landmarks/GLASS.uasset" 565
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Landmarks/GUTTER.uasset" 566
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Landmarks/lambert1.uasset" 567
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Landmarks/MANTLE.uasset" 568
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Landmarks/METAL.uasset" 569
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Landmarks/plaster.uasset" 570
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Landmarks/POTS.uasset" 571
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Landmarks/PUB_Title.uasset" 572
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Landmarks/ROOF.uasset" 573
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Landmarks/stone_slab.uasset" 574
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Landmarks/title.uasset" 575
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Landmarks/TRIM_ROOF.uasset" 576
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Landmarks/WOOD.uasset" 577
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Landmarks/A_Pub.uasset" 578
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Landmarks/A_Pub_Sign.uasset" 579
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_House_Lamp.uasset" 580
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/ROOF.uasset" 581
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/TRIM_ROOF.uasset" 582
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Portico.uasset" 583
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/A_Chimney_Large_1.uasset" 584
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/A_Chimney_Large_2.uasset" 585
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/A_Chimney_Small_1.uasset" 586
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/A_Chimney_Small_2.uasset" 587
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/A_Chimney_Stack_1X1.uasset" 588
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/A_Chimney_Stack_2X1.uasset" 589
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/BRICK.uasset" 590
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/GLASS.uasset" 591
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/MANTLE.uasset" 592
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/METAL.uasset" 593
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/A_Door_1.uasset" 594
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/A_Door_2.uasset" 595
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/A_Door_3.uasset" 596
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/A_Door_4.uasset" 597
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/A_Door_5.uasset" 598
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/A_Door_Garage.uasset" 599
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Drains/A_Drain_Spout.uasset" 600
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Drains/A_Drain_Vertical.uasset" 601
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Drains/A_Gutter_Drain.uasset" 602
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Drains/A_Gutter_End_Right.uasset" 603
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Drains/A_Gutter_Length.uasset" 604
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_1_Half_Slant.uasset" 605
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_2_Full_end_slant.uasset" 606
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_2_full_slant.uasset" 607
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/FRAME.uasset" 608
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/GLASS.uasset" 609
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/MANTLE.uasset" 610
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_Attic_Window.uasset" 611
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_Concave.uasset" 612
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_Convex.uasset" 613
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/METAL.uasset" 614
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_Corrugated_Slant.uasset" 615
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_Corrugated_Slant_left.uasset" 616
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_Corrugated_Slant_Right.uasset" 617
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_Tjunction.uasset" 618
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Walls/A_Wall_3x1.uasset" 619
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Walls/A_Wall_3x3.uasset" 620
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Walls/A_Wall_Attic.uasset" 621
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Walls/A_Wall_Corner_Concave.uasset" 622
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Walls/A_Wall_Corner_Convex.uasset" 623
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/BRICK.uasset" 624
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/GLASS.uasset" 625
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/MANTLE.uasset" 626
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Bay_Large.uasset" 627
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Bay_Large_Roofed.uasset" 628
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Bay_Small.uasset" 629
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Bay_Small_Roofed.uasset" 630
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/METAL.uasset" 631
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Grid_Large.uasset" 632
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Grid_Small.uasset" 633
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Modern_Horizontal.uasset" 634
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Modern_Square.uasset" 635
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Modern_Vertical.uasset" 636
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Traditional_Large.uasset" 637
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Traditional_Medium.uasset" 638
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Traditional_Round.uasset" 639
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Traditional_Small.uasset" 640
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Traditional_Vertical.uasset" 641
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/BlockOut/L_DetailedBlock.umap" 642
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/BlockOut/RyanStream.umap" 643
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/Menus/L_MainMenu_BuiltData.uasset" 644
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/Menus/L_MainMenu.umap" 645
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Skeleton/Beekeeper_Mesh_Skeleton.uasset" 646
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Sequences/BeeKeeperJumpOuttaVan_EnginerReady.uasset" 647
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleNPC_Drowning_EngineReady.uasset" 648
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Sequences/Beekeeper_Run.uasset" 649
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Sequences/Beekeeper_Walk.uasset" 650
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Skeleton/Beekeeper_Mesh_Anim.uasset" 651
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Blend_IdleWalkRun_BeeKeeper.uasset" 652
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/AP_BeeKeeper.uasset" 653
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Skeleton/Boots.uasset" 654
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Skeleton/Boots_ncl1_1.uasset" 655
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Skeleton/Boots_ncl1_2.uasset" 656
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Skeleton/Beekeeper_Mesh_PhysicsAsset.uasset" 657
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Skeleton/Beekeeper_Mesh.uasset" 658
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Swatter/Spikes_low_defaultMat.uasset" 659
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Swatter/Spikes_low_defaultMat_ncl1_1.uasset" 660
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Swatter/a_swatter.uasset" 661
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/BP_BeeKeeper.uasset" 662
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/BP_Civilian.uasset" 663
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/Character/BP_DogAI.uasset" 664
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Pickups/BP_SpeedPickup.uasset" 665
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Pickups/BP_WinePickup.uasset" 666
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Puzzles/BasePuzzle.uasset" 667
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/Puzzles/Sprinkler.uasset" 668
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/QuestDetails.uasset" 669
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/QuestStructVICKY.uasset" 670
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor_VICKY.uasset" 671
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/ShowOff/DemoLevel_BuiltData.uasset" 672
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Material__36.uasset" 673
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Material__37.uasset" 674
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Material__38.uasset" 675
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Material__39.uasset" 676
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Material__40.uasset" 677
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Material__41.uasset" 678
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Material__42.uasset" 679
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Material__43.uasset" 680
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Material__44.uasset" 681
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Van.uasset" 682
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/ShowOff/DemoLevel.umap" 683
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/AI/EQS/EQSTestPawn.uasset" 684
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/Quests/BP_NPCToLocation.uasset" 685
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AITest_BuiltData.uasset" 686
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AITest.umap" 687
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/Male_RunNormalNew.uasset" 688
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleNPCTalkingPicnic_EngineReady.uasset" 689
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleNPCYoga_EngineReady.uasset" 690
-"../../../../../Unreal Projects/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleNPCYoga_InbetweenBreathing.uasset" 691
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AnimationShowcase_BuiltData.uasset" 692
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/AnimationShowcase.umap" 693
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/L_CelShadeTest_BuiltData.uasset" 694
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 695
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/L_CelShadeTest.umap" 696
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/L_TestLevel_DeleteLater_BuiltData.uasset" 697
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/L_TestLevel_DeleteLater.umap" 698
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/GameMode/BeeGame.uasset" 699
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/MovementTest_BuiltData.uasset" 700
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/MovementTest.umap" 701
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/ThoughtBubbles/Bubble_1.uasset" 702
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/ThoughtBubbles/Bubble_2.uasset" 703
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/ThoughtBubbles/Bubble_3.uasset" 704
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/ThoughtBubbles/BP_ThoughtBubble_Parent.uasset" 705
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/KeyNPCs/BP_QuestActor_VICKY_Temp.uasset" 706
-"../../../../../Unreal Projects/ProjectBee/Content/Blueprints/QuestSystem/Quests/BP_Fetch.uasset" 707
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/Vicky_Test_BuiltData.uasset" 708
-"../../../../../Unreal Projects/ProjectBee/Content/Levels/TestLevels/Vicky_Test.umap" 709
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 710
-"../../../Engine/Content/Maps/Entry.umap" 711
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Character/I_Controls.uasset" 1
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Cameras/CameraActor.uasset" 2
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/T_WarningRing.uasset" 3
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/W_Warning.uasset" 4
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/GameMode/I_MainMenu.uasset" 5
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Fonts/Baloo-Regular.uasset" 6
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Fonts/Baloo-Regular_Font.uasset" 7
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_Cloud.uasset" 8
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_logoBack.uasset" 9
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_logoFront.uasset" 10
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/W_loadingScreen.uasset" 11
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Character/PlayerController_BP.uasset" 12
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Character/I_Character.uasset" 13
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Grabbables/Enum_Sizes.uasset" 14
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Grabbables/BP_Grabbable.uasset" 15
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Interfaces/I_Bee.uasset" 16
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 17
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 18
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 19
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 20
+"../../../Engine/Content/BasicShapes/Cone.uasset" 21
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_BasePickup.uasset" 22
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_WinePickup.uasset" 23
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/I_Pickup.uasset" 24
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_SpeedPickup.uasset" 25
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Skeleton/MaleNPCTalkingStanding_EngineReady_Skeleton.uasset" 26
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleNPC_CowerEngineReady.uasset" 27
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/Male_RunFromBEE.uasset" 28
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/Male_Walk.uasset" 29
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleIdleExportMaleIdle.uasset" 30
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/MaleNPC_IdleWalkRun_Blend.uasset" 31
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/I_Animation.uasset" 32
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/Male_StingReaction.uasset" 33
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/E_Locations.uasset" 34
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Enums/E_AI_States.uasset" 35
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/AI_BB.uasset" 36
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Tasks/BTS_CheckRange.uasset" 37
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/I_AI.uasset" 38
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Tasks/BTS_GetTarget.uasset" 39
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Tasks/BTS_SetCharacterSpeed.uasset" 40
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Tasks/BTT_Attack.uasset" 41
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Tree/AI_AggressionTree.uasset" 42
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/EQS/ContextPlayer.uasset" 43
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/EQS/ChaseQuery.uasset" 44
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Tree/AI_ChaseTree.uasset" 45
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Tasks/BTS_IsCowering.uasset" 46
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/EQS/FleeQuery.uasset" 47
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Tree/AI_FleeTree.uasset" 48
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Tasks/BTS_GetPatrolZone.uasset" 49
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Tasks/BTT_GetRandomPointInZone.uasset" 50
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Tree/AI_PatrolTree.uasset" 51
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/EQS/RoamQuery.uasset" 52
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Tree/AI_RoamTree.uasset" 53
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Tasks/BTS_GetAIState.uasset" 54
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Tasks/BTS_GetIsChaseable.uasset" 55
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Tasks/BTS_GetPatrol.uasset" 56
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Tasks/BTT_ResetGotStung.uasset" 57
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Tree/AI_BaseTree.uasset" 58
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/BP_PatrolZone.uasset" 59
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/BP_Bee_Background_Controller.uasset" 60
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/AP_MaleNPC.uasset" 61
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/I_Stingable.uasset" 62
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Skeleton/07_-_Default.uasset" 63
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Skeleton/07_-_Default_ncl1_1.uasset" 64
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Skeleton/07_-_Default_ncl1_2.uasset" 65
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Skeleton/07_-_Default_ncl1_3.uasset" 66
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Skeleton/MaleNPCTalkingStanding_EngineReady_PhysicsAsset.uasset" 67
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Skeleton/MaleNPCTalkingStanding_EngineReady.uasset" 68
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/BP_BackgroundAI_Base.uasset" 69
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/BP_CivilianChaseable.uasset" 70
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestDetails.uasset" 71
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/ObjectiveTypes.uasset" 72
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestStruct.uasset" 73
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestStatus.uasset" 74
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor.uasset" 75
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/depreciated_QuestStruct.uasset" 76
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/Depreciated_BP_QuestActor_Base.uasset" 77
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/I_Quest.uasset" 78
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/TodoList/T_cross.uasset" 79
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/TodoList/T_tick.uasset" 80
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/TodoList/T_todoList.uasset" 81
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/W_todoList.uasset" 82
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/QuestManager.uasset" 83
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/MapMaterial/M_MapGrassColour.uasset" 84
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/QuestMarker/T_pinHead.uasset" 85
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/QuestMarker/T_pinStem.uasset" 86
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/W_questMarkerPin.uasset" 87
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/HUD/W_BoostCooldown.uasset" 88
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/HUD/W_SpeedPU.uasset" 89
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/HUD/W_StingCooldown.uasset" 90
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/HUD/W_WinePU.uasset" 91
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/W_objectivePopup.uasset" 92
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/W_UIManager.uasset" 93
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/ProtoBee/Meshes/FullBee.uasset" 94
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Character/PM_Bee.uasset" 95
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Character/BeeCharacter_BP.uasset" 96
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Checkpoint/BP_BeeSave.uasset" 97
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Checkpoint/CheckpointStatus.uasset" 98
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Checkpoint/BP_Checkpoint.uasset" 99
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/BP_Checkpoint.uasset" 100
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/MaleNPC_CowerEngineReady.uasset" 101
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/ploppoopoopeepeeanimation.uasset" 102
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/Male_RunNormalOld.uasset" 103
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/Male_RunNormal.uasset" 104
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Fonts/blogger-sans_bold.uasset" 105
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Fonts/blogger-sans_bold_Font.uasset" 106
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Fonts/OptimusPrincepsSemiBold.uasset" 107
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Fonts/OptimusPrincepsSemiBold_Font.uasset" 108
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 109
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 110
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 111
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/worldWidgetUnlitTest.uasset" 112
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/ArtMaterials/M_Master.uasset" 113
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/ArtMaterials/Blue.uasset" 114
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/ArtMaterials/Cyan.uasset" 115
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/ArtMaterials/Green.uasset" 116
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 117
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/ArtMaterials/M_MasterWindy.uasset" 118
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_BinFill_LP.uasset" 119
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 120
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/a_boy_lp.uasset" 121
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/a_ChildPlayTower.uasset" 122
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/a_dog.uasset" 123
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_Flowers_LP__1_.uasset" 124
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_Flowers_LP__2_.uasset" 125
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_Flower_LP.uasset" 126
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/a_man_lp.uasset" 127
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_MetaPost_LP.uasset" 128
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_OakBush_LP.uasset" 129
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_PicnicBench_LP.uasset" 130
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_Picnic_Table.uasset" 131
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_Picnic_Table__1_.uasset" 132
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_Plane_LP.uasset" 133
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_PortaPotty_LP.uasset" 134
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_PottedTree_LP.uasset" 135
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_RoundPot_LP.uasset" 136
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/a_shed.uasset" 137
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_SmallPot_LP.uasset" 138
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_Swing.uasset" 139
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_Tree_LP.uasset" 140
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_WineGlass.uasset" 141
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/a_woman_lp.uasset" 142
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/a_WoodenBridge.uasset" 143
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Basketball.uasset" 144
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Bee.uasset" 145
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Bridge.uasset" 146
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/BridgeObject.uasset" 147
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Bush.uasset" 148
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Climbing_frame.uasset" 149
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Clock.uasset" 150
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Cloud_1.uasset" 151
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Cloud_2.uasset" 152
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Cloud_3.uasset" 153
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Duck.uasset" 154
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/gate.uasset" 155
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Halfcourt.uasset" 156
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Hamburger.uasset" 157
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/K2_Phonebox.uasset" 158
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Marketstall.uasset" 159
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/partybaloon.uasset" 160
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/PhoneModel.uasset" 161
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/pick.uasset" 162
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/PoodleUE4Import.uasset" 163
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Portaloo_Closed.uasset" 164
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Portaloo_OpenDoor.uasset" 165
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/SewerModel.uasset" 166
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/StoneVase.uasset" 167
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/StreetFurniture-r017058i.uasset" 168
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Street_Lamp_Old.uasset" 169
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/ToiletRoll.uasset" 170
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/TreesGrouped.uasset" 171
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/DIRT.uasset" 172
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/WOOD.uasset" 173
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Flower_Plot_2x1.uasset" 174
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Flower_Plot_lx1.uasset" 175
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/METAL.uasset" 176
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Flower_Plot_Wall_Large.uasset" 177
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Flower_Plot_Wall_Small.uasset" 178
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/BRICK.uasset" 179
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/CHIM.uasset" 180
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Front_Yard_Wall.uasset" 181
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Front_Yard_Wall_Corner_Left.uasset" 182
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Front_Yard_Wall_Corner_Right.uasset" 183
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Front_Yard_Wall_Junction.uasset" 184
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/GLASS.uasset" 185
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Greenhouse_Front.uasset" 186
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Greenhouse_Rear.uasset" 187
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Greenhouse_Section.uasset" 188
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/MANTLE.uasset" 189
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/WHEELYBIN.uasset" 190
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Wheelybin.uasset" 191
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/FRAME.uasset" 192
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/BRICK.uasset" 193
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/CHIM.uasset" 194
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/POTS.uasset" 195
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/A_Chimney_Small_3.uasset" 196
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Drains/GUTTER.uasset" 197
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Drains/A_Drain_Corner_Left.uasset" 198
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Drains/A_Drain_Corner_Right.uasset" 199
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Drains/A_Gutter_End_Left.uasset" 200
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/BRICK.uasset" 201
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/ROOF.uasset" 202
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/TRIM_ROOF.uasset" 203
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_1_Half_end_slant.uasset" 204
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Walls/BRICK.uasset" 205
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Walls/A_Wall_1x1.uasset" 206
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Walls/A_Wall_Corner_Protrusion.uasset" 207
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/PostProcess/PSX_PostProcess.uasset" 208
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 209
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/PostProcess/SilentHill_PostProcess.uasset" 210
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/ProtoBee/Animations/Beeattack.uasset" 211
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/ProtoBee/Animations/BeeFlight.uasset" 212
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/ProtoBee/Animations/Playerbee.uasset" 213
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/ProtoBee/Animations/Playerbee_PhysicsAsset.uasset" 214
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/ProtoBee/Animations/Playerbee_Skeleton.uasset" 215
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/LUT/T_Lut_01.uasset" 216
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/LUT/T_Lut_02.uasset" 217
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/LUT/T_Lut_04.uasset" 218
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/LUT/T_Lut_05.uasset" 219
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/PatrolZone.uasset" 220
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/BP_Talking.uasset" 221
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 222
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Animations/ThirdPersonJump_End.uasset" 223
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Animations/ThirdPerson_Jump.uasset" 224
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 225
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Animations/ThirdPersonJump_Start.uasset" 226
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Animations/ThirdPersonIdle.uasset" 227
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Animations/ThirdPersonRun.uasset" 228
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Animations/ThirdPersonWalk.uasset" 229
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 230
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 231
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 232
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 233
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 234
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 235
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 236
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 237
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 238
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 239
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 240
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 241
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 242
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 243
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 244
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 245
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 246
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 247
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 248
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 249
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/Mannequin/Character/Mesh/SK_Mannequin.uasset" 250
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Tasks/BTT_FindRandomLocation.uasset" 251
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Dog/Skeleton/DogSitIdle_EngineReadyDog_Sit_Idle_Skeleton.uasset" 252
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Dog/Sequences/DogSitIdleAnimationDogSitIdle_EngineReady.uasset" 253
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Dog/Sequences/DogRunExportNew.uasset" 254
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Dog/Sequences/DogStandIdleAnimationDogStandIdle_EngineReady.uasset" 255
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Dog/Sequences/DogWalkExport.uasset" 256
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Dog/Dog_IdleRun.uasset" 257
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Dog/AP_Dog.uasset" 258
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Dog/Skeleton/DogPhysicsAsset.uasset" 259
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Dog/Skeleton/DogSkeletalMesh.uasset" 260
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Character/Misc/BP_DogPlayer.uasset" 261
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/GameMode/TESTFORBLOCKOUTBeeGame.uasset" 262
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Skeleton/Beekeeper_Mesh_Skeleton.uasset" 263
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Sequences/BeeKeeperJumpOuttaVan_EnginerReady.uasset" 264
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Skeleton/Boots.uasset" 265
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Skeleton/Boots_ncl1_1.uasset" 266
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Skeleton/Boots_ncl1_2.uasset" 267
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Skeleton/Beekeeper_Mesh_PhysicsAsset.uasset" 268
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Skeleton/Beekeeper_Mesh.uasset" 269
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Material__36.uasset" 270
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Material__37.uasset" 271
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Material__38.uasset" 272
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Material__39.uasset" 273
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Material__40.uasset" 274
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Material__41.uasset" 275
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Material__42.uasset" 276
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Material__43.uasset" 277
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Material__44.uasset" 278
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Van/Van.uasset" 279
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/a_MetalGate1.uasset" 280
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/a_MetalGate2.uasset" 281
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/a_MetalGatePillars.uasset" 282
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Misc/BP_Gate.uasset" 283
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BasePickup_BP.uasset" 284
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_CollectiblesPickup.uasset" 285
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Pickups/BP_PollenPickup.uasset" 286
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 287
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/BP_TennisProjectile.uasset" 288
+"../../../Engine/Content/BasicShapes/Cube.uasset" 289
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/BP_ProjectileLauncher.uasset" 290
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/MultiObjectiveQuest.uasset" 291
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/TestQuest.uasset" 292
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleDanceExportNewDance.uasset" 293
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/ThoughtBubbles/Bubble_1.uasset" 294
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/ThoughtBubbles/Bubble_2.uasset" 295
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/ThoughtBubbles/Bubble_3.uasset" 296
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/ThoughtBubbles/BP_ThoughtBubble_Parent.uasset" 297
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/KeyNPCs/BP_QuestActor_NPC.uasset" 298
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/KeyNPCs/BP_QuestActor_VICKY_Temp.uasset" 299
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/Quests/Depreciated_BP_Fetch.uasset" 300
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/Quests/Depreciated_BP_GoToLocation.uasset" 301
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/Quests/Depreciated_BP_Sting.uasset" 302
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Interactables/Church.uasset" 303
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Interactables/Park.uasset" 304
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Interactables/Pub.uasset" 305
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Interactables/TownMarket.uasset" 306
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/DemoLevel_BuiltData.uasset" 307
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/AI_stateUI/T_aggro.uasset" 308
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/AI_stateUI/T_aggroGlow.uasset" 309
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/AI_stateUI/T_aggroOffScreen.uasset" 310
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/AI_stateUI/T_aggroOffScreenMarker.uasset" 311
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/AI_stateUI/T_flee.uasset" 312
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/AI_stateUI/T_question.uasset" 313
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/W_stateAIwidget.uasset" 314
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/HUD/W_BeeUI.uasset" 315
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 316
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 317
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 318
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 319
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 320
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 321
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 322
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 323
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 324
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 325
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 326
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 327
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 328
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 329
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 330
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 331
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 332
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 333
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 334
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 335
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 336
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 337
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 338
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 339
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 340
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 341
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 342
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 343
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 344
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 345
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 346
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 347
+"../../../Engine/Content/EditorResources/S_Note.uasset" 348
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 349
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 350
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 351
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 352
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 353
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 354
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 355
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 356
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 357
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 358
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 359
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 360
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 361
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 362
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 363
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 364
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 365
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 366
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 367
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 368
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 369
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 370
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 371
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 372
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 373
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 374
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 375
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 376
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 377
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 378
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 379
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 380
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 381
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 382
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 383
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 384
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 385
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 386
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 387
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 388
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 389
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 390
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 391
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 392
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 393
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 394
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 395
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 396
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 397
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 398
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 399
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 400
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 401
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 402
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 403
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 404
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 405
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 406
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 407
+"../../../Engine/Content/EngineResources/Black.uasset" 408
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 409
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 410
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 411
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 412
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 413
+"../../../Engine/Content/EngineSounds/Master.uasset" 414
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 415
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 416
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 417
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 418
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 419
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 420
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 421
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 422
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 423
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 424
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 425
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 426
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 427
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 428
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 429
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 430
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 431
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 432
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 433
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 434
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 435
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 436
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 437
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 438
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 439
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 440
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 441
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 442
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 443
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 444
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 445
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 446
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 447
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 448
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 449
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 450
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 451
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 452
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 453
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 454
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 455
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 456
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 457
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 458
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 459
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 460
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 461
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 462
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 463
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 464
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 465
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 466
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 467
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 468
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 469
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 470
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 471
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 472
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 473
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 474
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 475
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 476
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 477
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 478
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 479
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 480
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 481
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 482
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 483
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 484
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 485
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/W_DeathScreen.uasset" 486
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Fonts/OptimusPrinceps.uasset" 487
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Fonts/OptimusPrinceps_Font.uasset" 488
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/M_DeathScreen_DS_IMG.uasset" 489
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/W_DeathScreen_DS.uasset" 490
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Fonts/Russian.uasset" 491
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Fonts/Russian_Font.uasset" 492
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/M_DeathScreen_MGS3_Filter.uasset" 493
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/W_DeathScreen_MGS3.uasset" 494
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Fonts/me123.uasset" 495
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Fonts/me123_Font.uasset" 496
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/M_DeathScreen_MS1_Filter1.uasset" 497
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/M_DeathScreen_MS1_Filter2.uasset" 498
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/W_DeathScreen_MS1.uasset" 499
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/GameMode/GM_Bee.uasset" 500
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/GameMode/WorldBorder.uasset" 501
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/LV_BlockOut_BuiltData.uasset" 502
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/T_Map2.uasset" 503
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/MapMaterial/M_Map2.uasset" 504
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 505
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/LV_BlockOut.umap" 506
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/T_Noise.uasset" 507
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/M_Water.uasset" 508
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/LUT/T_Lut_03.uasset" 509
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/PostProcess/Celshad_PostProcess.uasset" 510
+"../../../Engine/Content/BasicShapes/Plane.uasset" 511
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/L_ShaderExperiment.umap" 512
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Character/BP_MenuController.uasset" 513
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Instance/I_Instance.uasset" 514
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Instance/BeeInstance.uasset" 515
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_honeyCombPlay.uasset" 516
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_honeyCombPlayHighlight.uasset" 517
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_Play.uasset" 518
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_wing.uasset" 519
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/W_MainMenuButton.uasset" 520
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_honeyCombOptions.uasset" 521
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_honeyCombOptionsHighlight.uasset" 522
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_honeyCombQuit.uasset" 523
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_honeyCombQuitHightlight.uasset" 524
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_Options.uasset" 525
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Textures/MainMenu/T_Quit.uasset" 526
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/W_MainMenu.uasset" 527
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Audio/Soundtracks/Main_Theme.uasset" 528
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Audio/Soundtracks/MainMenuCue.uasset" 529
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/GameMode/MenuGM.uasset" 530
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/brass.uasset" 531
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/HexFloor/HexTile_mesh.uasset" 532
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/HexFloor/BP_HexGrid.uasset" 533
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/L_StartScreen_DeleteLater_BuiltData.uasset" 534
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/W_Settings.uasset" 535
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Widgets/W_StartScreen.uasset" 536
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/L_StartScreen_DeleteLater.umap" 537
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/BlockOut/BaylisStream.umap" 538
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/BlockOut/BirchStream.umap" 539
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/BlockOut/InnesStream.umap" 540
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 541
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/frame_dark.uasset" 542
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Garden_Fencing.uasset" 543
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/BlockOut/JamesStream.umap" 544
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/FRAME.uasset" 545
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/FRAME.uasset" 546
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/ArtMaterials/DarkGreen.uasset" 547
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/BRICK.uasset" 548
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/CHIM.uasset" 549
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/FRAME.uasset" 550
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/GLASS.uasset" 551
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/GUTTER.uasset" 552
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/lambert1.uasset" 553
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/MANTLE.uasset" 554
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/METAL.uasset" 555
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/plaster.uasset" 556
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/POTS.uasset" 557
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/PUB_Title.uasset" 558
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/ROOF.uasset" 559
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/stone_slab.uasset" 560
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/title.uasset" 561
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/TRIM_ROOF.uasset" 562
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/WOOD.uasset" 563
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/A_Pub.uasset" 564
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/A_Pub_Sign.uasset" 565
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_House_Lamp.uasset" 566
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/ROOF.uasset" 567
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/TRIM_ROOF.uasset" 568
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Portico.uasset" 569
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/A_Chimney_Large_1.uasset" 570
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/A_Chimney_Large_2.uasset" 571
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/A_Chimney_Small_1.uasset" 572
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/A_Chimney_Small_2.uasset" 573
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/A_Chimney_Stack_1X1.uasset" 574
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Chimney/A_Chimney_Stack_2X1.uasset" 575
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/BRICK.uasset" 576
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/GLASS.uasset" 577
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/MANTLE.uasset" 578
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/METAL.uasset" 579
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/A_Door_1.uasset" 580
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/A_Door_2.uasset" 581
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/A_Door_3.uasset" 582
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/A_Door_4.uasset" 583
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/A_Door_5.uasset" 584
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Doors/A_Door_Garage.uasset" 585
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Drains/A_Drain_Spout.uasset" 586
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Drains/A_Drain_Vertical.uasset" 587
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Drains/A_Gutter_Drain.uasset" 588
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Drains/A_Gutter_End_Right.uasset" 589
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Drains/A_Gutter_Length.uasset" 590
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_1_Half_Slant.uasset" 591
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_2_Full_end_slant.uasset" 592
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_2_full_slant.uasset" 593
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/FRAME.uasset" 594
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/GLASS.uasset" 595
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/MANTLE.uasset" 596
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_Attic_Window.uasset" 597
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_Concave.uasset" 598
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_Convex.uasset" 599
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/METAL.uasset" 600
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_Corrugated_Slant.uasset" 601
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_Corrugated_Slant_left.uasset" 602
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_Corrugated_Slant_Right.uasset" 603
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Roofing/A_Roof_Tjunction.uasset" 604
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Walls/A_Wall_3x1.uasset" 605
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Walls/A_Wall_3x3.uasset" 606
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Walls/A_Wall_Attic.uasset" 607
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Walls/A_Wall_Corner_Concave.uasset" 608
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Walls/A_Wall_Corner_Convex.uasset" 609
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/BRICK.uasset" 610
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/GLASS.uasset" 611
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/MANTLE.uasset" 612
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Bay_Large.uasset" 613
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Bay_Large_Roofed.uasset" 614
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Bay_Small.uasset" 615
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Bay_Small_Roofed.uasset" 616
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/METAL.uasset" 617
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Grid_Large.uasset" 618
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Grid_Small.uasset" 619
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Modern_Horizontal.uasset" 620
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Modern_Square.uasset" 621
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Modern_Vertical.uasset" 622
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Traditional_Large.uasset" 623
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Traditional_Medium.uasset" 624
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Traditional_Round.uasset" 625
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Traditional_Small.uasset" 626
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Windows/A_Window_Traditional_Vertical.uasset" 627
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/BlockOut/L_DetailedBlock.umap" 628
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/ArtMaterials/Black.uasset" 629
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/ArtMaterials/Brown.uasset" 630
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/ArtMaterials/LightBrown.uasset" 631
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/ArtMaterials/Metal.uasset" 632
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/ArtMaterials/Orange.uasset" 633
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/ArtMaterials/Red.uasset" 634
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/ArtMaterials/White.uasset" 635
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/ArtMaterials/WoodBrown.uasset" 636
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/ArtMaterials/Yellow.uasset" 637
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Materials/ArtMaterials/Grey.uasset" 638
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_Bin_LP.uasset" 639
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_Fence_LP.uasset" 640
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_Guitar.uasset" 641
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/a_MetalGate.uasset" 642
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_MetalGates_LP.uasset" 643
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_MicStand_LP.uasset" 644
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_ParkBench_LP__1_.uasset" 645
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/footBall_goal.uasset" 646
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/gazebo.uasset" 647
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Soccerball.uasset" 648
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/BlockOut/RyanStream.umap" 649
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleNPC_Drowning_EngineReady.uasset" 650
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Sequences/Beekeeper_Run.uasset" 651
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Sequences/Beekeeper_Walk.uasset" 652
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Skeleton/Beekeeper_Mesh_Anim.uasset" 653
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Blend_IdleWalkRun_BeeKeeper.uasset" 654
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/AP_BeeKeeper.uasset" 655
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Swatter/Spikes_low_defaultMat.uasset" 656
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Swatter/Spikes_low_defaultMat_ncl1_1.uasset" 657
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Beekeeper/Skeleton/Swatter/a_swatter.uasset" 658
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/BP_BeeKeeper.uasset" 659
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/BP_Civilian.uasset" 660
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/Character/BP_DogAI.uasset" 661
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/BasePuzzle.uasset" 662
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/BP_BalloonPoppable.uasset" 663
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/Sprinkler.uasset" 664
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor_Base.uasset" 665
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/BP_QuestActor_VICKY.uasset" 666
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/Menus/L_LiveMainMenu_BuiltData.uasset" 667
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/a_hamburger.uasset" 668
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/Menus/L_LiveMainMenu.umap" 669
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/Menus/L_MainMenu_BuiltData.uasset" 670
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/Menus/L_MainMenu.umap" 671
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/ShowOff/DemoLevel_BuiltData.uasset" 672
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/ShowOff/DemoLevel.umap" 673
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/AI/EQS/EQSTestPawn.uasset" 674
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/Quests/Depreciated_BP_NPCToLocation.uasset" 675
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/QuestSystem/Quests/BP_NPCToLocation.uasset" 676
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/TestLevels/AITest_BuiltData.uasset" 677
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/TestLevels/AITest.umap" 678
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/FallingBackMaleExportFallingBackwardsMale.uasset" 679
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/Male_RunNormalNew.uasset" 680
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleFallingForwardExportMaleFallingForward.uasset" 681
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleGettingUpExportMaleGettingUp.uasset" 682
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleNPC_DrinkingSittingDown_EngineReady.uasset" 683
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleNPC_DrunkSitting_EngineReady.uasset" 684
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleNPCTalkingPicnic_EngineReady.uasset" 685
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleNPCTalkingStanding_EngineReady_Anim.uasset" 686
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleNPCYoga_EngineReady.uasset" 687
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleNPCYoga_InbetweenBreathing.uasset" 688
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/MaleSittingExportMaleSitting.uasset" 689
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Animations/Man/Sequences/PullUpExportPullUp.uasset" 690
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/TestLevels/AnimationShowcase_BuiltData.uasset" 691
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/TestLevels/AnimationShowcase.umap" 692
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/TestLevels/L_CelShadeTest_BuiltData.uasset" 693
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 694
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/TestLevels/L_CelShadeTest.umap" 695
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/TestLevels/L_TestLevel_DeleteLater_BuiltData.uasset" 696
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/TestLevels/L_TestLevel_DeleteLater.umap" 697
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/GameMode/BeeGame.uasset" 698
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/TestLevels/MovementTest_BuiltData.uasset" 699
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/TestLevels/MovementTest.umap" 700
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_BeeHive_LP.uasset" 701
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Grabbables/BP_Broken_Hive.uasset" 702
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/A_OakTree_LP.uasset" 703
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Grabbables/BP_BrokenHive_Tree.uasset" 704
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/A_Spire_Broken_Base.uasset" 705
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/LEAD.uasset" 706
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/A_Spire_Broken_Top.uasset" 707
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/A_Spire_Intact.uasset" 708
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/BP_Spire.uasset" 709
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/CLOCKFACE.uasset" 710
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/CLOCKFACE1.uasset" 711
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/GS1.uasset" 712
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/GS2.uasset" 713
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/GS3.uasset" 714
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/GS4.uasset" 715
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/GS5.uasset" 716
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/GS6.uasset" 717
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/GS7.uasset" 718
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/GS8.uasset" 719
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/metal_dark.uasset" 720
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/stone1.uasset" 721
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/stone3.uasset" 722
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/WOODDARK.uasset" 723
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Landmarks/A_Church.uasset" 724
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/BP_Church.uasset" 725
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Blueprints/Puzzles/BP_Sprinkler_Switch.uasset" 726
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/TestLevels/Vicky_Test_BuiltData.uasset" 727
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/brass.uasset" 728
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/letterbox.uasset" 729
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Bottle.uasset" 730
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/ArtAssets/Models/Modular_Building_pack_V1/Accessories/A_Letterbox.uasset" 731
+"C:/Users/samfa/Documents/GitHub/ProjectBee/Content/Levels/TestLevels/Vicky_Test.umap" 732
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 733
+"../../../Engine/Content/Maps/Entry.umap" 734
