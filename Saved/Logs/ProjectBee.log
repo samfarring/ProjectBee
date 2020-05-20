@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 05/19/20 21:22:54
+=======
+﻿Log file open, 05/20/20 02:56:43
+>>>>>>> bd4f577659e086c6da2b850dc8e23b7cdbd3c579
 =======
 ﻿Log file open, 05/20/20 02:56:43
 >>>>>>> bd4f577659e086c6da2b850dc8e23b7cdbd3c579
@@ -14,8 +18,13 @@ LogInit: Display: Running engine for game: ProjectBee
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.538865
+=======
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.409426
+>>>>>>> bd4f577659e086c6da2b850dc8e23b7cdbd3c579
 =======
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.409426
@@ -130,7 +139,11 @@ LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
 LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
 LogInit: Net CL: 5660361
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce RTX 2060 SUPER
+=======
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 2070
+>>>>>>> bd4f577659e086c6da2b850dc8e23b7cdbd3c579
 =======
 LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 2070
 >>>>>>> bd4f577659e086c6da2b850dc8e23b7cdbd3c579
@@ -140,7 +153,11 @@ LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.22
 LogInit: Command Line: 
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+=======
+LogInit: Base Directory: S:/UnrealEngine/UE_4.22/Engine/Binaries/Win64/
+>>>>>>> bd4f577659e086c6da2b850dc8e23b7cdbd3c579
 =======
 LogInit: Base Directory: S:/UnrealEngine/UE_4.22/Engine/Binaries/Win64/
 >>>>>>> bd4f577659e086c6da2b850dc8e23b7cdbd3c579
@@ -173,6 +190,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2020.05.19-20.22.55:401][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.05.19-20.22.55:401][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -2321,6 +2339,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.19-23.26.20:931][233]LogExit: Exiting.
 [2020.05.19-23.26.20:956][233]Log file closed, 05/20/20 00:26:20
 =======
+=======
+>>>>>>> bd4f577659e086c6da2b850dc8e23b7cdbd3c579
 [2020.05.20-01.56.44:068][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.05.20-01.56.44:068][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.05.20-01.56.44:068][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/samfa/Documents/GitHub/ProjectBee/Saved/Config/Windows/Engine.ini]
@@ -3431,4 +3451,7 @@ Make sure 'BP_BackgroundAI_Base_C' has been compiled for  Get stateUI
 [2020.05.20-01.58.45:755][ 47]LogModuleManager: Shutting down and abandoning module RSA (3)
 [2020.05.20-01.58.45:764][ 47]LogExit: Exiting.
 [2020.05.20-01.58.45:777][ 47]Log file closed, 05/20/20 02:58:45
+<<<<<<< HEAD
+>>>>>>> bd4f577659e086c6da2b850dc8e23b7cdbd3c579
+=======
 >>>>>>> bd4f577659e086c6da2b850dc8e23b7cdbd3c579
